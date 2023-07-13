@@ -28,5 +28,5 @@ Basic syntax for defining a class:
 	- **[[Sets]]** - `Sets` An unordered collection of elements(any primitive data type) that does no contain duplicates. 
 	- **[[Maps]]** - `Maps` List of key value pairs e.g. **Key** | United States || **Value** | Dollar
 
-### Visualforce
-Visualforce is a framework that renders HTML pages/ 
+### [[Visualforce]]
+Visualforce is a framework that renders HTML pages. 
