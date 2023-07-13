@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "1efd9dcd2bcfd219",
+    "type": "split",
+    "children": [
+      {
+        "id": "9376f6c48f5e1142",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8422cf81f7c10fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ad620901bcdb3f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e40b3c4d91bee790",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84f09f82255e9603",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ea3590a14210450",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ba73917e0718a52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.5
+  },
+  "right": {
+    "id": "fdaff6413e2567d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "08c1dee0c3340945",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7060937d5c5e0efa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fc0cd75f4a9683db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d4c80fb509c0322",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c557ac4eadf43f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "84f09f82255e9603",
+  "lastOpenFiles": [
+    "SalesForce/PD1 Notes/Apex Data Types/Lists.md",
+    "SalesForce/PD1 Notes/Apex Data Types/Primitive Data types.md",
+    "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
+    "SalesForce/PD1 Notes/Apex Data Types/Sets.md",
+    "SalesForce/PD1 Notes/Apex Data Types/Maps.md",
+    "SalesForce/PD1 Notes/Apex Data Types",
+    "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
+    "SalesForce/PD1 Notes/Development Fundamentals",
+    "SalesForce/PD1 Notes",
+    "SalesForce"
+  ]
+}
