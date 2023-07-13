@@ -29,4 +29,4 @@ class ClassName [implements InterfaceNameList] [extends ClassName]
 	- **[[Maps]]** - `Maps` List of key value pairs e.g. **Key** | United States || **Value** | Dollar
 
 ### [[Visualforce]]
-Visualforce is a tag-based markup language framework for rendering HTML pages using MVC paradigm 
+Visualforce is a tag-based markup language framework for rendering HTML pages using [[Model View Controller (MVC)|MVC]] paradigm 
