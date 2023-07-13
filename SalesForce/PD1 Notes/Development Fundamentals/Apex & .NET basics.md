@@ -31,4 +31,8 @@ class ClassName [implements InterfaceNameList] [extends ClassName]
 ### [[Visualforce]]
 Visualforce is a tag-based mark-up language framework for rendering HTML pages using [[Model View Controller (MVC)|MVC]] paradigm. Visualforce pages use standard controllers and extension controllers. standard controllers is system generated code that allows you the quickly incorporate basic Create, Read, Update, Delete (**CRUD**) functionality. extension controllers are ones you create yourself and let you give added functionality to a page. 
 
-### Apex & the Database
+### Apex & the Database(DB)
+Apex and the lightning platform are tightly coupled to the point they are sometimes indistinguishable. each standard and custom object in the DB has their own Apex class that provides standard functionality to make for quick interaction. Whenever you create a field on an object a class member is automatically surfaced to reference the values in the DB. it's also impossible to add a reference to a field on an object in apex without that field exist on that object. 
+
+### Unit tests are Required
+Salesforce requires above 75% of apex code test coverage on any org. 
