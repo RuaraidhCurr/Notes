@@ -1,0 +1,1 @@
+SOQL queries are limited by heap size and if exceeded and error occurs. 
