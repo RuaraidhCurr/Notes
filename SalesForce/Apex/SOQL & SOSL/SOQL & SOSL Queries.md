@@ -77,3 +77,8 @@ c.LastName = 'Roth';
 update c;         // This only changes the contact's last name
 update c.Account; // This updates the account name
 ```
+In the next example we will use query the related sObjects in SOQL:
+```
+Account a : [SELECT Id, Name, Contact, Contact.LastName, Contact.FirstName FROM Account WHERE Name = 'Acme];
+contact c = a.Contact;
+```
