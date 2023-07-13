@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/Apex/sObjects.md",
+                "file": "SalesForce/Apex/SObjects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/Apex/sObjects.md",
+                "file": "SalesForce/Apex/SObjects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/Apex/sObjects.md",
+                "file": "SalesForce/Apex/SObjects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/Apex/sObjects.md"
+                "file": "SalesForce/Apex/SObjects.md"
               }
             }
           },
@@ -168,7 +168,7 @@
   "active": "d37fb0a233fa842a",
   "lastOpenFiles": [
     "SalesForce/Apex/Loops/For Loops.md",
-    "SalesForce/Apex/sObjects.md",
+    "SalesForce/Apex/SObjects.md",
     "SalesForce/Apex/Loops/While Loops.md",
     "SalesForce/Apex/Loops/Do-While Loops.md",
     "SalesForce/Apex/Control Flow Statements/Switch Statements.md",
