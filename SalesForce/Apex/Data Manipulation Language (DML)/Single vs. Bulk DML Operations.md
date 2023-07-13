@@ -1,5 +1,5 @@
 Apex enables you to insert, update, delete or restore data in the database through using DML operations either one record at a time or in bulk.
-performing bulk operations on multiple [[sObjects]] as appose to multiple single records is the recommended way to avoid hitting governor limits, such as the 150 statements per Apex transaction.
+performing bulk operations on multiple [[SObjects & Objects]] as appose to multiple single records is the recommended way to avoid hitting governor limits, such as the 150 statements per Apex transaction.
 
 The following code snippet is an example of using DML calls inefficiently as if the list contains more than 150 items it will strop and return exceptions at the 151st item:
 ```

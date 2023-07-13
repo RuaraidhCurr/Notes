@@ -28,10 +28,10 @@ System.assert(mySet.contains(1));
 mySet.remove(1);
 ```
 
-## Sets of Objects 
+## Sets of [[SObjects & Objects|Objects]] 
 sets contain unique elements so if you try add two sObjects with the same name to the set with no other fields attached to set them apart, only one sObject will be added to the set. 
 
-Whereas if you were to add another field to one of the sObjects making them not identical both sObjects will be added
+Whereas if you were to add another field to one of the sObjects making them not identical both sObjects will be added.
 
 ``` apex
 // Create two accounts, a1 and a2, and add a description to a2

@@ -2,8 +2,10 @@ You can run Salesforce Object Query Language (SOQL) or Salesforce Object Search 
 
 ## SOQL Statements
 
+^869117
 
-SOQL statements returns a list of [[sObjects]](*records*), a single [[SObjects|sObject]](*record*), or and Integer for [[SOQL & SOSL Queries#^1cbe1d|count]] method queries.  
+
+SOQL statements returns a list of [[SObjects & Objects]](*records*), a single [[SObjects & Objects|sObject]](*record*), or and Integer for [[SOQL & SOSL Queries#^1cbe1d|count]] method queries.  
 Example below:
 ```apex
 List<Account> aa = [SELECT Id, Name FROM Account WHERE Name = 'Acme'];
@@ -96,7 +98,7 @@ SOQL and SOSL statements in Apex can reference Apex code variables and expressio
 - The numeric value in LIMIT clauses.
 - The numeric value in OFFSET clauses.
 
-### Accessing [[SObjects|sObject]] fields through Relationships
+### Accessing [[SObjects & Objects|sObject]] fields through Relationships
 You can access connected an sObject's related sObjects through SOQL & SOSL statements using the related sObjects type field on the sObject. For example, the Contact sObject has both an `AccountId` field of type `ID`, and an `Account` field of type `Account` that points to the associated sObject record itself.
 
 For example, the following Apex code shows how an account and a contact can be associated with one another, and then how the contact can be used to modify a field on the account:

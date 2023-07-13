@@ -22,9 +22,9 @@ Basic syntax for defining a class:
 
 ### Apex Data Types:
 - **[[Primitive Data types]]** - `Integer`, `Double`, `Date`, `Long`, `String`, `ID`, `Boolean`, `Datetime`
-- **[[SObjects|sObjects]]** - `sObject` is a generic object that you use when you're not sure what the object type is going to be.
+- **[[SObjects & Objects|sObjects]]** - `sObject` is a generic object that you use when you're not sure what the object type is going to be.
 - **collections**:
-	- **[[Lists]]**  - `List` of items, can be strings, objects, integers, [[SObjects|sObjects]]
+	- **[[Lists]]**  - `List` of items, can be strings, objects, integers, [[SObjects & Objects|sObjects]]
 	- **[[Sets]]** - `Sets` An unordered collection of elements(any primitive data type) that does no contain duplicates. 
 	- **[[Maps]]** - `Maps` List of key value pairs e.g. **Key** | United States || **Value** | Dollar
 
