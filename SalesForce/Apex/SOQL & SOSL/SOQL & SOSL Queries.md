@@ -46,3 +46,10 @@ Contact [] contacts = ((List<Contact>)searchList[1]);
 Opportunity [] opportunities = ((List<Opportunity>)searchList[2]);
 Lead [] leads = ((List<Lead>)searchList[3]);
 ```
+
+### Some pointers
+- If you try to access a field that was not selected in the SOQL or SOSL query (other than ID), you receive a runtime error. 
+- If only one sObject field is selected, a SOQL or SOSL query always returns data as complete records. Consequently, you must dereference the field in order to access it.
+
+### # Accessing sObject fields through Relationships
+You can access connected sObjects through 
