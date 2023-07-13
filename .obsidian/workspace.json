@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/Apex/Data types & Variables/Primitive Data types.md",
+                "file": "SalesForce/Apex/Data Manipulation Language (DML)/Single vs. Bulk DML Operations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/Apex/Data types & Variables/Primitive Data types.md",
+                "file": "SalesForce/Apex/Data Manipulation Language (DML)/Single vs. Bulk DML Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/Apex/Data types & Variables/Primitive Data types.md",
+                "file": "SalesForce/Apex/Data Manipulation Language (DML)/Single vs. Bulk DML Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/Apex/Data types & Variables/Primitive Data types.md"
+                "file": "SalesForce/Apex/Data Manipulation Language (DML)/Single vs. Bulk DML Operations.md"
               }
             }
           },
@@ -168,12 +167,14 @@
   },
   "active": "6bb6fe994736608b",
   "lastOpenFiles": [
-    "SalesForce/Apex/Data types & Variables/Maps.md",
-    "SalesForce/Apex/Data types & Variables/Primitive Data types.md",
-    "SalesForce/Apex/Data types & Variables/Lists.md",
     "SalesForce/Apex/SObjects.md",
-    "SalesForce/Apex/Loops/For Loops.md",
+    "SalesForce/Apex/Data Manipulation Language (DML)/Single vs. Bulk DML Operations.md",
+    "SalesForce/Apex/Data Manipulation Language (DML)",
     "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
+    "SalesForce/Apex/Loops/For Loops.md",
+    "SalesForce/Apex/Data types & Variables/Primitive Data types.md",
+    "SalesForce/Apex/Data types & Variables/Maps.md",
+    "SalesForce/Apex/Data types & Variables/Lists.md",
     "sObject.md",
     "SalesForce/Apex/Loops/While Loops.md",
     "SalesForce/Apex/Loops/Do-While Loops.md",
@@ -194,7 +195,6 @@
     "Data Types.md",
     "SalesForce/Apex",
     "SalesForce/PD1 Notes/Development Fundamentals",
-    "SalesForce/PD1 Notes",
-    "SalesForce"
+    "SalesForce/PD1 Notes"
   ]
 }
