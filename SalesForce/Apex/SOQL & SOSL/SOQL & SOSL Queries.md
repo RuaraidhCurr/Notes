@@ -51,5 +51,29 @@ Lead [] leads = ((List<Lead>)searchList[3]);
 - If you try to access a field that was not selected in the SOQL or SOSL query (other than ID), you receive a runtime error. 
 - If only one sObject field is selected, a SOQL or SOSL query always returns data as complete records. Consequently, you must dereference the field in order to access it.
 
-### # Accessing sObject fields through Relationships
-You can access connected sObjects through 
+### Accessing [[SObjects|sObject]] fields through Relationships
+You can access connected an sObject's related sObjects through SOQL & SOSL statements using the related sObjects type field on the sObject. For example, the Contact sObject has both an `AccountId` field of type `ID`, and an `Account` field of type `Account` that points to the associated sObject record itself.
+
+For example, the following Apex code shows how an account and a contact can be associated with one another, and then how the contact can be used to modify a field on the account:
+```
+Account a = new Account(Name = 'Acme');
+insert a;  // Inserting the record automatically assigns a 
+           // value to its ID field
+Contact c = new Contact(LastName = 'Weissman');
+c.AccountId = a.Id;
+// The new contact now points at the new account
+insert c;
+
+// A SOQL query accesses data for the inserted contact, 
+// including a populated c.account field
+c = [SELECT Account.Name FROM Contact WHERE Id = :c.Id];
+
+// Now fields in both records can be changed through the contact
+c.Account.Name = 'salesforce.com';
+c.LastName = 'Roth';
+
+// To update the database, the two types of records must be 
+// updated separately
+update c;         // This only changes the contact's last name
+update c.Account; // This updates the account name
+```
