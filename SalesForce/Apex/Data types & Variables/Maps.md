@@ -23,7 +23,7 @@ String value = m.get(2); // Retrieve a value, given a particular key
 System.assertEquals('Second entry', value); 
 Set<Integer> s = m.keySet(); // Return a set that contains all of the keys in the map
 ```
-Could have a map that contains ID values for the key and then mapped to an sObject) e.g.
+Could have a map that contains ID values for the key and then mapped to an [[SObjects|sObject]]) e.g.
 ```
 Map<Id, Account> accountMap = new Map<Id, Account>([SELECT Id, Name FROM Account]);
 ```

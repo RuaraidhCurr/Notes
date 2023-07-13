@@ -42,3 +42,26 @@ Account a = new Account(Name = 'Acme', BillingCity = 'San Francisco');
 
 System generated fields such as `ID`, `Created date`, `last modified by`, etc cannot be modified. 
 
+If you use the generic sObject type instead of a specific object (such as `Account` or `MyCustomerObject__c`) you can only retrieve the `ID` field using dot notation. 
+```
+Account a = new Account(Name = 'Acme', BillingCity = 'San Francisco');
+insert a;
+sObject s = [SELECT Id, Name FROM Account WHERE Name = 'Acme' LIMIT 1];
+// This is allowed
+ID id = s.Id;
+// The following line results in an error when you try to save
+String x = s.Name;
+// This line results in an error when you try to save using API version 26.0 or earlier
+s.Id = [SELECT Id FROM Account WHERE Name = 'Acme' LIMIT 1].Id;
+```
+If you want to edit an SObject, you should first convert it into a specific object. For example:
+```
+Account a = new Account(Name = 'Acme', BillingCity = 'San Francisco');
+insert a;
+sObject s = [SELECT Id, Name FROM Account WHERE Name = 'Acme' LIMIT 1];
+ID id = s.ID;
+Account convertedAccount = (Account)s;
+convertedAccount.name = 'Acme2';
+update convertedAccount;
+Contact sal = new Contact(FirstName = 'Sal', Account = convertedAccount);
+```
