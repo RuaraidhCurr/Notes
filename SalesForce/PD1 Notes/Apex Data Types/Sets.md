@@ -4,6 +4,7 @@ Sets are an unordered collection of primitive data types that does not contain a
 |---|---|---|---|
 |'San Francisco'|'New York'|'Paris'|'Tokyo'|
 | | | | |
+Sets are commonly used to store ID values becuase the value is always unique.
 
 Sets can contain a collections nested within one another, e.g. *'A set of lists of of sets of Integers'*
 

@@ -1,4 +1,4 @@
-A map is a collection of key value pairs. the key value pairs can be any combination primitive data type. 
+A map is a collection of key value pairs. the key value pairs can be any combination primitive data type. Key value must be unique.
 
 Example 
 
@@ -22,4 +22,8 @@ m.put(2, 'Second entry'); // Insert a new key-value pair in the map System.asser
 String value = m.get(2); // Retrieve a value, given a particular key 
 System.assertEquals('Second entry', value); 
 Set<Integer> s = m.keySet(); // Return a set that contains all of the keys in the map
+```
+Could have a map that contains ID values for the key and then mapped to an sObject) e.g.
+```
+Map<Id, Account> accountMap = new Map<Id, Account>([SELECT Id, Name FROM Account]);
 ```
