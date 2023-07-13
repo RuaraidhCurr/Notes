@@ -1,0 +1,1 @@
+Records in the database can be inserted and manipulated through apex directly using simple statements. These Statements as
