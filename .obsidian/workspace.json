@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/Apex/Data types & Variables/Lists.md",
+                "file": "SalesForce/Apex/Data types & Variables/Sets.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 200.5
   },
   "right": {
     "id": "fdaff6413e2567d3",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/Apex/Data types & Variables/Lists.md",
+                "file": "SalesForce/Apex/Data types & Variables/Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/Apex/Data types & Variables/Lists.md",
+                "file": "SalesForce/Apex/Data types & Variables/Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/Apex/Data types & Variables/Lists.md"
+                "file": "SalesForce/Apex/Data types & Variables/Sets.md"
               }
             }
           },
@@ -167,7 +167,10 @@
   },
   "active": "6bb6fe994736608b",
   "lastOpenFiles": [
+    "SalesForce/Apex/Data types & Variables/Lists.md",
+    "SalesForce/Apex/Data types & Variables/Maps.md",
     "SalesForce/Apex/SObjects.md",
+    "SalesForce/Apex/Data types & Variables/Sets.md",
     "SalesForce/Apex/Data Manipulation Language (DML)/Single vs. Bulk DML Operations.md",
     "SalesForce/Apex/Data Manipulation Language (DML)/Adding and Retrieving Data with DML.md",
     "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
@@ -180,8 +183,6 @@
     "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
     "SalesForce/Apex/Loops/For Loops.md",
     "SalesForce/Apex/Data types & Variables/Primitive Data types.md",
-    "SalesForce/Apex/Data types & Variables/Maps.md",
-    "SalesForce/Apex/Data types & Variables/Lists.md",
     "sObject.md",
     "SalesForce/Apex/Loops/While Loops.md",
     "SalesForce/Apex/Loops/Do-While Loops.md",
@@ -190,7 +191,6 @@
     "SalesForce/Apex/Control Flow Statements/Untitled",
     "SalesForce/Apex/Control Flow Statements/Conditional (If-Else) Statements.md",
     "SalesForce/Apex/Control Flow Statements",
-    "SalesForce/Apex/Data types & Variables/Sets.md",
     "SalesForce/Apex/Classes",
     "SalesForce/Visualforce",
     "SalesForce/Apex/Data types & Variables",
