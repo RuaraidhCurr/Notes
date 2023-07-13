@@ -2,6 +2,8 @@ Because Apex runs in a multitenant environment, the apex runtime engine strictly
 
 ## Per-Transaction Apex Limits
 
+^a78715
+
 | Description                                                                                                            | Synchronous Limit   | Asynchronous Limit                                      |
 | ---------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------- |
 | Total number of SOQL queries issued                                                                                   | 100                 | 200                                                     |
@@ -62,12 +64,57 @@ The limits in this table aren't specific to an Apex transaction; Lightning Platf
 
 ## Static Apex Limits
 
+^afd973
+
+| Description                                                                        | Limit                                                    |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Default timeout of callouts (HTTP requests or Web services calls) in a transaction | 10 seconds                                               |
+| Maximum size of callout request or response (HTTP request or Web services call)1   | 6 MB for synchronous Apex or 12 MB for asynchronous Apex |
+| Maximum SOQL query run time before Salesforce cancels the transaction              | 120 seconds                                              |
+| Maximum number of class and trigger code units in a deployment of Apex             | 7500                                                     |
+| Apex trigger batch size2                                                           | 200                                                      |
+| For loop list batch size                                                           | 200                                                      |
+| Maximum number of records returned for a Batch Apex query in Database.QueryLocator | 50 million                                               |
+
+## Size-Specific Apex Limits
+
 |Description|Limit|
 |---|---|
-|Default timeout of callouts (HTTP requests or Web services calls) in a transaction|10 seconds|
-|Maximum size of callout request or response (HTTP request or Web services call)1|6 MB for synchronous Apex or 12 MB for asynchronous Apex|
-|Maximum SOQL query run time before Salesforce cancels the transaction|120 seconds|
-|Maximum number of class and trigger code units in a deployment of Apex|7500|
-|Apex trigger batch size2|200|
-|For loop list batch size|200|
-|Maximum number of records returned for a Batch Apex query in Database.QueryLocator|50 million|
+|Maximum number of characters for a class|1 million|
+|Maximum number of characters for a trigger|1 million|
+|Maximum amount of code used by all Apex code in an org1|6 MB|
+|Method size limit2|65,535 bytecode instructions in compiled form|
+
+## Miscellaneous Apex Limits
+
+### Connect in Apex
+
+For classes in the ConnectApi namespace, every write operation costs one DML statement against the Apex governor limit. ConnectApi method calls are also subject to rate limiting. ConnectApi rate limits match Connect REST API rate limits. Both have a per user, per namespace, per hour rate limit. When you exceed the rate limit, a ConnectApi.RateLimitException is thrown. Your Apex code must catch and handle this exception.
+
+### Data.com Clean
+
+If you use the Data.com Clean product and its automated jobs, consider how you use Apex triggers. If you have Apex triggers on account, contact, or lead records that run SOQL queries, the SOQL queries can interfere with Clean jobs for those objects. Your Apex triggers (combined) must not exceed 200 SOQL queries per batch. If they do, your Clean job for that object fails. In addition, if your triggers call future methods, they’re subject to a limit of 10 future calls per batch.
+
+### Event Reports
+
+The maximum number of records that an event report returns for a user who isn’t a system administrator is 20,000; for system administrators, 100,000.
+
+### MAX_DML_ROWS limit in Apex testing
+
+The maximum number of rows that can be inserted, updated, or deleted, in a single, synchronous Apex test execution context, is limited to 450,000. For example, an Apex class can have 45 methods that insert 10,000 rows each. If the limit is reached, you see this error: Your runallTests is consuming too many DB resources.
+
+### SOQL Query Performance
+
+For best performance, SOQL queries must be selective, particularly for queries inside triggers. To avoid long execution times, the system can terminate nonselective SOQL queries. Developers receive an error message when a non-selective query in a trigger executes against an object that contains more than 200,000 records. To avoid this error, ensure that the query is selective. See [More Efficient SOQL Queries](https://developer.salesforce.com/docs/atlas.en-us.244.0.apexcode.meta/apexcode/langCon_apex_SOQL_VLSQ.htm).
+
+## Email Limits
+
+Inbound Email Limits
+
+|   |   |
+|---|---|
+|Email Services: Maximum Number of Email Messages Processed<br><br>(Includes limit for On-Demand Email-to-Case)|Number of user licenses multiplied by 1,000; maximum 1,000,000|
+|Email Services: Maximum Size of Email Message (Body and Attachments)|25 MB1|
+|On-Demand Email-to-Case: Maximum Email Attachment Size|25 MB|
+|On-Demand Email-to-Case: Maximum Number of Email Messages Processed<br><br>(Counts toward limit for Email Services)|Number of user licenses multiplied by 1,000; maximum 1,000,000|
+

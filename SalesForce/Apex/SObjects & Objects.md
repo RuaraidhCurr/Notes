@@ -28,7 +28,7 @@ we can specify initial field values when instantiating a new sObject e.g.
 Account a = new Account(name = 'Acme', billingcity = 'San Francisco');
 ```
 ### Lists of sObjects
-Lists can contain sObjects amongst other element types. You can use lists to store sObjects which is useful for bulk processing without hitting governor limits. 
+Lists can contain sObjects amongst other element types. You can use lists to store sObjects which is useful for bulk processing without hitting [[Governor Limits]]. 
 
 To declare a list of sObjects, use the `List` keyword followed by the sObject type within `<>` characters. For example:
 ```apex

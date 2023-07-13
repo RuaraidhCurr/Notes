@@ -16,7 +16,7 @@
 ## Exam Outline
 - ##### Developer Fundamentals : 23%
 	-  Understand multi-tenant concepts and design frameworks, such as [[Model View Controller (MVC)|MVC architecture]] and Lightning Component Framework.
-	- Given a scenario, identify common use cases and best practices for declarative versus programmatic customizations, including governor limits, formula fields, and roll-up summaries.
+	- Given a scenario, identify common use cases and best practices for declarative versus programmatic customizations, including [[Governor Limits]], formula fields, and roll-up summaries.
 	- Given a scenario, determine, create, and access the appropriate data model including objects, fields, relationships, and external IDs.
 	- Given a scenario, identify the options and considerations when importing and exporting data into development environments.
 - ##### Process Automation and Logic : 30%
@@ -25,7 +25,7 @@
 	- Given a scenario, use and apply Apex control flow statements.
 	- Given a scenario, write [[SOQL & SOSL Queries#^869117|SOQL]], [[SOQL & SOSL Queries#^1c251f|SOSL]], and [[Single vs. Bulk DML Operations|DML]] statements in Apex.
 	- Given a scenario, follow best practices to write Apex classes and triggers.
-	- Given a scenario, identify the implications of governor limits on Apex transactions.
+	- Given a scenario, identify the implications of [[Governor Limits]] on Apex transactions.
 	- Describe the relationship between Apex transactions, the save order of execution, and the potential for recursion and/or cascading.
 	- Implement exception handling in Apex, including custom exceptions as needed.
 	- Given a scenario, use declarative functionality and Apex together to automate business logic.
