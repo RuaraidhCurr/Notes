@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
+                "file": "SalesForce/Apex/Loops/Do-While Loops.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
+                "file": "SalesForce/Apex/Loops/Do-While Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
+                "file": "SalesForce/Apex/Loops/Do-While Loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md"
+                "file": "SalesForce/Apex/Loops/Do-While Loops.md"
               }
             }
           },
@@ -165,17 +165,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84f09f82255e9603",
+  "active": "d37fb0a233fa842a",
   "lastOpenFiles": [
-    "SalesForce/Visualforce",
-    "SalesForce/Apex/Data types/Sets.md",
+    "SalesForce/Apex/Control Flow Statements/Switch Statements.md",
+    "SalesForce/Apex/Loops/Do-While Loops.md",
+    "SalesForce/Apex/Loops",
+    "SalesForce/Apex/Control Flow Statements/Untitled",
+    "SalesForce/Apex/Control Flow Statements/Conditional (If-Else) Statements.md",
+    "SalesForce/Apex/Classes/Untitled.md",
+    "SalesForce/Apex/Control Flow Statements",
+    "SalesForce/Apex/Data types & Variables/Sets.md",
+    "SalesForce/Apex/Classes",
+    "SalesForce/Apex/Data types & Variables/Primitive Data types.md",
+    "SalesForce/Apex/Data types & Variables/Maps.md",
+    "SalesForce/Apex/Data types & Variables/Lists.md",
     "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
-    "SalesForce/Apex/Data types",
+    "SalesForce/Visualforce",
+    "SalesForce/Apex/Data types & Variables",
     "SalesForce/Visualforce/Visualforce.md",
     "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
-    "SalesForce/Apex/Data types/Maps.md",
-    "SalesForce/Apex/Data types/Lists.md",
-    "SalesForce/Apex/Data types/Primitive Data types.md",
     "Apex Data Types.md",
     "maps.md",
     "Data Types.md",
