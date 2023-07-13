@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sobject",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,14 +165,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6bb6fe994736608b",
+  "active": "84f09f82255e9603",
   "lastOpenFiles": [
     "SalesForce/Apex/SOQL & SOSL/Working with Very Large SOQL Queries.md",
     "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
+    "SalesForce/Apex/SOQL & SOSL/Polymorphic Relationships.md",
+    "SalesForce/Apex/SObjects.md",
+    "SalesForce/Apex/Classes/Untitled.md",
     "SalesForce/Apex/Data Manipulation Language (DML)/Single vs. Bulk DML Operations.md",
     "SalesForce/Apex/Data Manipulation Language (DML)/Adding and Retrieving Data with DML.md",
     "SalesForce/Apex/SOQL & SOSL",
-    "SalesForce/Apex/SObjects.md",
     "SalesForce/Apex/Data Manipulation Language (DML)",
     "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
     "SalesForce/Apex/Loops/For Loops.md",
@@ -186,7 +188,6 @@
     "SalesForce/Apex/Loops",
     "SalesForce/Apex/Control Flow Statements/Untitled",
     "SalesForce/Apex/Control Flow Statements/Conditional (If-Else) Statements.md",
-    "SalesForce/Apex/Classes/Untitled.md",
     "SalesForce/Apex/Control Flow Statements",
     "SalesForce/Apex/Data types & Variables/Sets.md",
     "SalesForce/Apex/Classes",
