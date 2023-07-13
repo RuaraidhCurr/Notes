@@ -36,7 +36,7 @@ Account[] accs = new Account[5]; // Account[] is synonymous with List<Account>
 Map<Integer, List<Account>> m4 = new Map<Integer, List<Account>>{1 => accs};
 ```
 
-When working with [[SOQL & SOSL Queries#^869117]] queries, maps can be populated from the results returned by the SOQL query. The map key must be declared with an ID String data type, and the map value must be declared as an sObject data type.
+When working with [[SOQL & SOSL Queries#^869117|SOQL]] queries, maps can be populated from the results returned by the [[SOQL & SOSL Queries#^869117|SOQL]] query. The map key must be declared with an ID String data type, and the map value must be declared as an sObject data type.
 ``` apex
 // Populate map from SOQL query
 Map<ID, Account> m = new Map<ID, Account>([SELECT Id, Name FROM Account LIMIT 10]);

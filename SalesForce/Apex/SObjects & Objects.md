@@ -10,7 +10,7 @@
 ### SObject Types
 
 Instantiating a new sObject in Apex is simple: Example below
-```
+``` apex
 Account a = new Account();
 MyCustomObject__c co = new MyCustomObject__c();
 
@@ -42,7 +42,7 @@ myList = [SELECT Id, Name FROM Account LIMIT 1000];
 ### SObject Fields
 
 As in Java, sObject fields can be accessed or changed with simple dot notation. For example:
-```
+``` apex
 Account a = new Account();
 a.Name = 'Acme';    // Access the account name field and assign it 'Acme'
 
@@ -54,7 +54,7 @@ Account a = new Account(Name = 'Acme', BillingCity = 'San Francisco');
 System generated fields such as `ID`, `Created date`, `last modified by`, etc cannot be modified. 
 
 If you use the generic sObject type instead of a specific object (such as `Account` or `MyCustomerObject__c`) you can only retrieve the `ID` field using dot notation. 
-```
+``` apex
 Account a = new Account(Name = 'Acme', BillingCity = 'San Francisco');
 insert a;
 sObject s = [SELECT Id, Name FROM Account WHERE Name = 'Acme' LIMIT 1];
@@ -66,7 +66,7 @@ String x = s.Name;
 s.Id = [SELECT Id FROM Account WHERE Name = 'Acme' LIMIT 1].Id;
 ```
 If you want to edit an SObject, you should first convert it into a specific object. For example:
-```
+``` apex
 Account a = new Account(Name = 'Acme', BillingCity = 'San Francisco');
 insert a;
 sObject s = [SELECT Id, Name FROM Account WHERE Name = 'Acme' LIMIT 1];

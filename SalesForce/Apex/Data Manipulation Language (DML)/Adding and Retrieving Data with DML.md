@@ -7,7 +7,7 @@ Account a = new Account(Name='Account Example');
 insert a;
 ```
 you can use DML to modify records that have already been inserted or already exist on the database 
-```
+``` apex
 // Query existing account.
 Account a = [SELECT Name,Industry 
                FROM Account 

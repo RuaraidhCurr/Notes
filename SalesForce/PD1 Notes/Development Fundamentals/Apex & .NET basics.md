@@ -5,13 +5,13 @@ Salesforce is a metadata driven platform. Everything from code, configurations, 
 
 ## Apex
 Basic syntax for defining a class:
-	```
-	private | public | global
-	[virtual | abstract | with sharing | without sharing]
-	class ClassName [implements InterfaceNameList] [extends ClassName]
-	{ 
-		// The body of the class 
-	})
+	``` apex
+private | public | global
+[virtual | abstract | with sharing | without sharing]
+class ClassName [implements InterfaceNameList] [extends ClassName]
+{
+    // The body of the class
+}
 	```
 ### Class Modifiers:
 - **Private** - `private` class is only known locally. (inner classes are defaulted to private)
@@ -20,7 +20,7 @@ Basic syntax for defining a class:
 - **With Sharing** - `with sharing` declares that a class runs in the current users sharing rules
 - **Without Sharing** - `without sharing` declares that the current users sharing rules are no enforce
 
-### Apex Data Types:
+### Data Types:
 - **[[Primitive Data types]]** - `Integer`, `Double`, `Date`, `Long`, `String`, `ID`, `Boolean`, `Datetime`
 - **[[SObjects & Objects|sObjects]]** - `sObject` is a generic object that you use when you're not sure what the object type is going to be.
 - **collections**:
@@ -29,4 +29,4 @@ Basic syntax for defining a class:
 	- **[[Maps]]** - `Maps` List of key value pairs e.g. **Key** | United States || **Value** | Dollar
 
 ### [[Visualforce]]
-Visualforce is a framework that renders HTML pages. 
+Visualforce is a tag-based markup language framework for rendering HTML pages using MVC paradigm 
