@@ -19,13 +19,13 @@ Basic syntax for defining a class:
 - **Global** - `global` classes are visible everywhere, all apex classes have access to them. examples would be HttpEndpoints, batch classes, schedulable apex
 - **With Sharing** - `with sharing` declares that a class runs in the current users sharing rules
 - **Without Sharing** - `without sharing` declares that the current users sharing rules are no enforced
-### Data Types:
-- **Primitive Data types** - `Integer`, `Double`, `Date`, `Long`, `String`, `ID`, `Boolean`, `Datetime`
+### Apex Data Types:
+- **[[Primitive Data types]]** - `Integer`, `Double`, `Date`, `Long`, `String`, `ID`, `Boolean`, `Datetime`
 - **sObject** - `sObject` is a generic object that you use when you're not sure what the object type is going to be.
 - **collections**:
-	- **`lists`**  - list of items, can be strings, objects, integers, sObjects
-	- **`sets`** - An unordered collection of elements(any primitive data type) that does no contain duplicates. 
-	- **`maps`** - List of key value pairs e.g. **Key** | United States || **Value** | Dollar
+	- **[[Lists]]**  - `List` of items, can be strings, objects, integers, sObjects
+	- **[[Sets]]** - `Sets` An unordered collection of elements(any primitive data type) that does no contain duplicates. 
+	- **[[Maps]]** - `Maps` List of key value pairs e.g. **Key** | United States || **Value** | Dollar
 
 
 
