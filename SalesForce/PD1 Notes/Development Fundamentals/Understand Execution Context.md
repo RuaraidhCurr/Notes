@@ -33,3 +33,7 @@ trigger TriggerName on ObjectName (trigger_events) {
 }
 ```
 
+## Working with Limits 
+The two limits you will probably be the most concerned with involve the number of SOQL queries or DML statements.
+### Common Governor Limits ran into
+Apex triggers can receive up to 200 records at once. SOQL Queries is 100 and DML statements are 150
