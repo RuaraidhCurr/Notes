@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md",
+                "file": "SalesForce/Apex/Classes/Apex Triggers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md",
+                "file": "SalesForce/Apex/Classes/Apex Triggers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md",
+                "file": "SalesForce/Apex/Classes/Apex Triggers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md"
+                "file": "SalesForce/Apex/Classes/Apex Triggers.md"
               }
             }
           },
@@ -180,8 +180,9 @@
   },
   "active": "1fad108b5bb4aae0",
   "lastOpenFiles": [
-    "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
     "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md",
+    "SalesForce/Apex/Classes/Apex Triggers.md",
+    "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
     "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
     "SalesForce/Visualforce/Model View Controller (MVC).md",
     "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
@@ -213,7 +214,6 @@
     "SalesForce/Visualforce",
     "SalesForce/Apex/Data types & Variables",
     "Apex Data Types.md",
-    "maps.md",
     "SalesForce/Apex",
     "SalesForce/PD1 Notes/Development Fundamentals"
   ]

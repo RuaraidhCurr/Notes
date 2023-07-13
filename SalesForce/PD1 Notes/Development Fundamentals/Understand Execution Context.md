@@ -3,6 +3,7 @@ In the Lightning Platform world, code executes within an execution context. *IN 
 *The apex code that you write is not always the only code that is executing*
 
 ### Methods of Invoking Apex
+To understand how this works, you need to know all the ways Apex can be executed. 
 
 | Method            | Description                                                  |
 | ----------------- | ------------------------------------------------------------ |
