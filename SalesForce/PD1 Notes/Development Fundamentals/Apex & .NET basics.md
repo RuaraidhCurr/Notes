@@ -14,10 +14,13 @@ class ClassName [implements InterfaceNameList] [extends ClassName]
 }
 	```
 ### Class Modifiers:
+
+^c54648
+
 - **Private** - `private` class is only known locally. (inner classes are defaulted to private)
 - **Public** - `public` classes are visible in your application namespace
 - **Global** - `global` classes are visible everywhere, all apex classes have access to them. examples would be HttpEndpoints, batch classes, schedulable apex
-- **With Sharing** - `with sharing` declares that a class runs in the current users sharing rules
+- **With Sharing** - `with sharing` declares that a class runs in the current users sharing/access rules
 - **Without Sharing** - `without sharing` declares that the current users sharing rules are no enforce
 
 ### Data Types:

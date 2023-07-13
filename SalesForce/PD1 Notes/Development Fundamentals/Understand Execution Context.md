@@ -14,3 +14,4 @@ To understand how this works, you need to know all the ways Apex can be executed
 | Email Services | Code that is set up to process inbound email.| 
 |           Visualforce or Lightning Pages                                                   |Visualforce controllers and Lightning components can execute Apex code automatically or when a user initiates an action, such as clicking a button. Lightning components can also be executed by Lightning processes and flows. | 
 
+By default, Apex executes in system context. Apex code has access to all objects and fields. Object permissions, field-level security, and [[Apex & .NET basics#^c54648|Sharing]] rules aren’t applied for the current user. You can use the with [[Apex & .NET basics#^c54648|Sharing]] keyword to specify that the sharing rules for the current user be taken into account for a class.
