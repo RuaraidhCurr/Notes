@@ -29,4 +29,6 @@ class ClassName [implements InterfaceNameList] [extends ClassName]
 	- **[[Maps]]** - `Maps` List of key value pairs e.g. **Key** | United States || **Value** | Dollar
 
 ### [[Visualforce]]
-Visualforce is a tag-based markup language framework for rendering HTML pages using [[Model View Controller (MVC)|MVC]] paradigm 
+Visualforce is a tag-based mark-up language framework for rendering HTML pages using [[Model View Controller (MVC)|MVC]] paradigm. Visualforce pages use standard controllers and extension controllers. standard controllers is system generated code that allows you the quickly incorporate basic Create, Read, Update, Delete (**CRUD**) functionality. extension controllers are ones you create yourself and let you give added functionality to a page. 
+
+### Apex & the Database

@@ -73,6 +73,8 @@ if (myEvent.What instanceof Account) {
 ```
 ## SOSL Statements
 
+^1c251f
+
 SOSL statements evaluate to a list of sObjects, where each list contains the search results for a particular sObject type. 
 
 For example, you can return a list of accounts, contacts, opportunities, and leads that begin with the phrase map:

@@ -11,4 +11,4 @@ a model notifies it's associated views and controller when there has been a chan
 ## View
 The View requests from the model the information that it needs to generate an output representation. 
 
-*continue learning at [[https://www.salesforcetutorial.com/model-view-controller-mvc/#:~:text=Visualforce%20uses%20the%20traditional%20model,to%20controllers%2C%20using%20Apex%20Code.]]*
+*continue learning [here](https://www.salesforcetutorial.com/model-view-controller-mvc/#:~:text=Visualforce%20uses%20the%20traditional%20model,to%20controllers%2C%20using%20Apex%20Code.)*
