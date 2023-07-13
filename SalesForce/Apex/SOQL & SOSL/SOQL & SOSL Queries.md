@@ -107,3 +107,7 @@ In the next example we will use query the related sObjects in SOQL:
 Account a : [SELECT Id, Name, Contact, Contact.LastName, Contact.FirstName FROM Account WHERE Name = 'Acme];
 contact c = a.Contact;
 ```
+
+### Improve Performance by Avoiding Null Values
+In your SOQL and SOSL queries, explicitly filtering out null values in the WHERE clause allows Salesforce to improve query performance. In the following example, any records where the Thread__c value is null are eliminated from the search: 
+
