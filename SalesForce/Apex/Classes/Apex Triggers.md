@@ -29,14 +29,17 @@ To define a trigger, use the following syntax:
 	    // Your code here
 	}
 ```
+## Context Variable Considerations
 
-- before insert
-- before update
-- before delete
-- after insert
-- after update
-- after delete
-- after undelete
+|Trigger Event|Can change fields using trigger.new|Can update original object using an update DML operation|Can delete original object using a delete DML operation|
+|---|---|---|---|
+|before insert|Allowed.|Not applicable. The original object has not been created; nothing can reference it, so nothing can update it.|Not applicable. The original object has not been created; nothing can reference it, so nothing can update it.|
+|after insert|Not allowed. A runtime error is thrown, as trigger.new is already saved.|Allowed.|Allowed, but unnecessary. The object is deleted immediately after being inserted.|
+|before update|Allowed.|Not allowed. A runtime error is thrown.|Not allowed. A runtime error is thrown.|
+|after update|Not allowed. A runtime error is thrown, as trigger.new is already saved.|Allowed. Even though bad code could cause an infinite recursion doing this incorrectly, the error would be found by the governor limits.|Allowed. The updates are saved before the object is deleted, so if the object is undeleted, the updates become visible.|
+|before delete|Not allowed. A runtime error is thrown. trigger.new is not available in before delete triggers.|Allowed. The updates are saved before the object is deleted, so if the object is undeleted, the updates become visible.|Not allowed. A runtime error is thrown. The deletion is already in progress.|
+|after delete|Not allowed. A runtime error is thrown. trigger.new is not available in after delete triggers.|Not applicable. The object has already been deleted.|Not applicable. The object has already been deleted.|
+|after undelete|Not allowed. A runtime error is thrown.|Allowed.|Allowed, but unnecessary. The object is deleted immediately after being inserted.|
 
 ## Trigger Context Variables
 All triggers define implicit variables that allow developers to access run-time context. These variables are contained in the System.Trigger class.
@@ -57,10 +60,33 @@ All triggers define implicit variables that allow developers to access run-time 
 |operationType|Returns an enum of type System.TriggerOperation corresponding to the current operation.<br><br>Possible values of the System.TriggerOperation enum are: BEFORE_INSERT, BEFORE_UPDATE, BEFORE_DELETE, AFTER_INSERT, <br/>AFTER_UPDATE, AFTER_DELETE, and AFTER_UNDELETE. <br/>If you vary your programming logic based on different trigger types, consider using the switch statement with different permutations of unique trigger execution enum states.|
 |size|The total number of records in a trigger invocation, both old and new.|
 
-Note
+```note
 
 The record firing a trigger can include an invalid field value, such as a formula that divides by zero. In this case, the field value is set to null in these variables:
+
 - new
 - newMap
 - old
 - oldMap
+```
+e.g
+```apex
+Trigger simpleTrigger on Account (before delete, before insert, before update, after delete, after insert, after update) {
+	if (Trigger.isBefore) { 
+		if (Trigger.isDelete) {
+		// do somehthing
+		}
+		else{
+		// do something
+		}
+	}
+	if (Trigger.isUpdate) {
+	    for (Account a : Trigger.new) {
+	        // Iterate over each sObject
+	    }
+	    Contact[] cons = [SELECT LastName FROM Contact
+	                      WHERE AccountId IN :Trigger.new];
+	}
+}
+```
+
