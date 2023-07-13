@@ -19,3 +19,17 @@ for (Account a : [SELECT Id, Name from Account
     // Your code
 }
 ```
+The following example combines creating a list from a SOQL query, with the [[Adding and Retrieving Data with DML|DML]] update method.
+
+```apex
+// Create a list of account records from a SOQL query
+List<Account> accs = [SELECT Id, Name FROM Account WHERE Name = 'Siebel']; 
+
+// Loop through the list and update the Name field
+for(Account a : accs){
+   a.Name = 'Oracle';
+}
+
+// Update the database
+update accs;
+```
