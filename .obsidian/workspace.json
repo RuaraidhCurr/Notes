@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
+                "file": "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
+                "file": "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
+                "file": "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md"
+                "file": "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "1fad108b5bb4aae0",
   "lastOpenFiles": [
-    "SalesForce/Visualforce/Visualforce.md",
     "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
+    "SalesForce/Visualforce/Visualforce.md",
     "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
     "SalesForce/Visualforce/Model View Controller (MVC).md",
     "SalesForce/Apex/SObjects & Objects.md",
