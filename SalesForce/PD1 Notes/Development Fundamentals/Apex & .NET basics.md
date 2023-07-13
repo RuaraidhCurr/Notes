@@ -32,7 +32,22 @@ class ClassName [implements InterfaceNameList] [extends ClassName]
 Visualforce is a tag-based mark-up language framework for rendering HTML pages using [[Model View Controller (MVC)|MVC]] paradigm. Visualforce pages use standard controllers and extension controllers. standard controllers is system generated code that allows you the quickly incorporate basic Create, Read, Update, Delete (**CRUD**) functionality. extension controllers are ones you create yourself and let you give added functionality to a page. 
 
 ### Apex & the Database(DB)
-Apex and the lightning platform are tightly coupled to the point they are sometimes indistinguishable. each standard and custom object in the DB has their own Apex class that provides standard functionality to make for quick interaction. Whenever you create a field on an object a class member is automatically surfaced to reference the values in the DB. it's also impossible to add a reference to a field on an object in apex without that field exist on that object. 
+Apex and the lightning platform are tightly coupled to the point they are sometimes indistinguishable. each standard and custom object in the DB has their own Apex class that provides standard functionality to make for quick interaction. Whenever you create a field on an object a class member is automatically surfaced to reference the values in the DB. it's also impossible to add a reference to a field on an object in apex without that field exist on that object. The platform works hard to make sure that the database schema and your code doesn't come out of sync.
 
 ### Unit tests are Required
 Salesforce requires above 75% of apex code test coverage on any org. 
+
+### No Solution, Project, or Config Files
+the lightning platform has no such thins as a soliton or project file. You can create an application, but it's not the same as creating a .NET application or assembly. An App on the lightning platform is a collection of tabs, reports, dashboards and pages (several of which come built into your salesforce org). Apps can be purchased on the AppExchange. 
+
+All your code resides and is executed in the cloud automatically. 
+
+### Development Tools
+- Developer Console Application
+- VS Code
+- Salesforce DX (SFDX)
+
+
+### Handling Security
+no Authentication, passwords and database connection strings. ID is handled  by the platform and access can be controlled from different levels, including object level, record level, field level. 
+
