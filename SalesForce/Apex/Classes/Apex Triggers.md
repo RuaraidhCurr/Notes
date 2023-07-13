@@ -16,6 +16,8 @@ All triggers are Bulk Triggers by default, as they can process multiple records 
 
 ## Trigger Syntax 
 
+^e0a31a
+
 To define a trigger, use the following syntax:
 
 ```apex
@@ -30,6 +32,8 @@ To define a trigger, use the following syntax:
 	}
 ```
 ## Context Variable Considerations
+
+^fcefe2
 
 |Trigger Event|Can change fields using trigger.new|Can update original object using an update DML operation|Can delete original object using a delete DML operation|
 |---|---|---|---|

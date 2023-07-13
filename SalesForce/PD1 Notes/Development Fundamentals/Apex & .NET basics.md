@@ -21,7 +21,7 @@ class ClassName [implements InterfaceNameList] [extends ClassName]
 - **Public** - `public` classes are visible in your application namespace
 - **Global** - `global` classes are visible everywhere, all apex classes have access to them. examples would be HttpEndpoints, batch classes, schedulable apex
 - **With Sharing** - `with sharing` declares that a class runs in the current users sharing/access rules
-- **Without Sharing** - `without sharing` declares that the current users sharing rules are no enforce
+- **Without Sharing** - `without sharing` declares that the current users sharing/access rules are not enforce
 
 ### Data Types:
 - **[[Primitive Data types]]** - `Integer`, `Double`, `Date`, `Long`, `String`, `ID`, `Boolean`, `Datetime`

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
+                "file": "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -37,12 +37,17 @@
             "id": "1fad108b5bb4aae0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
+                "file": "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
+                "file": "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md"
+                "file": "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md"
               }
             }
           },
@@ -187,14 +191,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "feae56f03ca6887a",
+  "active": "1fad108b5bb4aae0",
   "lastOpenFiles": [
+    "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
     "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md",
     "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
+    "SalesForce/Visualforce/Model View Controller (MVC).md",
+    "SalesForce/Apex/Classes/Untitled.md",
+    "basic trigger syntax.md",
     "Apex & .NET basics^w.md",
     "SalesForce/Apex/Classes/Apex Triggers.md",
-    "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
-    "SalesForce/Visualforce/Model View Controller (MVC).md",
     "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
     "SalesForce/Visualforce/Visualforce.md",
     "SalesForce/Apex/SObjects & Objects.md",
@@ -210,13 +216,11 @@
     "SalesForce/Apex/SOQL & SOSL/SOQL For Loops.md",
     "SalesForce/Apex/SOQL & SOSL/Working with Very Large SOQL Queries.md",
     "SalesForce/Apex/SOQL & SOSL/Polymorphic Relationships.md",
-    "SalesForce/Apex/Classes/Untitled.md",
     "SalesForce/Apex/SOQL & SOSL",
     "SalesForce/Apex/Data Manipulation Language (DML)",
     "SalesForce/Apex/Loops/For Loops.md",
     "sObject.md",
     "SalesForce/Apex/Loops/While Loops.md",
-    "SalesForce/Apex/Loops/Do-While Loops.md",
     "SalesForce/Apex/Loops",
     "SalesForce/Apex/Control Flow Statements/Untitled",
     "SalesForce/Apex/Control Flow Statements",
