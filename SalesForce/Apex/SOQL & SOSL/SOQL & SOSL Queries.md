@@ -87,9 +87,14 @@ Lead [] leads = ((List<Lead>)searchList[3]);
 
 ## Additional Information
 
-### Some pointers
-- If you try to access a field that was not selected in the SOQL or SOSL query (other than ID), you receive a runtime error. 
-- If only one sObject field is selected, a SOQL or SOSL query always returns data as complete records. Consequently, you must dereference the field in order to access it.
+### Using Apex Variables in SOQL and SOSL Queries
+SOQL and SOSL statements in Apex can reference Apex code variables and expressions if they’re preceded by a colon (:)
+- The search string in FIND clauses.
+- The filter literals in WHERE clauses.
+- The value of the IN or NOT IN operator in WHERE clauses, allowing filtering on a dynamic set of values. Note that this is of particular use with a list of IDs or Strings, though it works with lists of any type.
+- The division names in WITH DIVISION clauses.
+- The numeric value in LIMIT clauses.
+- The numeric value in OFFSET clauses.
 
 ### Accessing [[SObjects|sObject]] fields through Relationships
 You can access connected an sObject's related sObjects through SOQL & SOSL statements using the related sObjects type field on the sObject. For example, the Contact sObject has both an `AccountId` field of type `ID`, and an `Account` field of type `Account` that points to the associated sObject record itself.
@@ -128,3 +133,7 @@ In your SOQL and SOSL queries, explicitly filtering out null values in the WHERE
 ```apex
 [SELECT Name FROM CSO_CaseThread_Tag__c WHERE Thread__c = :ID AND Thread__c != null]
 ```
+
+### Some pointers
+- If you try to access a field that was not selected in the SOQL or SOSL query (other than ID), you receive a runtime error. 
+- If only one sObject field is selected, a SOQL or SOSL query always returns data as complete records. Consequently, you must dereference the field in order to access it.

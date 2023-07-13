@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
+                "file": "SalesForce/Apex/SOQL & SOSL/SOQL For Loops.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
+                "file": "SalesForce/Apex/SOQL & SOSL/SOQL For Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
+                "file": "SalesForce/Apex/SOQL & SOSL/SOQL For Loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md"
+                "file": "SalesForce/Apex/SOQL & SOSL/SOQL For Loops.md"
               }
             }
           },
@@ -165,9 +165,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84f09f82255e9603",
+  "active": "6bb6fe994736608b",
   "lastOpenFiles": [
     "SalesForce/Apex/SOQL & SOSL/Working with Very Large SOQL Queries.md",
+    "SalesForce/Apex/SOQL & SOSL/SOQL For Loops.md",
     "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
     "SalesForce/Apex/SOQL & SOSL/Polymorphic Relationships.md",
     "SalesForce/Apex/SObjects.md",
