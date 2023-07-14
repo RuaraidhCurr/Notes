@@ -22,4 +22,4 @@ for (variable_list : [soql_query]) {
     code_block
 }
 ```
-Both `variable` and `variable_list` must be of the same [[`sObject`]] type as is returned by the `soql_query`.
+Both `variable` and `variable_list` must be of the same [[SObjects & Objects|`sObject`]] type as is returned by the `soql_query`.
