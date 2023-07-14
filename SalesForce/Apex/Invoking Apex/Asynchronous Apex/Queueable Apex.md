@@ -137,13 +137,34 @@ The execution of one job counts against the shared limit for asynchronous Apex m
 
 ### Transaction Finalizers
 Transaction finalizers enables you to attach actions, with the `System.Finalizer` interface, to apex jobs using the queueable framework and are designed to specify specific actions when a queueable job succeeds or fails. e.g.
-- Poll the status of AsyncApexJob using a SOQL query and re-enqueue the job if it fails
-- Fire BatchApexErrorEvents when a batch Apex method encounters an unhandled exception
+- Poll the status of `AsyncApexJob` using a [[SOQL & SOSL Queries|SOQL query]] and re-enqueue the job if it fails
+- Fire `BatchApexErrorEvents` when a [[batch Apex]] method encounters an unhandled exception
 
 A Queueable job that failed due to an unhandled exception can be successively re-enqueued five times by a transaction finalizer.
 
-The System.Finalizer interface includes the execute method:
+The `System.Finalizer` interface includes the execute method:
 ```apex
 global void execute(System.FinalizerContext ctx) {}
 ```
 
+The `System.FinalizerContext` Interface contains four methods
+- `getAsyncApexJobId` method:
+``` apex
+global Id getAsyncApexJobId {}
+```
+Returns the ID of the Queueable job
+- `getRequestId` method:
+```apex
+global String getRequestId {}
+```
+Returns the request ID, the unique string that identifies the request and can be used with the Event Monitoring logs
+- `getResult` Method:
+```apex
+global System.ParentJobResult getResult {}
+```
+Returns the parent asynchronous apex queueable job which the finalizer is attached. Values: `SUCCESS`, `UNHANDLED_EXCEPTION`. 
+- `getException` method:
+```apex
+global System.Exception getException {}
+```
+Returns exceptions when the job fails. e.g. when `getResults` is `UNHANDLED_EXCEPTION`.
