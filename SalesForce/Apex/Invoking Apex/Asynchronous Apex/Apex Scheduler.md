@@ -66,3 +66,5 @@ CronJobDetail ctd =
     [SELECT Id, Name, JobType 
     FROM CronJobDetail WHERE Id = :job.CronJobDetail.Id];
 ```
+
+## Testing Apex Scheduler
