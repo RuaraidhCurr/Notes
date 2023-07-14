@@ -144,7 +144,7 @@ The `System.scheduleBatch` takes the following parameters:
 2. The job name
 3. The time internal, in minutes, after which the job starts executing
 4. An optional scope value. The number of records to pass into the `execute` method.
-e.g. the example passes the method an instance of a batch class `reassign`,  job name `job `
+e.g. the example passes the method an instance of a batch class `reassign`,  job name `job example`, time interval of `60` minutes.
 ```apex
 String cronID = System.scheduleBatch(reassign, 'job example', 60);
 
@@ -156,4 +156,77 @@ System.assertEquals(0, ct.TimesTriggered);
 System.debug('Next fire time: ' + ct.NextFireTime); 
 // For example:
 // Next fire time: 2013-06-03 13:31:23
+```
+
+## Batch Apex Examples
+
+The following example uses a Database.QueryLocator:
+```apex
+public class UpdateAccountFields implements Database.Batchable<sObject>{
+   public final String Query;
+   public final String Entity;
+   public final String Field;
+   public final String Value;
+
+   public UpdateAccountFields(String q, String e, String f, String v){
+             Query=q; Entity=e; Field=f;Value=v;
+   }
+
+   public Database.QueryLocator start(Database.BatchableContext BC){
+      return Database.getQueryLocator(query);
+   }
+
+   public void execute(Database.BatchableContext BC, 
+                       List<sObject> scope){
+      for(Sobject s : scope){s.put(Field,Value); 
+      }      update scope;
+   }
+
+   public void finish(Database.BatchableContext BC){
+   }
+}
+```
+You can use the following code to call the previous class.
+```apex
+// Query for 10 accounts
+String q = 'SELECT Industry FROM Account LIMIT 10';
+String e = 'Account';
+String f = 'Industry';
+String v = 'Consulting';
+Id batchInstanceId = Database.executeBatch(new UpdateAccountFields(q,e,f,v), 5);
+```
+
+The following is an example of a batch Apex class for deleting records.
+```apex
+public class BatchDelete implements Database.Batchable<sObject> {
+   public String query;
+
+   public Database.QueryLocator start(Database.BatchableContext BC){
+      return Database.getQueryLocator(query);
+   }
+
+   public void execute(Database.BatchableContext BC, List<sObject> scope){
+      delete scope;
+      DataBase.emptyRecycleBin(scope);
+   }
+
+   public void finish(Database.BatchableContext BC){
+   }
+}
+```
+This code calls the BatchDelete batch Apex class to delete old documents. The query selects all documents that are in a specified folder and that are older than a specified date to be deleted. 
+```apex
+BatchDelete BDel = new BatchDelete();
+Datetime d = Datetime.now();
+d = d.addDays(-1);
+// Replace this value with the folder ID that contains
+// the documents to delete.
+String folderId = '00lD000000116lD';
+// Query for selecting the documents to delete
+BDel.query = 'SELECT Id FROM Document WHERE FolderId=\'' + folderId + 
+    '\' AND CreatedDate < '+d.format('yyyy-MM-dd')+'T'+
+    d.format('HH:mm')+':00.000Z';
+// Invoke the batch job.
+ID batchprocessid = Database.executeBatch(BDel);
+System.debug('Returned batch process ID: ' + batchProcessId);
 ```
