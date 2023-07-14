@@ -99,7 +99,7 @@ public class FibonacciDepthQueueable implements Queueable {
 
 ##### Testing Queueable Jobs
 To ensure that this process runs within the test method, the job is submitted to the queue between the `Test.startTest` and `Test.stopTest` block. The system executes all asynchronous processes started in a test method synchronously after the `Test.stopTest` statement. Next, the test method verifies the results of the queueable job by querying the account that the job created.
-```
+``` apex
 @isTest
 public class AsyncExecutionExampleTest {
     static testmethod void test1() {
@@ -116,4 +116,24 @@ public class AsyncExecutionExampleTest {
 }
 ```
 
-#####Qu
+##### Chaining Jobs
+To chain jobs together use the `execute()` method. You can only chain one job from an executing job. (one child job can exist for each parent job *-1to1 ratio-*) 
+``` apex
+public class AsyncExecutionExample implements Queueable {
+    public void execute(QueueableContext context) {
+        // Your processing logic here       
+
+        // Chain this job to next job by submitting the next job
+        System.enqueueJob(new SecondJob());
+    }
+}
+```
+
+### Queueable Apex Limits
+The execution of one job counts against the shared limit for asynchronous Apex methods. [[Governor Limits]]*
+	- You can add up to 50 jobs to the queue with `System.enqueueJob` in a single transaction. In asynchronous transactions (for example, from a batch Apex job), you can add only one job to the queue with `System.enqueueJob`.
+	- Because no limit is enforced on the depth of chained jobs, you can chain one job to another. You can repeat this process with each new child job to link it to a new child job.
+	- When chaining jobs with `System.enqueueJob`, you can add only one job from an executing job.
+
+### Transaction Finalizers
+Transaction finalizers enables you to attach actions, with the `System.Finalizer` interface, to apex jobs using the queueable framwork and are dsigned to recover actions when a queueable jo
