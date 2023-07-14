@@ -42,4 +42,27 @@ global class ScheduledBatchable implements Schedulable {
 *\*An easier way to schedule a batch job is to call the [[Batch Apex^Using the System.scheduleBatch Method|System.scheduleBatch]] "HTML (New Window)") method without having to implement the Schedulable interface.
 
 ## Tracking Progress of Scheduled Jobs
-you can track the progress of scheduled jobs using SOQL quereies 
+you can track the progress of scheduled jobs running [[SOQL & SOSL Queries|SOQL queries]] on `CornTrigger`.   
+```apex
+CronTrigger ct = 
+    [SELECT TimesTriggered, NextFireTime
+    FROM CronTrigger WHERE Id = :jobID];
+```
+If the ID is not known use `getTriggerId()`
+```apex
+CronTrigger ct = 
+    [SELECT TimesTriggered, NextFireTime
+    FROM CronTrigger WHERE Id = :sc.getTriggerId()];
+```
+You can also get the job’s name and the job’s type from the CronJobDetail record. To do so, use the `CronJobDetail` relationship when performing a query on CronTrigger.
+```apex
+CronTrigger job = 
+    [SELECT Id, CronJobDetail.Id, CronJobDetail.Name, CronJobDetail.JobType 
+    FROM CronTrigger ORDER BY CreatedDate DESC LIMIT 1];
+```
+Alternatively, you can query CronJobDetail directly to get the job’s name and type.
+```apex
+CronJobDetail ctd = 
+    [SELECT Id, Name, JobType 
+    FROM CronJobDetail WHERE Id = :job.CronJobDetail.Id];
+```
