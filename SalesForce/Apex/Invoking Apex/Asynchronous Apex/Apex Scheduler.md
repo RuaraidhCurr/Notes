@@ -114,7 +114,27 @@ class TestClass {
 ```
 
 ## Using the System.schedule Method
-After definiens a class with `Schedulable` interface, use the `System.schedule` method to execute it. The System.schedule method takes three arguments: a name for the job, an expression used to represent the time and date the job is scheduled to run, and the name of the class. This expression has the following syntax:
+After definiens a class with `Schedulable` interface, use the `System.schedule` method to execute it.  `System.schedule` takes three arguments: 
+1. a name for the job 
+2. an expression used to represent the time and date the job is scheduled to run
+3. the name of the class.
+e.g.
 ```apex
 Seconds Minutes Hours Day_of_month Month Day_of_week Optional_year
 ```
+
+The following are the values for the expression:
+
+|Name|Values|Special Characters|
+|---|---|---|
+|Seconds|0–59|None|
+|Minutes|0–59|None|
+|Hours|0–23|, - * /|
+|Day_of_month|1–31|, - * ? / L W|
+|Month|1–12 or the following:<br>- JAN<br>- FEB<br>- MAR<br>- APR<br>- MAY<br>- JUN<br>- JUL<br>- AUG<br>- SEP<br>- OCT<br>- NOV<br>- DEC|, - * /|
+|Day_of_week|1–7 or the following:<br>- SUN<br>- MON<br>- TUE<br>- WED<br>- THU<br>- FRI<br>- SAT|, - * ? / L #|
+|optional_year|null or 1970–2099|, - * /|
+
+## [[Governor Limits|Apex Scheduler Limits]]
+
+You can only have 100 scheduled Apex job at any one time. The maximum number of scheduled apex executions per 24hr period is 250,000, or the number of users you have on the org multiplied by 200.
