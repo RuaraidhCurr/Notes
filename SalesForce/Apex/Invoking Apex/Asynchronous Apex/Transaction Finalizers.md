@@ -4,7 +4,7 @@ tags: Apex, Asynchronous Apex, Queueable Apex, Transaction Finalizers, Finalizer
 ## Transaction Finalizers
 Transaction finalizers enables you to attach actions, with the `System.Finalizer` interface, to apex jobs using the [[Queueable Apex|queueable framework]] and are designed to specify specific actions when a queueable job succeeds or fails. e.g.
 - Poll the status of `AsyncApexJob` using a [[SOQL & SOSL Queries|SOQL query]] and re-enqueue the job if it fails
-- Fire `BatchApexErrorEvents` when a [[batch Apex]] method encounters an unhandled exception
+- Fire `BatchApexErrorEvents` when a [[Batch Apex]] method encounters an unhandled exception
 
 A [[Queueable Apex|Queueable job]] that failed due to an unhandled exception can be successively re-enqueued five times by a transaction finalizer.
 
