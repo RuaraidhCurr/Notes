@@ -1,3 +1,7 @@
+---
+tags: Apex, Methods, IF, IF-Else, Control Flow Statements, IF statement, if-statement, else statement
+---
+
 Similar to Java apex allows for conditional if & else statements e.g.
 
 ```apex

@@ -1,3 +1,7 @@
+---
+tags: Apex, Apex Data types, Maps
+---
+
 A map is a collection of key value pairs. the key value pairs can be any combination primitive data type. Key value must be unique.
 
 Example 

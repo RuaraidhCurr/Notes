@@ -1,3 +1,6 @@
+---
+tags: Apex, Methods, Switch, Control Flow Statements, Switch statement, switch then statement
+---
 `switch` statements test against one or several values by evaluating the expression and executing the code block for the matching `when` value. e.g.
 
 ```

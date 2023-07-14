@@ -1,3 +1,7 @@
+---
+tags: Apex, Apex Data types, Lists
+---
+
 A list is a collection of any data types e.g. *primitive types*, *collections*, *[[SObjects & Objects]]*, etc...
 
 This table is a visual representation of a list of Strings:

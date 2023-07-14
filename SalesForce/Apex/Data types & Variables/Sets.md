@@ -1,3 +1,7 @@
+---
+tags: Apex, Apex Data types, Sets
+---
+
 Sets are an unordered collection of primitive data types that does not contain any duplicates e.g. 
 
 | |   |   |     |

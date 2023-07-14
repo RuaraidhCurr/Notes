@@ -1,5 +1,5 @@
 ---
-tags: Asynchronous Apex, Queueable Apex, Apex 
+tags: Apex, Asynchronous Apex, Queueable Apex, Invoking Apex, Running Apex
 ---
 
 Apex offers multiple ways for you to run your code asynchronously. Below lists the different wants you can run apex asynchronously and when you should use them.

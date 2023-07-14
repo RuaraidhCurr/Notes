@@ -1,3 +1,7 @@
+---
+tags: Apex, Apex Data types, Primitive data types, Primitive data, String, Boolean, Date, integer, ID, Decimal, Datetime, Blob, Date, Long, Object, Long 
+---
+
 Apex primitive data types include:
 
 |Data Type|Description|

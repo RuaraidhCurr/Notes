@@ -1,3 +1,7 @@
+---
+tags: Apex, Triggers, Invoking Apex, Running Apex, Trigger
+---
+
 Apex can be invoked by using `triggers`. Apex triggers enable you to perform actions before or after changes to Salesforce records, such as insertions, updates, or deletions.
 
 Triggers can execute **before** and **after** the following types f operations:

@@ -1,3 +1,7 @@
+---
+tags: Apex, Data retrieval, Data manipulation, Data insert, Data Manipulation Language, DML
+---
+
 Records in the database can be inserted and manipulated through apex directly using simple statements. These Statements are the Data Manipulation Language (DML). In contrast to the SOQL which is used for read operations, DML is used for write operations. 
 when inserting or manipulating records, the data bust first be created in memory as an [[SObjects & Objects|sObject]] such as `Account`, `Contact`, `MyCustomObject__c` but when you don't know the type object in advance you can work with generic [[SObjects & Objects|sObject]] data type instead.
 

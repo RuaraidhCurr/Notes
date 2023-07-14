@@ -1,3 +1,6 @@
+---
+tags: Apex, Loops, For Loops, For-Loops
+---
 The `for` loop supports three variations:
 
 ##### Traditional `for` loop
