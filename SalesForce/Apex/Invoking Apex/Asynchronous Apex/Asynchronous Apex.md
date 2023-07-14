@@ -11,9 +11,3 @@ Apex offers multiple ways for you to run your code asynchronously. Below lists t
 | Batch Apex  | - For long-running jobs with large data volumes that need to be performed in batches, such as database maintenance jobs<br>- For jobs that need larger query results than regular transactions allow             |
 | Future Methods | - When you have a long-running method and need to prevent delaying an Apex transaction<br>- When you make callouts to external Web services<br>- To segregate DML operations and bypass the mixed save DML error |
 
-## Queueable Apex
-Queueable apex is apex that is added to the queueable interface. the queueable interface allows you to add jobs to a queue and monitor them. it is an enhanced way of running apex compared to using [[future methods]]. 
-Typical processes that run for a long time e.g. extensive database operations or external web call outs can be run asynchronously by using the Queueable interface. meaning these jobs can run in the background on its own thread and not delay any execution of your main apex processes. 
-Reason of using Queueable apex is because [[Governor Limits]] are higher on Asynchronous apex than on synchronous apex, such as [[Governor Limits#^a78715|heap size limits]].
-
-Queueable jobs are similar to furture methods in the same way that they both queue for execution.
