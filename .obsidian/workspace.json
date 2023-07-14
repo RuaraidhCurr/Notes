@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Schedule",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,13 +178,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1ea3590a14210450",
+  "active": "6bb6fe994736608b",
   "lastOpenFiles": [
-    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Transaction Finalizers.md",
+    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Asynchronous Apex.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Apex Scheduler.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Queueable Apex.md",
-    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Asynchronous Apex.md",
     "SalesForce/Apex/Governor Limits.md",
+    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Transaction Finalizers.md",
     "Governor Limits^.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex",
     "SalesForce/Apex/SObjects & Objects.md",
