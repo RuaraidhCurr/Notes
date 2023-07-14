@@ -1,3 +1,8 @@
+
+---
+tags: Apex, Governor Limits, Limits, Asynchronous Limits, Synchronous Limits, Apex limits, Email Limits, Email
+---
+
 Because Apex runs in a multitenant environment, the apex runtime engine strictly enforces limits so that runaway Apex code or processes don't monopolize shared resources. If code exceeds the limits the associated governor issues a runtime exception that can't be handled. 
 
 ## Per-Transaction Apex Limits

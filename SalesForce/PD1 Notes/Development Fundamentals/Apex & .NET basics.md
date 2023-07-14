@@ -1,4 +1,6 @@
-
+---
+tags: Apex, Lightning Platform, Data types, database, DB, Development Tools, .NET, Visualforce, MCV
+---
 ## Map .NET Concepts to the Lightning Platform
 
 Salesforce is a metadata driven platform. Everything from code, configurations, apps, flows are all specified as metadata. Lightning platform is tightly integrated with the database, meaning certain things are integrated into the system, eg reporting, GUIs, security etc and you can build on top of & customize your database very quickly.

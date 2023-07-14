@@ -1,3 +1,6 @@
+---
+tags: Apex, Lightning Platform, Execution Context, Invoking Apex, Triggers, Trigger, Governor Limits
+---
 ### What is Execution Context?
 In the Lightning Platform world, code executes within an execution context. *IN A NUT SHELL* This context **represents the time between when the code is executed and when it ends**. 
 *The apex code that you write is not always the only code that is executing*

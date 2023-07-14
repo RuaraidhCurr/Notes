@@ -1,3 +1,6 @@
+---
+tags: Apex, Visualforce, Pages, Model View Controller, MVC, View, Controller, Model
+---
 Visual force is a tag-based markup language similar to HTML. 
 
 It has some server side controllers that can make basic database operations "Standard Controllers". 

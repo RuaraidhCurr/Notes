@@ -1,4 +1,8 @@
-SOQL queries are limited by heap size, governor limits and if exceeded and error occurs. Firstly for best performance, SOQL queries must be selective, particularly for queries inside triggers. To avoid long execution times, the system can terminate nonselective SOQL queries. Developers receive an error message when a non-selective query in a trigger executes against an object that contains more than 1 million records. To avoid this error, ensure that the query is selective. selective queries are queries with filters 
+---
+tags: Apex, SOQL, Queries, SOQL Queries, SOQL Statements, Large Queries, Governor Limits 
+---
+
+SOQL queries are limited by heap size, governor limits and if exceeded and error occurs. Firstly for best performance, SOQL queries must be selective, particularly for queries inside triggers. To avoid long execution times, and [[Governor Limits]], the system can terminate nonselective SOQL queries. Developers receive an error message when a non-selective query in a trigger executes against an object that contains more than 1 million records. To avoid this error, ensure that the query is selective. selective queries are queries with filters 
 
 An example of a query that is likely to get too big:
 ```apex

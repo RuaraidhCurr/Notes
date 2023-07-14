@@ -1,3 +1,6 @@
+---
+tags: Apex, Visualforce, Pages, Model View Controller, MVC, View, Controller, Model
+---
 MVC is a software architecture pattern which separates the users viewing of information from the users interaction with it. 
 
 In addition to dividing the application into three kinds of components, the MVC design defines the interactions between them. 

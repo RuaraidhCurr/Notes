@@ -1,3 +1,7 @@
+---
+tags: Apex, SOQL, , Queries, SOQL Queries, SOQL Statements, SOQL For Loops, For-Loops, For Loops, SOQL Loops 
+---
+
 SOQL `for` loops iterate over all of the sObject records returned by a SOQL query.
 The syntax of a SOQL for loop is either:
 ```apex
