@@ -82,7 +82,44 @@ public class SearchAndReplace implements Database.Batchable<sObject>{
 
 ## Using an Iterable in Batch Apex to Define Scope 
 
+The `start` method can return either a `Database.QuieryLocator` Object that contains the records to be used or an iterable. Use an iterable to step through the returned items more easily.
+```apex
+public class batchClass implements Database.batchable{ 
+   public Iterable start(Database.BatchableContext info){ 
+       return new CustomAccountIterable(); 
+   }     
+   public void execute(Database.BatchableContext info, List<Account> scope){
+       List<Account> accsToUpdate = new List<Account>();
+       for(Account a : scope){ 
+           a.Name = 'true'; 
+           a.NumberOfEmployees = 70; 
+           accsToUpdate.add(a); 
+       } 
+       update accsToUpdate; 
+   }     
+   public void finish(Database.BatchableContext info){     
+   } 
+}
+```
 
+## Using the Database.executeBatch Method to Submit Batch Jobs
+
+You can use the `Database.executeBatch` method to programmatically begin a batch job.
+>[!Important]
+>
+When you call Database.executeBatch, Salesforce adds the process to the queue. Actual execution can be delayed based on service availability.
+
+The `Database.executeBatch` takes two parameters :
+1. An instance of a class that implements the `Database.Batchable` interface.
+2. A parameter specifies the number of records to pass into the `execute` method.
+
+The `Database.executeBatch` method returns the ID of the AsyncApexJob object, which you can use to track the progress of the job. For example:
+```apex
+ID batchprocessid = Database.executeBatch(reassign);
+
+AsyncApexJob aaj = [SELECT Id, Status, JobItemsProcessed, TotalJobItems, NumberOfErrors 
+                    FROM AsyncApexJob WHERE ID =: batchprocessid ];
+```
 
 ## Using the System.scheduleBatch Method
 
