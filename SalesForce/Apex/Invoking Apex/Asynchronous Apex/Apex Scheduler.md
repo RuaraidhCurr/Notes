@@ -39,7 +39,7 @@ global class ScheduledBatchable implements Schedulable {
    }
 }
 ```
-*\*An easier way to schedule a batch job is to call the [[Batch Apex^Using the System.scheduleBatch Method|System.scheduleBatch]] "HTML (New Window)") method without having to implement the Schedulable interface.
+*\*An easier way to schedule a batch job is to call the [[Batch Apex#^ffc109|System.scheduleBatch]] "HTML (New Window)") method without having to implement the Schedulable interface.
 
 ## Tracking Progress of Scheduled Jobs
 you can track the progress of scheduled jobs running [[SOQL & SOSL Queries|SOQL queries]] on `CornTrigger`.   
