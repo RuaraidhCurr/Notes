@@ -24,7 +24,7 @@
 	- Declare variables, constants, methods, and use modifiers and Apex interfaces.
 	- Given a scenario, use and apply Apex control [[Conditional (If-Else) Statements|flow statements]].
 	- Given a scenario, write [[SOQL & SOSL Queries#^869117|SOQL]], [[SOQL & SOSL Queries#^1c251f|SOSL]], and [[Single vs. Bulk DML Operations|DML]] statements in Apex.
-	- Given a scenario, follow best practices to write Apex classes and [[Apex Triggers|triggers]].
+	- Given a scenario, follow best practices to write [[Classes|Apex classes]] and [[Apex Triggers|triggers]].
 	- Given a scenario, identify the implications of [[Governor Limits]] on Apex transactions.
 	- Describe the relationship between Apex transactions, the save order of execution, and the potential for recursion and/or cascading.
 	- Implement exception handling in Apex, including custom exceptions as needed.

@@ -22,7 +22,7 @@ public class myOuterClass {
 ```
 
 Specify the following to define a class: 
-1. Access modifiers: `public` , `global`, and so on (*Required*)
+1. [[Access Modifiers|Access modifiers]]: `public` , `global`, and so on (*Required*)
 	1. you don't need access modifiers for inner classes 
 2. Definition modifiers: `virtual`, ` abstract`, and so on (*Optional*) 
 3. the keyword `class` followed by the name of the class (*Required*)

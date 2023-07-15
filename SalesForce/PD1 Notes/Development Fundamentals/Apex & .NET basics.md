@@ -54,5 +54,5 @@ All your code resides and is executed in the cloud automatically.
 
 
 ### Handling Security
-no Authentication, passwords and database connection strings. ID is handled  by the platform and access can be controlled from different levels, including object level, record level, field level. 
+no Authentication, passwords and database connection strings. ID is handled by the platform and access can be controlled from different levels, including object level, record level, field level. 
 
