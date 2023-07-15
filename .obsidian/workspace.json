@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md",
+                "file": "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Debug Log.md",
+                "file": "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Debug Log.md",
+                "file": "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Debug Log.md"
+                "file": "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md"
               }
             }
           },
@@ -178,11 +179,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6bb6fe994736608b",
+  "active": "d89d22ed769f4656",
   "lastOpenFiles": [
+    "SalesForce/Apex/Control Flow Statements/Conditional (If-Else) Statements.md",
+    "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
     "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md",
-    "SalesForce/Apex/Invoking Apex/Anonymous Block.md",
+    "SalesForce/PD1 Notes/Formulas & Validations",
     "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Debug Log.md",
+    "SalesForce/Apex/Invoking Apex/Anonymous Block.md",
     "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md",
     "SalesForce/PD1 Notes/Development Fundamentals/Use Asynchronous Apex.md",
     "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Exceptions in Apex.md",
@@ -206,16 +210,13 @@
     "Governor Limits^.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex",
     "SalesForce/Apex/SObjects & Objects.md",
-    "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
     "Untitled.canvas",
     "SalesForce/Visualforce/Visualforce.md",
     "SalesForce/Visualforce/Model View Controller (MVC).md",
-    "SalesForce/Apex/SOQL & SOSL/Working with Very Large SOQL Queries.md",
     "SalesForce/Apex/Invoking Apex",
     "SalesForce/Apex/SOQL & SOSL",
     "SalesForce/Apex/Data Manipulation Language (DML)",
     "SalesForce/Apex/Loops",
-    "SalesForce/Apex/Control Flow Statements/Untitled",
-    "SalesForce/Apex/Control Flow Statements"
+    "SalesForce/Apex/Control Flow Statements/Untitled"
   ]
 }
