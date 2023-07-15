@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/Apex/Invoking Apex/Anonymous Block.md",
+                "file": "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -181,10 +181,11 @@
   "active": "6bb6fe994736608b",
   "lastOpenFiles": [
     "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md",
+    "SalesForce/Apex/Invoking Apex/Anonymous Block.md",
+    "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Debug Log.md",
     "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md",
     "SalesForce/PD1 Notes/Development Fundamentals/Use Asynchronous Apex.md",
     "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Exceptions in Apex.md",
-    "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Debug Log.md",
     "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex",
     "SalesForce/Apex/Testing, Debugging & Deploying/Deploying Apex.md",
     "SalesForce/Apex/Testing, Debugging & Deploying/Testing Apex",
@@ -193,7 +194,6 @@
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Batch Apex.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Future Methods.md",
     "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
-    "SalesForce/Apex/Invoking Apex/Anonymous Block.md",
     "SalesForce/Apex/Data types & Variables/Sets.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Apex Scheduler.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Asynchronous Apex.md",
