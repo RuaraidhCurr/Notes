@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6bb6fe994736608b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Debug Log.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d89d22ed769f4656",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/Apex/Classes/Class Methods.md",
+                "file": "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/PD1 Notes/Formulas & Validations/Formula fields.md",
+                "file": "SalesForce/Apex/Classes/Class Methods.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -192,39 +179,39 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d89d22ed769f4656",
+  "active": "426423708c487d93",
   "lastOpenFiles": [
+    "SalesForce/Apex/Classes/Class Variable.md",
     "SalesForce/Apex/Classes/Classes.md",
     "SalesForce/Apex/Classes/Class Methods.md",
-    "SalesForce/Apex/Classes/Class Variable.md",
-    "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
-    "SalesForce/Apex/Invoking Apex/Apex Triggers.md",
-    "SalesForce/PD1 Notes/Formulas & Validations/Validation Rules.md",
-    "SalesForce/PD1 Notes/Formulas & Validations/Roll-Up Summary Fields.md",
-    "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Debug Log.md",
     "SalesForce/PD1 Notes/Formulas & Validations/Formula fields.md",
-    "SalesForce/Untitled",
-    "SalesForce/Visualforce/Visualforce.md",
-    "SalesForce/Apex/Control Flow Statements/Conditional (If-Else) Statements.md",
-    "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md",
-    "SalesForce/PD1 Notes/Formulas & Validations",
-    "SalesForce/Apex/Invoking Apex/Anonymous Block.md",
-    "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md",
-    "SalesForce/PD1 Notes/Development Fundamentals/Use Asynchronous Apex.md",
-    "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Exceptions in Apex.md",
-    "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex",
-    "SalesForce/Apex/Testing, Debugging & Deploying/Deploying Apex.md",
-    "SalesForce/Apex/Testing, Debugging & Deploying/Testing Apex",
-    "SalesForce/Apex/Testing, Debugging & Deploying",
-    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Queueable Apex.md",
-    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Batch Apex.md",
-    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Future Methods.md",
-    "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
-    "SalesForce/Apex/Data types & Variables/Sets.md",
+    "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Apex Scheduler.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Asynchronous Apex.md",
+    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Batch Apex.md",
+    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Future Methods.md",
+    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Queueable Apex.md",
+    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Transaction Finalizers.md",
+    "SalesForce/Apex/Invoking Apex/Anonymous Block.md",
+    "SalesForce/Apex/Invoking Apex/Apex Triggers.md",
+    "SalesForce/Apex/Loops/While Loops.md",
+    "SalesForce/Apex/Loops/For Loops.md",
+    "SalesForce/Apex/Loops/Do-While Loops.md",
+    "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
+    "SalesForce/Apex/SOQL & SOSL/SOQL For Loops.md",
+    "SalesForce/Apex/SOQL & SOSL/Working with Very Large SOQL Queries.md",
     "SalesForce/Apex/Governor Limits.md",
-    "Batch Apex^Using the System.scheduleBatch Method.md",
+    "SalesForce/Apex/SObjects & Objects.md",
+    "SalesForce/Visualforce/Visualforce.md",
+    "SalesForce/Visualforce/Model View Controller (MVC).md",
+    "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
+    "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md",
+    "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md",
+    "SalesForce/Untitled",
+    "SalesForce/PD1 Notes/Formulas & Validations",
+    "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex",
+    "SalesForce/Apex/Testing, Debugging & Deploying/Testing Apex",
+    "SalesForce/Apex/Testing, Debugging & Deploying",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex",
     "Untitled.canvas",
     "SalesForce/Apex/Invoking Apex",
