@@ -3,7 +3,7 @@ When an org has a lot of data and your users need to access said data without do
 Let’s look at a specific example. What if you wanted to calculate how many days are left until an opportunity’s close date? You can create a simple formula field that automatically calculates that value. By adding the value to the Opportunity page layout, your users can quickly access this key information.
 
 ## Formula Data types
-There are a number of different formula data types:
+There are a number of different formula data types, all falling within the [[Primitive Data types]]:
 
 | DATA TYPE     | DESCRIPTION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -53,9 +53,44 @@ Formula fields have these three limits:
 
 ## Formula Best Practices 
 1. Put Every Function on a Separate Line
+``` apex
+IF(
+AND(
+ISBLANK(myDate_c),
+active_c=true
+),
+"Missing Date",
+"Not Applicable"
+)```
 ```
+Not This:
+``` apex
 IF(AND(ISBLANK(myDate_c),active_c=true),"Missing Date","Not Applicable")
 ```
+
+ 2. Indent Section within Parentheses
+``` apex
+IF(
+  AND(
+    ISBLANK(myDate_c),
+    active_c=true
+  ),
+  "Missing Date",
+  "Not Applicable"
+)
 ```
+Not This:
 ```
-[](https://help.salesforce.com/s?language=en_US)`IF( AND( ISBLANK(myDate_c), active_c=true ), "Missing Date", "Not Applicable" )`
+IF(
+AND(
+ISBLANK(myDate_c)
+),
+active_c=true
+),
+"Missing Date",
+"Not Applicable"
+)
+```
+
+3. Write Statement and Function Names in Uppercase
+4. Handle Null and Required Input Field Values

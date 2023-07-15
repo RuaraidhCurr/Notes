@@ -16,7 +16,7 @@
 ## Exam Outline
 - ##### Developer Fundamentals : 23%
 	-  Understand multi-tenant concepts and design frameworks, such as [[Model View Controller (MVC)|MVC architecture]] and Lightning Component Framework.
-	- Given a scenario, identify common use cases and best practices for declarative versus programmatic customizations, including [[Governor Limits]], formula fields, and roll-up summaries.
+	- Given a scenario, identify common use cases and best practices for declarative versus programmatic customizations, including [[Governor Limits]], [[Use Formula fields|formula fields]], and roll-up summaries.
 	- Given a scenario, determine, create, and access the appropriate data model including [[SObjects & Objects|objects]], fields, relationships, and external IDs.
 	- Given a scenario, identify the options and considerations when importing and exporting data into development environments.
 - ##### Process Automation and Logic : 30%
