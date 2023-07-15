@@ -1,0 +1,1 @@
+When an org has a lot of data and your users need to access said data without doing a bunch of calculations in their head, Use the Formula field 
