@@ -52,3 +52,62 @@ trigger T1 on Account (before delete, after delete, after undelete) {
         }
 }
 ```
+
+Local variable names are evaluated before class names. If a local variable has the same name as a class, the local variable hides methods and variables on the class of the same name. For example, this method works if you comment out the String line. But if the String line is included the method doesn’t compile, because Salesforce reports that the method doesn’t exist or has an incorrect signature.
+```apex
+public static void method() {
+String Database = '';
+Database.insert(new Account());
+}
+```
+An inner class behaves like a static Java inner class, but doesn’t require the static keyword. An inner class can have instance member variables like an outer class, but there’s no implicit pointer to an instance of the outer class (using the this keyword).
+
+## Instance Methods and Variables
+Instanced methods and member variables are used by an instance of a class, that is, by and object. An instance member variable is declared inside a class, but not within a method. Instance methods usually use instance member variables to affect the behaviour of the method. 
+
+Suppose that you want to have a class that collects two-dimensional points and plots them on a graph. The following skeleton class uses member variables to hold the list of points and an inner class to manage the two-dimensional list of points.
+
+```apex
+public class Plotter {
+
+    // This inner class manages the points
+    class Point {
+        Double x;
+        Double y;
+
+        Point(Double x, Double y) {
+             this.x = x;
+             this.y = y;
+        }
+        Double getXCoordinate() {
+             return x;
+        }
+
+        Double getYCoordinate() {
+             return y;
+        }
+    }
+
+    List<Point> points = new List<Point>();
+
+    public void plot(Double x, Double y) {
+        points.add(new Point(x, y));
+    }
+    
+    // The following method takes the list of points and does something with them
+    public void render() {
+    }
+}
+```
+
+
+## Initialization Code
+
+Instance initialization code is a block of code in the following format that is defined by a class: 
+```apex
+{ 
+   //code body
+}
+```
+
+The instance initialization code in a class is executed each time an object is instantiated from that class. These code blocks run before the constructor.

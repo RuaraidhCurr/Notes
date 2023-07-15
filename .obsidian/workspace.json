@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/Apex/Classes/Static & Instanced Methods, Variables, & Initialization Code.md",
+                "file": "SalesForce/Apex/Classes/Apex Properties.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/Apex/Classes/Static & Instanced Methods, Variables, & Initialization Code.md",
+                "file": "SalesForce/Apex/Classes/Apex Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/Apex/Classes/Static & Instanced Methods, Variables, & Initialization Code.md",
+                "file": "SalesForce/Apex/Classes/Apex Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/Apex/Classes/Static & Instanced Methods, Variables, & Initialization Code.md"
+                "file": "SalesForce/Apex/Classes/Apex Properties.md"
               }
             }
           },
@@ -194,8 +194,9 @@
   },
   "active": "426423708c487d93",
   "lastOpenFiles": [
-    "SalesForce/Apex/Classes/Classes.md",
     "SalesForce/Apex/Classes/Static & Instanced Methods, Variables, & Initialization Code.md",
+    "SalesForce/Apex/Classes/Apex Properties.md",
+    "SalesForce/Apex/Classes/Classes.md",
     "SalesForce/Apex/Classes/Access Modifiers.md",
     "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
     "SalesForce/Apex/SObjects & Objects.md",
@@ -219,7 +220,6 @@
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Queueable Apex.md",
     "SalesForce/Apex/Invoking Apex/Anonymous Block.md",
     "SalesForce/Apex/Loops/While Loops.md",
-    "SalesForce/Apex/Loops/For Loops.md",
     "SalesForce/Untitled",
     "SalesForce/PD1 Notes/Formulas & Validations",
     "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex",
