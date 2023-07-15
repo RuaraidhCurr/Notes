@@ -22,8 +22,8 @@ Sometimes you cannot change the field type of a field that you have called a rol
 
 ## Best Practices
 - Apply field-level security to your roll-up summary fields if they calculate values that you don't want visible to users.
-- Consider how validation rules may affect your roll-up summery fields
-- You can use roll-up summery fields in validation rules but not as the error location for your validation.
+- Consider how [[Validation Rules|validation rules]] may affect your roll-up summery fields
+- You can use roll-up summery fields in [[Validation Rules|validation rules]] but not as the error location for your validation.
 - Advanced currency management affects roll-up summary fields
 - When you refer to a roll-up summary field in a list view or report, you can’t use certain qualifiers, including:
     - Starts with

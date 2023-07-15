@@ -7,7 +7,7 @@ A debug log can record database operations, system processes, and errors that oc
 	- Workflow rules
 	- Assignment rules
 	- Approval processes
-	- Validation rules 
+	- [[Validation Rules|Validation rules]] 
 To view debug logs, go to setup and enter `Debug logs` in the find box and then select **Debug Logs**
 
 ## Debug Logs have limits 
