@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Use Asynchronous Apex.md",
+                "file": "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Use Asynchronous Apex.md",
+                "file": "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Use Asynchronous Apex.md",
+                "file": "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Use Asynchronous Apex.md"
+                "file": "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md"
               }
             }
           },
@@ -180,8 +180,10 @@
   },
   "active": "6bb6fe994736608b",
   "lastOpenFiles": [
-    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Batch Apex.md",
     "SalesForce/PD1 Notes/Development Fundamentals/Use Asynchronous Apex.md",
+    "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md",
+    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Queueable Apex.md",
+    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Batch Apex.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Future Methods.md",
     "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md",
     "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
@@ -190,7 +192,6 @@
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Apex Scheduler.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Asynchronous Apex.md",
     "SalesForce/Apex/Governor Limits.md",
-    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Queueable Apex.md",
     "SalesForce/Apex/Invoking Apex/Apex Triggers.md",
     "Batch Apex^Using the System.scheduleBatch Method.md",
     "Scheduled Apex.md",
@@ -207,7 +208,6 @@
     "SalesForce/Apex/SOQL & SOSL/SOQL For Loops.md",
     "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
     "SalesForce/Apex/Loops/While Loops.md",
-    "SalesForce/Apex/Loops/For Loops.md",
     "SalesForce/Apex/Invoking Apex",
     "SalesForce/Apex/SOQL & SOSL",
     "SalesForce/Apex/Data Manipulation Language (DML)",

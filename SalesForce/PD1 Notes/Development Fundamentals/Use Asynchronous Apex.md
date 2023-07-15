@@ -74,7 +74,45 @@ Database.executeBatch(myBatchObject);
 ```
 
 ### [[Batch Apex#^2dbcf1|batchable Limitations]] 
-The bathcable interface is great, but consider its limitations.
+The batchable interface is great, but consider its limitations.
 - Troubleshooting can be troublesome. 
 - Jobs are queued and subject to server availability, which can take longer than anticipated.
--  
+
+## [[Queueable Apex]]
+To resolve the limitations of both batchable Apex and Future Methods Queueable Apex is the solution. 
+
+Queueable Apex provides the following benefits to future methods.
+- Non-[[Primitive Data Types]] - classes can accept [[SObjects & Objects|sObjects]] or customer Apex types. 
+- Monitoring -When you submit your job, a `jobId` is returned that you can use to identify the job and monitor its progress.
+- Chaining Jobs - You can chain one job to another job by starting a second job from a running job.
+
+To demonstrate how it works, let’s take the sample code that used a [[Future Methods|future method]] to do a web callout and implement it using Queueable Apex.
+```apex
+public class MyQueueableClass implements Queueable {
+    private List<Contact> contacts;
+    // Constructor for the class, where we pass
+    // in the list of contacts that we want to process
+    public MyQueueableClass(List<Contact> myContacts) {
+        contacts = myContacts;
+    }
+    public void execute(QueueableContext context) {
+        // Loop through the contacts passed in through
+        // the constructor and call a method
+        // which contains the code to do the actual callout
+        for (Contact con: contacts) {
+            String response = anotherClass.calloutMethod(con.Id,
+                    con.FirstName,
+                    con.LastName,
+                    con.Email);
+            // May still want to add some code here to log
+            // the response to a custom object
+        }
+    }
+}
+```
+To invoke Queueable Apex, you need something like the following:
+``` apex
+List<Contact> contacts = [SELECT Id, LastName, FirstName, Email
+    FROM Contact WHERE Is_Active__c = true];
+Id jobId = System.enqueueJob(new MyQueueableClass(contacts));
+```
