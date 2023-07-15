@@ -22,7 +22,18 @@ public class myOuterClass {
 ```
 
 Specify the following to define a class: 
-1. Access modifiers 
-	1. such as `public` `global`
-	2. you don't need access modifiers for inner classes 
-2. *Optional *
+1. Access modifiers: `public` , `global`, and so on (*Required*)
+	1. you don't need access modifiers for inner classes 
+2. Definition modifiers: `virtual`, ` abstract`, and so on (*Optional*) 
+3. the keyword `class` followed by the name of the class (*Required*)
+4. extensions or implementations or both (*Optional*)
+
+Use the following syntax for defining classes:
+```apex
+private | public | global 
+[virtual | abstract | with sharing | without sharing] 
+class ClassName [implements InterfaceNameList] [extends ClassName] 
+{ 
+// The body of the class
+}
+```
