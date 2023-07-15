@@ -291,4 +291,37 @@ public static testMethod void testBatch() {
 - Only 1 batch `start` method can run at a time in an org. Other jobs remain in queue until started.
 
 # Firing Platform Events from Batch Apex
-Batch Classes can fire platform events. 
+Batch Classes can fire platform events when encountering an error or exception. 
+
+The `BatchApexErrorEvent` object represents a platform event associated with that batch class. If the `start`, `execute` or `finish` methods encounter an unhandled error or exception, a `BatchApexErrorEvent` platform event is fired. 
+
+## Example
+This example creates a trigger to determine which accounts failed in the batch transaction. 
+```apex
+trigger MarkDirtyIfFail on BatchApexErrorEvent (after insert) {
+    Set<Id> asyncApexJobIds = new Set<Id>();
+    for(BatchApexErrorEvent evt:Trigger.new){
+        asyncApexJobIds.add(evt.AsyncApexJobId);
+    }
+    
+    Map<Id,AsyncApexJob> jobs = new Map<Id,AsyncApexJob>(
+        [SELECT id, ApexClass.Name FROM AsyncApexJob WHERE Id IN :asyncApexJobIds]
+    );
+    
+    List<Account> records = new List<Account>();
+    for(BatchApexErrorEvent evt:Trigger.new){
+        //only handle events for the job(s) we care about
+        if(jobs.get(evt.AsyncApexJobId).ApexClass.Name == 'AccountUpdaterJob'){
+            for (String item : evt.JobScope.split(',')) {
+                Account a = new Account(
+                    Id = (Id)item,
+                    ExceptionType__c = evt.ExceptionType,
+                    Dirty__c = true
+                );
+                records.add(a);
+            }
+        }
+    }
+    update records;
+}
+```
