@@ -40,7 +40,7 @@ public void execute(Database.BatchableContext BC, list<P>){}
 The `execute` method is used too do the processing of each chunk of data. 
 This method takes the following:
 	\- A reference of the Database.BatchableContext object.
-	\- A list of sObjects, such as List\<sObject\>, or a list of parameterized types. 
+	\- A list of [[SObjects & Objects|sObjects]], such as List\<sObject\>, or a list of parameterized types. 
 Batchable records execute in the order in which they are received. 
 
 3. `finish` method:
@@ -157,7 +157,7 @@ System.debug('Next fire time: ' + ct.NextFireTime);
 // For example:
 // Next fire time: 2013-06-03 13:31:23
 ```
-
+=
 ## Batch Apex Examples
 
 The following example uses a Database.QueryLocator:
@@ -284,4 +284,11 @@ public static testMethod void testBatch() {
 - Up to 5 batch jobs can be queued or active concurrently
 - Up to 100 `Holding` batch jobs can be held in the Apex flex queue
 - Max of 5 batch jobs in a running test
-- Max nuymber of Batch methods executions is 250,000 
+- Max number of Batch methods executions is 250,000
+- A max of 50mil records can be returned in the `Databse.QueryLocator` object. 
+- If `start` method returns a `QueryLocator`, the *Scope* param of `Database.executeBatch` can have a max of 200.  
+- If no scope is given for the `Database.executeBatch`, Salesforce chunks the records into batches of 200 records. 
+- Only 1 batch `start` method can run at a time in an org. Other jobs remain in queue until started.
+
+# Firing Platform Events from Batch Apex
+Batch Classes can fire platform events. 
