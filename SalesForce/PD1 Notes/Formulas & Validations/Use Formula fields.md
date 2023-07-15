@@ -22,10 +22,40 @@ There are a number of different formula data types:
 A formula can contain references to the values of fields, operators, functions, literal values, or other formulas.
 
 Use any or all of these elements to build a formula.
-| Element Name   | Description |
-| -------------- | ----------- |
-| Literal Value  |             |
-| Find Reference |             |
-| Function       |             |
-| Operator       |             |
-| Comment        |             |
+
+| Element Name   | Description                                                                               |
+| -------------- | ----------------------------------------------------------------------------------------- |
+| Literal Value  | A text string or number you enter that is not calculated or changed                       |
+| Find Reference | Reference the value of another customer or standard field                                 |
+| Function       | A system-defined formula that can require input from you and returns a value or values    |
+| Operator       | A symbol that specifies the type of calculation to perform or the order in which to do it |
+| Comment        | An annotation within a formula that begins with a forward slash asterisk `/*` and followed by an asterisk `/`                                                                                          |
+
+## Formula Operators and Functions
+There are many Formula Operators and functions, some are used more than others. There are the following categories:- 
+- [Math Operators](https://help.salesforce.com/s/articleView?id=sf.customize_functions.htm&type=5#math_operators)
+- [Logical Operators](https://help.salesforce.com/s/articleView?id=sf.customize_functions.htm&type=5#legal_operators)
+- [Text Operators](https://help.salesforce.com/s/articleView?id=sf.customize_functions.htm&type=5#text_operators)
+- [Date and Time Functions](https://help.salesforce.com/s/articleView?id=sf.customize_functions.htm&type=5#date_and_time_functinons)
+- [Logical Functions](https://help.salesforce.com/s/articleView?id=sf.customize_functions.htm&type=5#logical_functions)
+- [Math Functions](https://help.salesforce.com/s/articleView?id=sf.customize_functions.htm&type=5#math_functions)
+- [Text Functions](https://help.salesforce.com/s/articleView?id=sf.customize_functions.htm&type=5#text_functions)
+- [Summary Functions](https://help.salesforce.com/s/articleView?id=sf.customize_functions.htm&type=5#summary_functions)
+- [Advanced Functions](https://help.salesforce.com/s/articleView?id=sf.customize_functions.htm&type=5#advanced_functions)
+
+Follow the links in these to view the large list of functions & Operators 
+
+## Formula Field Limits and Restrictions 
+Formula fields have these three limits: 
+1. Character Limit - Formula fields can only have 3900 characters, including spaces, comments and returns.
+2. Save Size Limit - Formula fields can exceed 4,000 bytes when saved.
+3. Compile Size Limits - Formula fields can't exceed 15,000 bytes when complied. 
+
+## Formula Best Practices 
+1. Put Every Function on a Separate Line
+```
+IF(AND(ISBLANK(myDate_c),active_c=true),"Missing Date","Not Applicable")
+```
+```
+```
+[](https://help.salesforce.com/s?language=en_US)`IF( AND( ISBLANK(myDate_c), active_c=true ), "Missing Date", "Not Applicable" )`
