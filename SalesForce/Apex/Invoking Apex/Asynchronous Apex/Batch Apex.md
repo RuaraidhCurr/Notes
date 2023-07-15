@@ -231,7 +231,57 @@ ID batchprocessid = Database.executeBatch(BDel);
 System.debug('Returned batch process ID: ' + batchProcessId);
 ```
 
-#### Using State in Batch Apex
+## Using State in Batch Apex
 Each execution of a Batch Apex job is considered a discrete transaction. For example a job that contains 1000 records without a scope parameter is considered 5 transactions of 200 records each.
 
-If you Specify `Database.Stateful` in the class definition, you can maintain state across these transactions. 
+If you Specify `Database.Stateful` in the class definition, you can maintain state across these transactions. only instanced member variables retain their values between transitions when using `Database.Stateful`. so for example it is useful for counting or summarizing records as they're being processed. 
+
+## Testing Batch Apex
+You can only test one execution of the execute method for Batch Apex. Use the *scope* parameter to make sure you do not hit [[Governor Limits]]. 
+
+When testing Batch Apex, make sure to use the `startTest` and `stopTest` around the `executeBatch` method to insure that the finished before testing against the results.  
+
+If you want to handle exceptions in the test method enclose the code in `try` & `catch` statements. 
+``` apex
+public static testMethod void testBatch() {
+   user u = [SELECT ID, UserName FROM User 
+             WHERE username='testuser1@acme.com'];
+   user u2 = [SELECT ID, UserName FROM User 
+              WHERE username='testuser2@acme.com'];
+   String u2id = u2.id;
+
+   List <Account> accns = new List<Account>();
+      for(integer i = 0; i<200; i++){
+         Account a = new Account(Name='testAccount'+ i, 
+                     Ownerid = u.ID); 
+         accns.add(a);
+      }
+   
+   insert accns;
+   
+   Test.StartTest();
+   OwnerReassignment reassign = new OwnerReassignment();
+   reassign.query='SELECT ID, Name, Ownerid ' +
+            'FROM Account ' +
+            'WHERE OwnerId=\'' + u.Id + '\'' +
+            ' LIMIT 200';
+   reassign.email='admin@acme.com';
+   reassign.fromUserId = u.Id;
+   reassign.toUserId = u2.Id;
+   ID batchprocessid = Database.executeBatch(reassign);
+   Test.StopTest();
+
+   System.AssertEquals(
+           database.countquery('SELECT COUNT()'
+              +' FROM Account WHERE OwnerId=\'' + u2.Id + '\''),
+           200);  
+   
+   }
+}
+```
+
+## Batch Apex Limitations
+- Up to 5 batch jobs can be queued or active concurrently
+- Up to 100 `Holding` batch jobs can be held in the Apex flex queue
+- Max of 5 batch jobs in a running test
+- Max nuymber of Batch methods executions is 250,000 
