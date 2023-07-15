@@ -37,11 +37,21 @@ public class BasicProperty {
 }
 ```
 
-The following code segment calls the BasicProperty class, exercising the get and set accessors:
+The following code segment calls the `BasicProperty` class, exercising the get and set accessors:
 
 ```apex
 BasicProperty bp = new BasicProperty();
 bp.prop = 5;                   // Calls set accessor
 ```
 
+
+## Using Automatic Properties
+Properties don't require additional code in their `get` or `set` accessor code blocks. Instead, you can leave `get` and `set` accessor code blocks empty to define an *automatic property*. Automatic properties allow you to write more compact code that is easier to debug and maintain. They can be declared as read-only, read-write, or write-only. The following example creates three automatic properties:
+```apex
+public class AutomaticProperty {
+   public integer MyReadOnlyProp { get; }
+   public double MyReadWriteProp { get; set; }
+   public string MyWriteOnlyProp { set; }
+}
+```
 

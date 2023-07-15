@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/Apex/Classes/Apex Properties.md",
+                "file": "SalesForce/PD1 Notes/Approve Records with Approval Processes/Customize How Records Get Approved.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/Apex/Classes/Apex Properties.md",
+                "file": "SalesForce/PD1 Notes/Approve Records with Approval Processes/Customize How Records Get Approved.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/Apex/Classes/Apex Properties.md",
+                "file": "SalesForce/PD1 Notes/Approve Records with Approval Processes/Customize How Records Get Approved.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/Apex/Classes/Apex Properties.md"
+                "file": "SalesForce/PD1 Notes/Approve Records with Approval Processes/Customize How Records Get Approved.md"
               }
             }
           },
@@ -194,8 +194,11 @@
   },
   "active": "426423708c487d93",
   "lastOpenFiles": [
-    "SalesForce/Apex/Classes/Static & Instanced Methods, Variables, & Initialization Code.md",
+    "SalesForce/Apex/Classes/Extending a Class.md",
+    "SalesForce/PD1 Notes/Approve Records with Approval Processes/Customize How Records Get Approved.md",
+    "SalesForce/PD1 Notes/Approve Records with Approval Processes",
     "SalesForce/Apex/Classes/Apex Properties.md",
+    "SalesForce/Apex/Classes/Static & Instanced Methods, Variables, & Initialization Code.md",
     "SalesForce/Apex/Classes/Classes.md",
     "SalesForce/Apex/Classes/Access Modifiers.md",
     "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
@@ -218,8 +221,6 @@
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Asynchronous Apex.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Batch Apex.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Queueable Apex.md",
-    "SalesForce/Apex/Invoking Apex/Anonymous Block.md",
-    "SalesForce/Apex/Loops/While Loops.md",
     "SalesForce/Untitled",
     "SalesForce/PD1 Notes/Formulas & Validations",
     "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex",
@@ -229,7 +230,6 @@
     "Untitled.canvas",
     "SalesForce/Apex/Invoking Apex",
     "SalesForce/Apex/SOQL & SOSL",
-    "SalesForce/Apex/Data Manipulation Language (DML)",
-    "SalesForce/Apex/Loops"
+    "SalesForce/Apex/Data Manipulation Language (DML)"
   ]
 }
