@@ -230,3 +230,8 @@ BDel.query = 'SELECT Id FROM Document WHERE FolderId=\'' + folderId +
 ID batchprocessid = Database.executeBatch(BDel);
 System.debug('Returned batch process ID: ' + batchProcessId);
 ```
+
+#### Using State in Batch Apex
+Each execution of a Batch Apex job is considered a discrete transaction. For example a job that contains 1000 records without a scope parameter is considered 5 transactions of 200 records each.
+
+If you Specify `Database.Stateful` in the class definition, you can maintain state across these transactions. 
