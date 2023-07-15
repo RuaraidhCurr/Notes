@@ -42,5 +42,38 @@ global class FutureMethodExample
 }
 ```
 
-### Future Method Limits
-- No more than 
+### Future Method [[Governor Limits]]
+- No more than 0 in batch and future contexts; 50 in queueable context method calls per Apex invocation. 
+- The maximum number of future method invocations per a 24-hour period is 250,000.
+
+### Testing Future Methods
+To test methods defined with the future annotation, call the class containing the method in a `startTest()`, `stopTest()` code block.
+```apex
+@isTest
+private class MixedDMLFutureTest {
+    @isTest static void test1() {
+        User thisUser = [SELECT Id FROM User WHERE Id = :UserInfo.getUserId()];
+       // System.runAs() allows mixed DML operations in test context
+        System.runAs(thisUser) {
+            // startTest/stopTest block to run future method synchronously
+            Test.startTest();        
+            MixedDMLFuture.useFutureMethod();
+            Test.stopTest();
+        }
+        // The future method will run after Test.stopTest();
+    
+        // Verify account is inserted
+        Account[] accts = [SELECT Id from Account WHERE Name='Acme'];
+        System.assertEquals(1, accts.size());
+        // Verify user is inserted
+        User[] users = [SELECT Id from User where username='mruiz@awcomputing.com'];
+        System.assertEquals(1, users.size());
+    }
+}
+```
+
+## Future Method best practices
+- Avoid adding large numbers of future methods to the asynchronous queue. any requests more than 2000 in the queue will be delayed while the queue handles requests from other organizations. 
+- Ensure that Future methods execute as fast as possible. To do so, minimize web service call outs and tune queries used in your future method. 
+- Test future methods at scale. 
+- consider using [[Batch Apex]] instead of future methods for large numbers of records. 
