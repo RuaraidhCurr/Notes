@@ -176,6 +176,7 @@
   },
   "active": "d89d22ed769f4656",
   "lastOpenFiles": [
+    "SalesForce/Apex/Data types & Variables/Sets.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Future Methods.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Apex Scheduler.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Asynchronous Apex.md",
@@ -203,7 +204,6 @@
     "SalesForce/Apex/Loops/While Loops.md",
     "SalesForce/Apex/Loops/For Loops.md",
     "SalesForce/Apex/Loops/Do-While Loops.md",
-    "SalesForce/Apex/Control Flow Statements/Switch Statements.md",
     "SalesForce/Apex/Invoking Apex",
     "SalesForce/Apex/SOQL & SOSL",
     "SalesForce/Apex/Data Manipulation Language (DML)",
