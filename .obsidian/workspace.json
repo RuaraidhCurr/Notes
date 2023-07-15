@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md",
+                "file": "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Debug Log.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md",
+                "file": "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Debug Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md",
+                "file": "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Debug Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md"
+                "file": "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Debug Log.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   },
   "active": "6bb6fe994736608b",
   "lastOpenFiles": [
+    "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md",
     "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md",
     "SalesForce/PD1 Notes/Development Fundamentals/Use Asynchronous Apex.md",
     "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Exceptions in Apex.md",
@@ -187,7 +188,6 @@
     "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex",
     "SalesForce/Apex/Testing, Debugging & Deploying/Deploying Apex.md",
     "SalesForce/Apex/Testing, Debugging & Deploying/Testing Apex",
-    "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md",
     "SalesForce/Apex/Testing, Debugging & Deploying",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Queueable Apex.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Batch Apex.md",
