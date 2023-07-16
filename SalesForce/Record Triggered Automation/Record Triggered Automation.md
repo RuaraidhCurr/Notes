@@ -1,3 +1,5 @@
+*More Notes can be found [here](https://architect.salesforce.com/decision-guides/trigger-automation)*
+
 We will talk about tools and recommendations for various triggered automation tools and why to choose them. We will also talk about how Flow automatically handles bulkification and recursion control, as well as some points on performance and automation design. 
 
 The table below shows the most common trigger use case, and the tolls we believe are well-suited for each. 
@@ -158,4 +160,4 @@ Given that it may be prudent to consolidate an object's automation into a single
 In the past the need for ordering has led to recommendations for consolidating all automation into a single flow. With flow trigger ordering, there is now no need to do that. 
 
 #### Organisational Issues 
-Ultimately, the best approach is one that works well with your business and 
+Ultimately, the best approach is one that works well with your business and org. If you feel abut lost, the Trailblazer Community is full of advice on how to manage a complex organization, so dig in and ask questions as you can learn how to better match you unique business and admin setup with the product.

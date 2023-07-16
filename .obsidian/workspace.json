@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/Record Triggered Automation/Record Triggered Automation.md",
+                "file": "SalesForce/PD1 Notes/Record-Triggered Flows/Triggered Flows.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/Record Triggered Automation/Record Triggered Automation.md",
+                "file": "SalesForce/PD1 Notes/Record-Triggered Flows/Triggered Flows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/Record Triggered Automation/Record Triggered Automation.md",
+                "file": "SalesForce/PD1 Notes/Record-Triggered Flows/Triggered Flows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/Record Triggered Automation/Record Triggered Automation.md"
+                "file": "SalesForce/PD1 Notes/Record-Triggered Flows/Triggered Flows.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "d89d22ed769f4656",
   "lastOpenFiles": [
-    "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
     "SalesForce/Record Triggered Automation/Record Triggered Automation.md",
+    "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
     "SalesForce/Apex/Governor Limits.md",
     "SalesForce/Visualforce/Model View Controller (MVC).md",
     "SalesForce/PD1 Notes/Approve Records with Approval Processes/Approval Process.md",
