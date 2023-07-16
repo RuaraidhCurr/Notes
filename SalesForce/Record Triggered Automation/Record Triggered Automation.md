@@ -77,12 +77,12 @@ Creating, Reading, Updated, or Deleting (CRUD), requires database operations, no
 
 Currently, Apex is faster than Flows in raw database operation speed. 
 
-The most inefficient user implementations tend to issue multiple DML statements where fewer would suffice. For example, here is an implementation of a flow trigger that updates two fields on a case's parent account record with two update record elements. 
-![[Pasted image 20230716091757.png]]
+The most inefficient user implementations tend to issue multiple [[Adding and Retrieving Data with DML|DML]] statements where fewer would suffice. For example, here is an implementation of a flow trigger that updates two fields on a case's parent account record with two update record elements. 
+<img src="https://architect.salesforce.com/1/asset/immutable/s/0672dcd/assets/images/automation-1.png"  width="500px">
 
-This is suboptimal and could be done with just one DML operation. 
+This is suboptimal and could be done with just one [[Adding and Retrieving Data with DML|DML]] operation. 
 
-Workflow Rules have gained rep for being highly performant. Part of this is attributed to how workflow rules constrain the amount of DML performed.
+Workflow Rules have gained rep for being highly performant. Part of this is attributed to how workflow rules constrain the amount of [[Adding and Retrieving Data with DML|DML]] performed.
 
 ### Complex List Processing
 
@@ -94,17 +94,24 @@ Workflow Rules have gained rep for being highly performant. Part of this is attr
 
 There are a few major list processing limitations in Flow today
 1. Flows offers a limited set of basic list processing operations out of the box
-2. THere's no way to reference an item in a Flow collection, either by index or by using Flow's Loop functionality.
-3. Loops are executed serially furing runtime, even during batch processing. For this reason, any [[SOQL & SOSL Queries|SOQL]] or [[DML]] operations that are enclosed within a loop are not bulkified. 
+2. There's no way to reference an item in a Flow collection, either by index or by using Flow's Loop functionality.
+3. Loops are executed serially during runtime, even during batch processing. For this reason, any [[SOQL & SOSL Queries|SOQL]] or [[Adding and Retrieving Data with DML|DML]] operations that are enclosed within a loop are not bulkified. 
 
+The combination of these limitations makes some common processing tasks overly cumbersome to achieve in Flow while being much more straightforward in Apex. 
 
-
-
-
+This is where extending Flows with [[Invokable Apex]] can really shine. Since these methods are declared as invokable methods, they are automatically made available to Flow users.
 
 ### [[Asynchronous Apex|Asynchronous Processing]]
 
 ^bbbe3b
+
+| |Record-Changed Flow: Before Save|Record-Changed Flow: After Save|Record-Changed Flow: After Save + Apex|Apex Triggers|
+|---|---|---|---|---|
+|Fire & Forget Asynchronous Processing|Not Available|Available|Available|Available|
+|Other Asynchronous Processing|Not Available|Available|Available|Available|
+
+
+
 
 
 

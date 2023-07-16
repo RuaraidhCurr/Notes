@@ -2,7 +2,7 @@ An approval process automates how Salesforce records are approved in your org. T
 - The steps necessary for a record to be approved and who approves it at each step.
 - The actions to take based on what happens during the approval process
 Example:
-![[290aed75cd2c408b2bba434d68a985c4_31-e-8-a-0-fb-f-3-b-5-4634-a-704-170-eb-35-d-1-b-3-c.webp]]
+<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/business_process_automation/approvals/images/290aed75cd2c408b2bba434d68a985c4_31-e-8-a-0-fb-f-3-b-5-4634-a-704-170-eb-35-d-1-b-3-c.png"  width="240px">
 
 When a user first requests approval for a new position, initial submission actions occur. The default submission actin locks the record. This action ensures that other users cannot change the record while it's being approved. 
 
