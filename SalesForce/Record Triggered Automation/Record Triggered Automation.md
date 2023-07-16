@@ -61,13 +61,21 @@ If you need highly performant evaluation of complex logic in batch scenarios, th
 3. Working with anything that requiring [[Maps|Map]]-like or [[Sets|Set]]-like functionalities.
 4. If you need Transaction savepoints. 
 
-efore-save Apex triggers are faster than before-save Flow triggers, and before-save Flow triggers are 10x faster than Workflow Rules.
+Before-save Apex triggers are faster than before-save Flow triggers, and before-save Flow triggers are 10x faster than Workflow Rules.
 
-
+While Flows have some capabilities they continue to be constrained and less feature-rich than Apex. Scheduled flows can currently do batch operations of up to 250,000 records per day.
 
 ### Cross-Object CRUD
 
 ^56710b
+
+| |Record-Changed Flow: Before Save|Record-Changed Flow: After Save|Record-Changed Flow: After Save + Apex|Apex Triggers|
+|---|---|---|---|---|
+|Cross-Object CRUD|Not Available|Available|Available|Available|
+
+Creating, Reading, Updated, or Deleting (CRUD), requires database operations, no matter what tool you use. 
+
+Currently, Apex is faster than Flows in raw database operation speed. 
 
 
 
