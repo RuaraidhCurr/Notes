@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/PD1 Notes/Search Solution Basics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42a6eb9a08b60ccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SalesForce/Record Triggered Automation/Record Triggered Automation.md",
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/PD1 Notes/Search Solution Basics.md",
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/PD1 Notes/Search Solution Basics.md",
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/PD1 Notes/Search Solution Basics.md"
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md"
               }
             }
           },
@@ -180,8 +167,10 @@
   },
   "active": "d89d22ed769f4656",
   "lastOpenFiles": [
-    "SalesForce/Record Triggered Automation/Record Triggered Automation.md",
     "SalesForce/PD1 Notes/Search Solution Basics.md",
+    "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
+    "SalesForce/Record Triggered Automation/Record Triggered Automation.md",
+    "SalesForce/PD1 Notes/Apex Basics & Database",
     "SalesForce/Apex/Invoking Apex/Apex Triggers.md",
     "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
     "SalesForce/PD1 Notes/Record-Triggered Flows/Triggered Flows.md",
@@ -210,14 +199,12 @@
     "SalesForce/PD1 Notes/Development Fundamentals/Apex & .NET basics.md",
     "SalesForce/PD1 Notes/Development Fundamentals/Use Asynchronous Apex.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Transaction Finalizers.md",
-    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Future Methods.md",
     "SalesForce/PD1 Notes/Formulas & Validations",
     "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex",
     "SalesForce/Apex/Testing, Debugging & Deploying/Testing Apex",
     "SalesForce/Apex/Testing, Debugging & Deploying",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex",
     "Untitled.canvas",
-    "SalesForce/Apex/Invoking Apex",
-    "SalesForce/Apex/SOQL & SOSL"
+    "SalesForce/Apex/Invoking Apex"
   ]
 }

@@ -86,6 +86,34 @@ In SOSL, you can use `RETURNING FieldSpec` to specify which data is returned. 
 | WITH PRICEBOOK     | ```Find {shoe} RETURNING Product2 WITH PricebookId = '01sxx0000002MffAAE'```                                                                                                 |
 
 ## Display Suggested Results
-To take advantage of this feature, here are your go-to [[REST]] resources. Each resouce has similar syntax and parameters, but use the one that best fits your use case. 
+To take advantage of this feature, here are your go-to [[REST]] resources. Each resource has similar syntax and parameters, but use the one that best fits your use case. 
 - Search Suggested records - Returns a list of suggested records who's names match the user's search string.
-- Search Suggested Artic
+- Search Suggested Article Title Matches - Returns a list of Salesforce Knowledge articles whos titles match the user's search query string
+- [[SObjects & Objects|SObject]] Suggested Article's for Case - Returns a list of suggested Salesforce knowledge articles for a case. 
+- 
+Let’s use the Search Suggested Article Title Matches option as an example of how suggestion works. Here’s the basic syntax, but check out the API docs for the full list of parameters available.
+
+```apex
+/vXX.X/search/suggestTitleMatches?q=search string&language=article language&publishStatus=article publication status
+```
+Now we use that syntax but with a specific example. The request looks like the following.
+```apex
+/vXX.X/search/suggestTitleMatches?q=race+tips&language=en_US&publishStatus=Online
+```
+And the JSON response.
+```JSON
+{
+  "autoSuggestResults" : [ {
+    "attributes" : {
+    "type" : "KnowledgeArticleVersion",
+    "url" : "/services/data/v30.0/sobjects/KnowledgeArticleVersion/ka0D00000004CcQ"
+    },
+  "Id" : "ka0D00000004CcQ",
+  "UrlName" : "tips-for-your-first-trail-race",
+  "Title" : "race tips",
+  "KnowledgeArticleId" : "kA0D00000004Cfz",
+  "isMasterLanguage" : "1",
+  } ],
+  "hasMoreResults" : false
+}
+```
