@@ -42,3 +42,6 @@ Because the flow is triggered when a record has been changed, that change is alr
 |Related Records and Actions|During the record update that triggered the flow and after that update is saved.|1. Creating, updating, or deleting other records<br>2. Calling subflows<br>3. Calling actions, such as send email alert or post to Chatter<br><br>  <br>Benefit: Automating common processes triggered by record changes|
 |Run Asynchronously|Immediately after the record update that triggered the flow is complete.|Executing more advanced scenarios like sending requests to external systems or performing other longer running processes<br><br>Benefit: Avoids slowing down or blocking the record update that triggered the flow|
 |Scheduled Paths|In the future, after the trigger has fired, based on dates and times.|Scheduling reminders or follow-ups based on dates in the record that triggered the flow, such as Close Date<br><br>Benefit: Waits a specified amount of time between the trigger firing and the automation running|
+
+
+### Record triggered flow
