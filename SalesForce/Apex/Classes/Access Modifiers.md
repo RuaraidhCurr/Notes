@@ -2,7 +2,7 @@ Apex allows you to set class access modifiers to `private`, `protected`, `public
 
 while [[Apex Triggers|riggers]] and [[Anonymous Block|anonymous blocks]] can also use these access modifiers, they aren't useful in smaller portions of apex. e.g. declaring a global methods in an anonymous block doesn't enable you to call it from outside that code. 
 
-By default, a method or variable is only visible in the apex file it's written in. We need to explicitly specify a method to be `public` for it to be available to other classes in the same application [[namespace]].
+By default, a method or variable is only visible in the apex file it's written in. We need to explicitly specify a method to be `public` for it to be available to other classes in the same application [[Namespaces|namespace]].
 
 To use the private, protected, public, or global access modifiers, use the following syntax:
 ```apex

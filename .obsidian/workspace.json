@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/Apex/Classes/Access Modifiers.md",
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/Apex/Classes/Access Modifiers.md",
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/Apex/Classes/Access Modifiers.md"
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md"
               }
             }
           },
@@ -179,10 +178,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a763cdf677fa21f8",
+  "active": "d89d22ed769f4656",
   "lastOpenFiles": [
-    "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
     "SalesForce/Apex/Classes/Access Modifiers.md",
+    "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
     "SalesForce/PD1 Notes/Search Solution Basics.md",
     "SalesForce/Record Triggered Automation/Record Triggered Automation.md",
     "SalesForce/PD1 Notes/Apex Basics & Database",

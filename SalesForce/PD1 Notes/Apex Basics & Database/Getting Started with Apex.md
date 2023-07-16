@@ -22,4 +22,20 @@ Unlike other object-oriented programming languages, Apex supports:
 - Cloud development
 - [[Apex Triggers|Triggers]]
 - [[Adding and Retrieving Data with DML|Database statements]] that allow you to make direct database calls and query languages to query and search data 
-- The [[Access Modifiers#^88dd84|global]] [[Access Modifiers|access modifier]], which is more permissive than the [[Access Modifiers#^4b5b07|public]] modifier and allows access across all [[namespace|namespaces]] and applications. 
+- The [[Access Modifiers#^88dd84|global]] [[Access Modifiers|access modifier]], which is more permissive than the [[Access Modifiers#^4b5b07|public]] modifier and allows access across all [[Namespaces|namespaces]] and applications. 
+- Versioning of custom code
+
+## Data Types Overview
+Apex supports various data types, including a data type specific to Salesforce—the sObject data type.
+
+Apex supports the following data types.
+- A [[Primitive Data types|primitive]], such as an Integer, Double, Long, Date, Datetime, String, ID, Boolean, among others.
+- An [[SObjects & Objects|sObject]], either as a generic sObject or as a specific sObject, such as an Account, Contact, or MyCustomObject__c (you’ll learn more about sObjects in a later unit.)
+- A collection, including:
+    - A [[Lists|list]] (or array) of primitives, sObjects, user defined objects, objects created from Apex classes, or collections
+    - A [[Sets|set]] of primitives, sObjects, user defined objects, objects created from Apex classes, or collections
+    - A [[Maps|map]] from a primitive to a primitive, sObject, or collection
+- A typed list of values, also known as an **_enum_**
+- User-defined Apex classes
+- System-supplied Apex classes
+
