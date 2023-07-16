@@ -29,8 +29,8 @@ Unlike other object-oriented programming languages, Apex supports:
 Apex supports various data types, including a data type specific to Salesforce—the sObject data type.
 
 Apex supports the following data types.
-- A [[Primitive Data types|primitive]], such as an Integer, Double, Long, Date, Datetime, String, ID, Boolean, among others.
-- An [[SObjects & Objects|sObject]], either as a generic sObject or as a specific sObject, such as an Account, Contact, or MyCustomObject__c (you’ll learn more about sObjects in a later unit.)
+- A [[Primitive Data types|primitive]], such as an Integer, Double, Long, Date, Datetime, String, ID, Boolean, among others
+- An [[SObjects & Objects|sObject]], either as a generic sObject or as a specific sObject, such as an Account, Contact, or MyCustomObject__c
 - A collection, including:
     - A [[Lists|list]] (or array) of primitives, sObjects, user defined objects, objects created from Apex classes, or collections
     - A [[Sets|set]] of primitives, sObjects, user defined objects, objects created from Apex classes, or collections
