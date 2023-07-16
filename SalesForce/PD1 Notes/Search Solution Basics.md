@@ -17,4 +17,16 @@ Use [[SOQL & SOSL Queries|SOSL]] when you don't know in which [[SObjects & Objec
 - Retrieve multiple objects and fields efficiently
 - Retrieve data for a particular division in an organization using the divisions features
 
-## Search Within a Single Object
+## Search Within a Single Object#
+
+To search within a single object using SOSL, simply specify that object in the request:
+```apex
+FIND {term} RETURNING ObjectTypeName
+```
+In the example, `term` is what the user enters. ObjectTypeName limits search results to include only the sObject specified. So if the user wants to find the March 2016 email campaign, the request looks like:
+```apex
+FIND {march 2016 email} RETURNING Campaign
+```
+
+## Search Within Multiple Objects
+To search within multiple Objects 
