@@ -1,3 +1,5 @@
+# Search Solutions
+
 All record are stored as data fields in the org's database. when you update or create a record, the search engine comes along, makes a copy of the data, and breaks up the content into smaller pieces called tokens. We store these tokens in the search index, along with a link back to the original record.
 
 Search index and tokens allow the search engine to apply advanced features like spell correction, nicknames, lemmatization, and synonym groups. This widens the net of results for the users search. 
@@ -19,14 +21,58 @@ Use [[SOQL & SOSL Queries|SOSL]] when you don't know in which [[SObjects & Objec
 
 ## Search Within a Single Object#
 
-To search within a single object using SOSL, simply specify that object in the request:
+To search within a single [[SObjects & Objects|object]] using [[SOQL & SOSL Queries|SOSL]], simply specify that object in the request:
 ```apex
 FIND {term} RETURNING ObjectTypeName
 ```
-In the example, `term` is what the user enters. ObjectTypeName limits search results to include only the sObject specified. So if the user wants to find the March 2016 email campaign, the request looks like:
+In the example, `term` is what the user enters. ObjectTypeName limits search results to include only the [[SObjects & Objects|sObject]] specified. So if the user wants to find the March 2016 email campaign, the request looks like:
 ```apex
 FIND {march 2016 email} RETURNING Campaign
 ```
 
 ## Search Within Multiple Objects
-To search within multiple Objects 
+To search within multiple [[SObjects & Objects|Objects]] just add a comma-separated list
+```apex
+FIND {term} RETURNING ObjectTypeName1, ObjectTypeName2, ObjectTypeNameYouGetTheIdea
+```
+e.g.
+```apex
+FIND {recycled materials} RETURNING Product2, ContentVersion, FeedItem
+```
+
+## Search Within Custom Objects
+To search within custom objects include the [[SObjects & Objects|sObject]] name and append a `__c` suffix. 
+```apex
+FIND {pink hi\-top} RETURNING Merchandise__c
+```
+
+
+# Optimize Search Results
+
+## Create Efficient Text Searches
+The more data you’re searching through and the more results you’re returning, the more you can slow down the entire operation.
+
+How do you combat sluggish searches? With two basic strategies.
+- Limit which data you’re searching through
+- Limit which data you’re returning
+
+To limit which data is searched, use `IN` SearchGroup. You can search for name, email, phone, sidebar, or all fields. For example, if you want to search only for an email, you search through only email fields.
+```apex
+FIND {jsmith@cloudkicks.com} IN EMAIL FIELDS RETURNING Contact
+```
+
+In SOSL, you can use `RETURNING FieldSpec` to specify which data is returned. We used it in the last unit, but let’s talk about the more advanced elements it includes.
+- `ObjectTypeName`—Specifies the object to return.
+- `FieldList`—Specifies the fields to return.
+- `ORDER By`—Specifies which fields to order the results by. You can also specify ascending or descending order.
+- `LIMIT n`—Sets the maximum number of records returned for the given object.
+- `OFFSET n`—Sets the starting row offset into the result set returned by your query.
+
+|Step|Goal|Example|
+|---|---|---|
+|1|Specify the object to return.|```java<br>FIND {Cloud Kicks} RETURNING Account```<br>|
+|2|Specify the field to return.|```java<br>FIND {Cloud Kicks} RETURNING Account(Name, Industry)```|
+|3|Order the results by field in ascending order, which is the default.|```java<br>FIND {Cloud Kicks} RETURNING Account (Name, Industry ORDER BY Name)```|
+|4|Set the max number of records returned|```java<br>FIND {Cloud Kicks} RETURNING Account (Name, Industry ORDER BY Name LIMIT 10)```|
+|5|Set the starting row offset into the results.|```java<br>FIND {Cloud Kicks} RETURNING Account (Name, Industry ORDER BY Name LIMIT 10 OFFSET 25)```|
+
