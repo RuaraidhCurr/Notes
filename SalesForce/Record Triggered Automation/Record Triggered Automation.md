@@ -111,10 +111,22 @@ This is where extending Flows with [[Invokable Apex]] can really shine. Since th
 |Other Asynchronous Processing|Not Available|Available|Available|Available|
 
 
+_Asynchronous processing_ has many meanings in the world of programming, but when it comes to record-triggers, there are a couple topics that generally arise. It's often requested in opposition to the default option, which is to make changes synchronously during the [[Order of Execution]].
+
+**Benefits of synchronous Processing**:
+- **Minimal Database Transactions**: Record-change triggers are generally configured to run during the initial transaction in order to optimize database transactions.
+- **Consistent Rollbacks**: for updates to other records, compiling changes into the initial transaction means that the overall change to the database will be atomic from a data integrity standpoint, and rollbacks can be handled together
+
+**Downside of Synchronous Processing**:
+- **Time Window**: The record-trigger starts with an open transaction to the database that cannot be committed until all the steps in the trigger order of execution have happened.
+- **[[Governor Limits]]**
+- **Support for External Objects and Callouts**: In general, any access to an external system that needs to wait for a response will be too long to do within the original open transaction.
+- **Mixed DML: Occasionally**, you may want to do cross-object CRUD on objects in Setup and non-Setup, like updating a user and an associated contact after a particular change.
+
+With these considerations in mind, for Apex, we recommend implementing asynchronous processing inside a Queueable Apex class. For Flow, we recommend using the Run Asynchronously path in after-save flows to achieve a similar result in a low-code manner.
 
 
-
-
+``
 ### Custom Validation Errors
 
 ^008713
