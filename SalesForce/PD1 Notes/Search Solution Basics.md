@@ -14,6 +14,7 @@ Use [[SOQL & SOSL Queries|SOQL]] when you want to:
 
 Use [[SOQL & SOSL Queries|SOSL]] when you don't know in which [[SObjects & Objects|object]] or field the data resides and you want to: 
 - Retrieve data for a specific term that you know exists within a field
-- Retrueve multiple objects and fields efficiently
+- Retrieve multiple objects and fields efficiently
 - Retrieve data for a particular division in an organization using the divisions features
 
+## Search Within a Single Object

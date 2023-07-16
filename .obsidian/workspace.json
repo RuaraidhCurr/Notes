@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
+                "file": "SalesForce/PD1 Notes/Search Solution Basics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
+                "file": "SalesForce/PD1 Notes/Search Solution Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
+                "file": "SalesForce/PD1 Notes/Search Solution Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md"
+                "file": "SalesForce/PD1 Notes/Search Solution Basics.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "d89d22ed769f4656",
   "lastOpenFiles": [
+    "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
     "SalesForce/PD1 Notes/Search Solution Basics.md",
     "SalesForce/PD1 Notes/Record-Triggered Flows/Triggered Flows.md",
     "SalesForce/Record Triggered Automation/Record Triggered Automation.md",
@@ -177,7 +178,6 @@
     "290aed75cd2c408b2bba434d68a985c4_31-e-8-a-0-fb-f-3-b-5-4634-a-704-170-eb-35-d-1-b-3-c.webp",
     "Pasted image 20230716091757.png",
     "SalesForce/Visualforce/Visualforce.md",
-    "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
     "SalesForce/Record Triggered Automation",
     "SalesForce/PD1 Notes/Record-Triggered Flows",
     "SalesForce/PD1 Notes/Approve Records with Approval Processes/Untitled.md",
