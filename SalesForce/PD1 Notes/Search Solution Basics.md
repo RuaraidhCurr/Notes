@@ -61,7 +61,7 @@ To limit which data is searched, use `IN` SearchGroup. You can search for name, 
 FIND {jsmith@cloudkicks.com} IN EMAIL FIELDS RETURNING Contact
 ```
 
-In SOSL, you can use `RETURNING FieldSpec` to specify which data is returned. We used it in the last unit, but let’s talk about the more advanced elements it includes.
+In SOSL, you can use `RETURNING FieldSpec` to specify which data is returned. More advanced elements it includes.
 - `ObjectTypeName`—Specifies the object to return.
 - `FieldList`—Specifies the fields to return.
 - `ORDER By`—Specifies which fields to order the results by. You can also specify ascending or descending order.
@@ -70,9 +70,22 @@ In SOSL, you can use `RETURNING FieldSpec` to specify which data is returned. 
 
 |Step|Goal|Example|
 |---|---|---|
-|1|Specify the object to return.|```java<br>FIND {Cloud Kicks} RETURNING Account```<br>|
-|2|Specify the field to return.|```java<br>FIND {Cloud Kicks} RETURNING Account(Name, Industry)```|
-|3|Order the results by field in ascending order, which is the default.|```java<br>FIND {Cloud Kicks} RETURNING Account (Name, Industry ORDER BY Name)```|
-|4|Set the max number of records returned|```java<br>FIND {Cloud Kicks} RETURNING Account (Name, Industry ORDER BY Name LIMIT 10)```|
-|5|Set the starting row offset into the results.|```java<br>FIND {Cloud Kicks} RETURNING Account (Name, Industry ORDER BY Name LIMIT 10 OFFSET 25)```|
+|1|Specify the object to return.|```FIND {Cloud Kicks} RETURNING Account```<br>|
+|2|Specify the field to return.|```FIND {Cloud Kicks} RETURNING Account(Name, Industry)```|
+|3|Order the results by field in ascending order, which is the default.|```FIND {Cloud Kicks} RETURNING Account (Name, Industry ORDER BY Name)```|
+|4|Set the max number of records returned|```FIND {Cloud Kicks} RETURNING Account (Name, Industry ORDER BY Name LIMIT 10)```|
+|5|Set the starting row offset into the results.|```FIND {Cloud Kicks} RETURNING Account (Name, Industry ORDER BY Name LIMIT 10 OFFSET 25)```|
 
+`WITH` filters allow you to reduce the return from a SOSL query meaning fewer results and improved performance. Types of `WITH` filters: 
+
+| Resource           | Example                                                                                                                                                                      |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| WITH DIVISION      | ```FIND {Cloud Kicks} RETURNING Account (Name, Industry) WITH DIVISION = 'Global'```                                                                                  |
+| WITH DATA CATEGORY | ```FIND {race} RETURNING KnowledgeArticleVersion (Id, Title WHERE PublishStatus='online' and language='en_US')    WITH DATA CATEGORY Location__c AT America__c``` |
+| WITH NETWORK       | ```FIND {first place} RETURNING User (Id, Name), FeedItem (id, ParentId WHERE CreatedDate = THIS_YEAR Order by CreatedDate DESC) WITH NETWORK = '00000000000001'```    |
+| WITH PRICEBOOK     | ```Find {shoe} RETURNING Product2 WITH PricebookId = '01sxx0000002MffAAE'```                                                                                                 |
+
+## Display Suggested Results
+To take advantage of this feature, here are your go-to [[REST]] resources. Each resouce has similar syntax and parameters, but use the one that best fits your use case. 
+- Search Suggested records - Returns a list of suggested records who's names match the user's search string.
+- Search Suggested Artic
