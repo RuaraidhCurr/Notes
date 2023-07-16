@@ -77,11 +77,28 @@ Creating, Reading, Updated, or Deleting (CRUD), requires database operations, no
 
 Currently, Apex is faster than Flows in raw database operation speed. 
 
+The most inefficient user implementations tend to issue multiple DML statements where fewer would suffice. For example, here is an implementation of a flow trigger that updates two fields on a case's parent account record with two update record elements. 
+![[Pasted image 20230716091757.png]]
 
+This is suboptimal and could be done with just one DML operation. 
+
+Workflow Rules have gained rep for being highly performant. Part of this is attributed to how workflow rules constrain the amount of DML performed.
 
 ### Complex List Processing
 
 ^fcaf8a
+
+| |Record-Changed Flow: Before Save|Record-Changed Flow: After Save|Record-Changed Flow: After Save + Apex|Apex Triggers|
+|---|---|---|---|---|
+|Complex List Processing|Not Available|Not Ideal|Available|Available|
+
+There are a few major list processing limitations in Flow today
+1. Flows offers a limited set of basic list processing operations out of the box
+2. THere's no way to reference an item in a Flow collection, either by index or by using Flow's Loop functionality.
+3. Loops are executed serially furing runtime, even during batch processing. For this reason, any [[SOQL & SOSL Queries|SOQL]] or [[DML]] operations that are enclosed within a loop are not bulkified. 
+
+
+
 
 
 
