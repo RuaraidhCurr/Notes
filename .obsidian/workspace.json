@@ -173,7 +173,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,7 +193,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "84f09f82255e9603",
+  "active": "426423708c487d93",
   "lastOpenFiles": [
     "SalesForce/PD1 Notes/Record-Triggered Flows/Triggered Flows.md",
     "SalesForce/Record Triggered Automation/Record Triggered Automation.md",
