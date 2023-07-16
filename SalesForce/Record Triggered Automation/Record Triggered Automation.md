@@ -125,9 +125,26 @@ _Asynchronous processing_ has many meanings in the world of programming, but wh
 
 With these considerations in mind, for Apex, we recommend implementing asynchronous processing inside a Queueable Apex class. For Flow, we recommend using the Run Asynchronously path in after-save flows to achieve a similar result in a low-code manner.
 
-when testing it's important to 
-``
+When testing it's important to think about what happens if a particular step has an error, timeout or sends back malformed data. In general asynchronous processing has more power, but requires the designer to be more thoughtful about edge cases. 
+
+When it comes to asynchronous processing, it may take additional care and consideration to design what your record-triggered automation, particularly if you require callouts to external systems or need to perpetuate state between processes. The Run Asynchronously path in Flow should meet many of your low-code needs, but complex ones around custom errors or configurable retries will require Apex instead. 
+
 ### Custom Validation Errors
 
 ^008713
 
+|                          | Record-Changed Flow: Before Save | Record-Changed Flow: After Save | Record-Changed Flow: After Save + Apex | Apex Triggers |
+| ------------------------ | -------------------------------- | ------------------------------- | -------------------------------------- | ------------- |
+| Custom Validation Errors | Not Available                    | Not Available                   | Not Available                          | Available     |
+
+*At the time*, Flow provides no way to either prevent DML operations from committing, or to throw custom errors the `addError()` apex method is not supported when executed from Flow via Apex invokable method. 
+
+
+## Designing Your Record-Triggered Automation 
+
+### What Problems Are You Trying to Solve?
+
+#### Performance
+Making your record-triggered automation performant is a multidimensional problem, and no design rule will encompass all the factors for Flow, there are two important points to remember when it comes to your design:
+1. Consolidating you automation into a single flow will not have major impact on performance complated to splitting it into multiple flows
+2. Enty conditions can be lead into significant performance improements for your record-triggered automation if they are used to exclude changes that do not impac
