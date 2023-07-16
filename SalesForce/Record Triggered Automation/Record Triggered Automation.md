@@ -146,5 +146,16 @@ When it comes to asynchronous processing, it may take additional care and consid
 
 #### Performance
 Making your record-triggered automation performant is a multidimensional problem, and no design rule will encompass all the factors for Flow, there are two important points to remember when it comes to your design:
-1. Consolidating you automation into a single flow will not have major impact on performance complated to splitting it into multiple flows
-2. Enty conditions can be lead into significant performance improements for your record-triggered automation if they are used to exclude changes that do not impac
+1. Consolidating you automation into a single flow will not have major impact on performance completed to splitting it into multiple flows
+2. Entry conditions can be lead into significant performance improvements for your record-triggered automation if they are used to exclude changes that do not impact a specific use case. 
+
+#### Troubleshooting
+As architects, we would love to never have to troubleshoot automation, but we do from time to time. While having your automation spread out among multiple tools can work during initial development, it often causes more headaches over time as changes are made in different places. This is where the advice to consolidate your automation on a single Object into either Apex or Flow comes from.
+
+Given that it may be prudent to consolidate an object's automation into a single tool when maintenance, debugging, or conflicts are likely to be a concern.
+
+#### Ordering 
+In the past the need for ordering has led to recommendations for consolidating all automation into a single flow. With flow trigger ordering, there is now no need to do that. 
+
+#### Organisational Issues 
+Ultimately, the best approach is one that works well with your business and 

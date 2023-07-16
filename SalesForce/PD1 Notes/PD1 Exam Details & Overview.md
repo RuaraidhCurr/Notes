@@ -33,13 +33,13 @@
 	- Given a scenario, display content or modify Salesforce data using a [[Visualforce|Visualforce]] page and the appropriate controllers or extensions as needed.
 	- Describe the Lightning Component framework, its benefits, and the types of content that can be contained in a Lightning web component.
 	- Given a scenario, prevent user interface and data access security vulnerabilities. 
-	- Given a scenario, display and use a custom user interface components, including Lightning Components, Flow, and Visualforce.
+	- Given a scenario, display and use a custom user interface components, including Lightning Components, [[Record Triggered Automation|Flow]], and Visualforce.
 	- Describe the use cases and best practices for Lightning Web Component events.
-	- Given a scenario, implement Apex to work with various types of page components, including Lightning Components, Flow, Next Best Actions, etc.
+	- Given a scenario, implement Apex to work with various types of page components, including Lightning Components, [[Record Triggered Automation|Flow]], Next Best Actions, etc.
 - ##### Testing, Debugging, and Deployment : 22%
-	- Write and execute tests for [[Apex Triggers|triggers]], controllers, classes, flows, and processes using various sources of test data.
+	- Write and execute tests for [[Apex Triggers|triggers]], controllers, classes, [[Record Triggered Automation|flows]], and processes using various sources of test data.
 	- Given a scenario, know how and when to use the Salesforce Developer tools such as Salesforce DX, Salesforce CLI, and Developer Console.
-	- Describe how to approach debugging system issues and monitoring flows, processes, and asynchronous and batch jobs, etc.
+	- Describe how to approach debugging system issues and monitoring [[Record Triggered Automation|flows]], processes, and asynchronous and batch jobs, etc.
 	- Describe the environments, requirements, and process for deploying code and associated configurations.
 
 ## Additional Resources:
