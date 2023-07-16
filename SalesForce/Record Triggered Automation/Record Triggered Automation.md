@@ -2,11 +2,11 @@ We will talk about tools and recommendations for various triggered automation to
 
 The table below shows the most common trigger use case, and the tolls we believe are well-suited for each. 
 
-|Low Code|-------| -------  |Pro Code|
-|---|---|---|---|
-||Before-Save Flow Trigger|After-Save Flow Trigger|After-Save Flow Trigger + Apex|Apex Triggers|
+| |Low Code|-------| -------  | Pro Code|
+|---|---|---|---| --- |
+||Before-Save Flow Trigger|After-Save Flow Trigger|After-Save Flow Trigger + Apex| [[Apex Triggers]] |
 | [[Record Triggered Automation#^f4713e\|Same-Record Field Updates]] |Available|Not Ideal|Not Ideal|Available|
-|High-Performance Batch Processing|Not Ideal|Not Ideal|Not Ideal|Available|
+|[[Record Triggered Automation#^7bdea8\|High-Performance Batch Processing]]|Not Ideal|Not Ideal|Not Ideal|Available|
 |Cross-Object CRUD|Not Available|Available|Available|Available|
 |Asynchronous Processing|Not Available|Available|Available|Available|
 |Complex List Processing|Not Available|Not Ideal|Available|Available|
@@ -43,4 +43,21 @@ It is recommended to reduce / minimize the number of same-record field updates t
 
 In our experiments, bulk same-record updated performed anywhere between 10-20x faster when doing before-save triggers. 
 
-The limitations for before-save flow triggers are that they are functionally spares: yiy cab qy=u
+The limitations for before-save flow triggers are that they are functionally spares: you can query records, loop. evaluate formulas, assign variables, perform decisions for logic and can make updates to the underlying record. 
+
+We know that same-record field updates account for the lion’s share of Workflow Rule actions executed site-wide, and are also a large contributor to problematic Process Builder execution performance.
+
+### High-Performance Batch Processing
+
+^7bdea8
+
+| |Record-Changed Flow: Before Save|Record-Changed Flow: After Save|Record-Changed Flow: After Save + Apex|Apex Triggers|
+|---|---|---|---|---|
+|High-Performance Batch Processing|Not Ideal|Not Ideal|Not Ideal|Available|
+
+If you need highly performant evaluation of complex logic in batch scenarios, then Apex and its rich debug and tooling capabilities are for you. Reasons:
+1. The ability to define and evaluating complicated logic expressions or formulas
+2. Ability for complex list processing, loading and transforming data from large numbers of records loops over loops of loops.
+3. Working with anything that requiring [[Maps|Map]]-like or [[Sets|Set]]-like functionalities.
+4. If you need Transaction savepoints. 
+
