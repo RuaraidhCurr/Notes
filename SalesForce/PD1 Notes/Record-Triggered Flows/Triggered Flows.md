@@ -42,3 +42,28 @@ Because the flow is triggered when a record has been changed, that change is alr
 |Related Records and Actions|During the record update that triggered the flow and after that update is saved.|1. Creating, updating, or deleting other records<br>2. Calling subflows<br>3. Calling actions, such as send email alert or post to Chatter<br><br>  <br>Benefit: Automating common processes triggered by record changes|
 |Run Asynchronously|Immediately after the record update that triggered the flow is complete.|Executing more advanced scenarios like sending requests to external systems or performing other longer running processes<br><br>Benefit: Avoids slowing down or blocking the record update that triggered the flow|
 |Scheduled Paths|In the future, after the trigger has fired, based on dates and times.|Scheduling reminders or follow-ups based on dates in the record that triggered the flow, such as Close Date<br><br>Benefit: Waits a specified amount of time between the trigger firing and the automation running|
+
+## Trigger Explorer
+You can change the order in which triggered flows run. perhaps you need one flow to edit a field before another flow uses it, or you want the related records that each flow creates to appear in a certain order. with Flow Trigger Explorer, you can change the order that flows run in without having to open each flow and change their settings. 
+
+To change the order that the flows run:
+
+1. Click and hold <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/record-triggered-flows/meet-flow-trigger-explorer/images/5c901af897273ca5705d926c2eeebf02_70730-dc-9-8636-48-bf-9-e-6-b-cd-4-f-754-d-6-f-57.png"> next to the flow you want to reorder. Drag it to the place in the flow order that you want this flow to run.
+2. Click the **Edit Order** button in the section you want to reorder.
+3. Repeat these steps for any other flows you want to reorder in this section. Flow Trigger Explorer highlights each flow you move, so you know what’s going to be changed.
+<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/record-triggered-flows/meet-flow-trigger-explorer/images/140a2cdc125eb3ff1a5625abcf6ff458_b-5-d-32-ea-4-bc-69-4585-8624-b-82011-cd-9-ea-4.png" />
+
+## Monitoring Record-Triggered Flows
+to monitor your Record-Triggered-Flows you use the Time-Based Workflow page.
+
+The Time-Based Workflow shows you individual instances of the flow so that you can monitor pending automation.
+
+To access the Time-Based Workflow page follow these steps:
+1. From Setup, in the Quick Find box, enter `Time` and then select **Time-Based Workflow**.
+2. Click **Search** to view all pending actions for any active flows.
+3. To filter the list of pending actions, define filter criteria (using filter type, operator, and value) and then click **Search**.
+
+To cancel pending actions:
+1. Select the pending actions that you want to cancel.
+2. Click **Delete**.
+
