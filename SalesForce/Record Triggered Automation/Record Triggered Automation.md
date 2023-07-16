@@ -5,12 +5,12 @@ The table below shows the most common trigger use case, and the tolls we believe
 | |Low Code|-------| -------  | Pro Code|
 |---|---|---|---| --- |
 ||Before-Save Flow Trigger|After-Save Flow Trigger|After-Save Flow Trigger + Apex| [[Apex Triggers]] |
-| [[Record Triggered Automation#^f4713e\|Same-Record Field Updates]] |Available|Not Ideal|Not Ideal|Available|
+|[[Record Triggered Automation#^f4713e\|Same-Record Field Updates]] |Available|Not Ideal|Not Ideal|Available|
 |[[Record Triggered Automation#^7bdea8\|High-Performance Batch Processing]]|Not Ideal|Not Ideal|Not Ideal|Available|
-|Cross-Object CRUD|Not Available|Available|Available|Available|
-|Asynchronous Processing|Not Available|Available|Available|Available|
-|Complex List Processing|Not Available|Not Ideal|Available|Available|
-|Custom Validation Errors|Not Available|Not Available|Not Available|Available|
+|[[Record Triggered Automation#^56710b\|Cross-Object CRUD]] |Not Available|Available|Available|Available|
+|[[Record Triggered Automation#^bbbe3b\|Asynchronous Processing]] |Not Available|Available|Available|Available|
+|[[Record Triggered Automation#^fcaf8a\|Complex List Processing]]|Not Available|Not Ideal|Available|Available|
+|[[Record Triggered Automation#^008713\|Custom Validation Errors]]|Not Available|Not Available|Not Available|Available|
 - **Available** = should work fine, with basic considerations.
 - **Not Ideal** = possible, but with important and potentially limiting considerations.
 - **Not Available** = no plans to support in any capacity in the next twelve months.
@@ -60,4 +60,30 @@ If you need highly performant evaluation of complex logic in batch scenarios, th
 2. Ability for complex list processing, loading and transforming data from large numbers of records loops over loops of loops.
 3. Working with anything that requiring [[Maps|Map]]-like or [[Sets|Set]]-like functionalities.
 4. If you need Transaction savepoints. 
+
+efore-save Apex triggers are faster than before-save Flow triggers, and before-save Flow triggers are 10x faster than Workflow Rules.
+
+
+
+### Cross-Object CRUD
+
+^56710b
+
+
+
+### Complex List Processing
+
+^fcaf8a
+
+
+
+### [[Asynchronous Apex|Asynchronous Processing]]
+
+^bbbe3b
+
+
+
+### Custom Validation Errors
+
+^008713
 
