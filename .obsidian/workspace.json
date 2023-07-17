@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d37cad4399da800d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
+                "file": "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
+                "file": "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md"
+                "file": "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md"
               }
             }
           },
@@ -165,9 +179,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d89d22ed769f4656",
+  "active": "d37cad4399da800d",
   "lastOpenFiles": [
     "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
+    "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
     "SalesForce/Record Triggered Automation/Record Triggered Automation.md",
     "SalesForce/PD1 Notes/Approve Records with Approval Processes/Approval Process.md",
     "SalesForce/Apex/SObjects & Objects.md",
@@ -192,7 +207,6 @@
     "SalesForce/Apex/Data types & Variables/Sets.md",
     "SalesForce/Apex/Data types & Variables/Primitive Data types.md",
     "SalesForce/Apex/Data types & Variables/Lists.md",
-    "SalesForce/Apex/Data Manipulation Language (DML)/Single vs. Bulk DML Operations.md",
     "SalesForce/PD1 Notes/Apex Basics & Database",
     "290aed75cd2c408b2bba434d68a985c4_31-e-8-a-0-fb-f-3-b-5-4634-a-704-170-eb-35-d-1-b-3-c.webp",
     "Pasted image 20230716091757.png",
