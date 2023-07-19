@@ -21,7 +21,7 @@ Language constructs that Apex support:
 Unlike other object-oriented programming languages, Apex supports:
 - Cloud development
 - [[Apex Triggers|Triggers]]
-- [[Adding and Retrieving Data with DML|Database statements]] that allow you to make direct database calls and query languages to query and search data 
+- [[Adding and Retrieving Data with DML|Database statements]] that allow you to make direct database calls and query languages to query and search data
 - The [[Access Modifiers#^88dd84|global]] [[Access Modifiers|access modifier]], which is more permissive than the [[Access Modifiers#^4b5b07|public]] modifier and allows access across all [[Namespaces|namespaces]] and applications. 
 - Versioning of custom code
 
