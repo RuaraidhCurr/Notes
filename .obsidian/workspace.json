@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/Visualforce/Model View Controller (MVC).md",
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/Visualforce/Model View Controller (MVC).md",
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/Visualforce/Model View Controller (MVC).md",
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/Visualforce/Model View Controller (MVC).md"
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md"
               }
             }
           },
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +182,7 @@
   },
   "active": "d37cad4399da800d",
   "lastOpenFiles": [
+    "SalesForce/Visualforce/Model View Controller (MVC).md",
     "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
     "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
     "SalesForce/Record Triggered Automation/Record Triggered Automation.md",
@@ -206,7 +208,6 @@
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Apex Scheduler.md",
     "SalesForce/Apex/Data types & Variables/Sets.md",
     "SalesForce/Apex/Data types & Variables/Primitive Data types.md",
-    "SalesForce/Apex/Data types & Variables/Lists.md",
     "SalesForce/PD1 Notes/Apex Basics & Database",
     "290aed75cd2c408b2bba434d68a985c4_31-e-8-a-0-fb-f-3-b-5-4634-a-704-170-eb-35-d-1-b-3-c.webp",
     "Pasted image 20230716091757.png",
