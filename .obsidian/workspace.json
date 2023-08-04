@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "af0f755331f999fb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          },
+          {
             "id": "d37cad4399da800d",
             "type": "leaf",
             "state": {
@@ -33,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +190,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d89d22ed769f4656",
+  "active": "af0f755331f999fb",
   "lastOpenFiles": [
     "DiskPrices.com.md",
     "Server Notes/Drives.md",
