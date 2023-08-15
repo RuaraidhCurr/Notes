@@ -2,3 +2,11 @@
 
 ## [SuitSupply](https://suitsupply.com/en-gb)
 
+## [Proper Cloth](https://propercloth.com/shop)
+
+## [Express](https://www.express.com/mens-clothing)
+
+## [Reiss](https://www.reiss.com/mens)
+
+## [Banana Republic](https://www.next.co.uk/shop/brand-bananarepublic/gender-men)
+
