@@ -20,7 +20,7 @@ Systematic trading refers to a method where decisions are made based on a pre-se
 	**For Example:** A trading system might be to buy a particular stock when its 50-day moving average crosses above its 200-day moving average, and sell when the opposite happens.
 
 We will be focussing on [[Chapter one - BulletProof Your Trading#Discretionary Trading|discretionary]] methods in this masterclass following these topics:
-- TRaind Teminologies/Jargons
+- Trading Terminologies/Jargons
 - Candlesticks
 - Types Of Candlesticks
 - Different Types Of Charts
