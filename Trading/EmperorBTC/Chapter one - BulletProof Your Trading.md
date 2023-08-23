@@ -66,10 +66,41 @@ When the price makes a series of higher highs and higher lowers
 ## Bullish MSB OR BOS
 Bullish market structure break of structure, happens when the prices takes out a high to form a higher high
 ## Bull Market
-A market where the prices are seeing a continuous uptrend, leading to new highs being created. 
+A market where the prices are seeing a continuous uptrend, leading to new highs being created
 ## Bull trap
-A trchinque used by market makers to buy a huge amount 
-
+A technique used by market makers to buy a huge amount suddenly, spiking the price
+## Bubble
+A situation where the prices are irrationally high as comparted to the actual value of the asset
+## Bag
+A position held in any asset or coin 
+## Bag Holder
+Someone holding a coin at a loss
+## Bear trap
+The market makers sell enormous amounts, pushing the prices down, in trun liquidating everyone else that had bought, producing a cascading effect of liquidations get a bearish break of structure. 
+## CHOCH
+Change of Character - is the first switch turning the substructure from bullish to  bearish or bearish to bullish
+## CMP
+Current Market Price
+## Consolidation
+A period where the price is ranging in a well-defined region
+## Correction
+A fall in price after making a new peak or an upward rally
+## Day trading
+Taking a position in the market and exiting in the same day
+## Deep Swings
+A deep swing high is the highest point that cases the swing low, and a deep swing low is the lowest point that causes a swing high
+## Depth of Market (DOM)
+A list/Window that shows how many open, limit buy and limit sell orders there are at different prices in real time
+## Deviation
+When prices goes below the support and then reverses, or the same happens with resistance. 
+## Downtrend 
+Aprice trnd characterised by lower highs and lower lows
+## Echange
+In terms of Ctypto, a marketplace that allows buyiung and selling of bitcoind and other coinds
+## Fib Levels
+Fibonacci levels are specific levels from swing point to swing point, these levels represent percentages. Price reacts at these levels.
+## FOMO
+Fear of missing 
 
 
 ### Extra Reading
