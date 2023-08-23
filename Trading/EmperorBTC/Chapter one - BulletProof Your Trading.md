@@ -16,7 +16,28 @@ There are two types of trading:
 Discretionary trading relies on the traders judgement for making all trading decisions. They ultimately make their decisions based on their experience, intuition & judgement. 
 	**For Example:** a discretionary trader might come in at the start of the day with a plan to trade a particular stock if it drops to a certain price. However, if news comes out during the day that changes the trader's outlook on the stock, they might decide not to buy it after all, or perhaps buy more of it than originally planned. 
 ### [[Systematic Trading]]
-Systematic trading refers to a method where desicions are mdae based on a pre-set system or alforithm. This is developed using quantative research and statistical analysis. Once a  system is developed 
+Systematic trading refers to a method where decisions are made based on a pre-set system or algorithm. This is developed using quantitative research and statistical analysis. Once a  system is developed trades are executed automatically. based on rules set for the system.
+	**For Example:** A trading system might be to buy a particular stock when its 50-day moving average crosses above its 200-day moving average, and sell when the opposite happens.
 
+We will be focussing on [[Chapter one - BulletProof Your Trading#Discretionary Trading|discretionary]] methods in this masterclass following these topics:
+- TRaind Teminologies/Jargons
+- Candlesticks
+- Types Of Candlesticks
+- Different Types Of Charts
+- Invalidation
+- Risk Management for Traders
+- Psychological Principles For Traders
+- Stop Loss
+- Entry Triggers
+- Exit Strategies
+- Position Sizing
+- Leverage For Future Trading
+- Rish-to-Reward Ration (R:R)
+- Price Action Basics
+- Laddering Orders
+- Trade Management
+- Orderflow Basics
 ### Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
+- [MindJacked](https://www.youtube.com/@MindJacked/about)
+- 
