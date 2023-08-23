@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c37516143c9d6f2a",
+        "id": "4d63b8b3e35d670d",
         "type": "tabs",
         "children": [
           {
-            "id": "d89d22ed769f4656",
+            "id": "d31c7903208f398f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d37cad4399da800d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
+                "file": "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 217.5
   },
   "right": {
     "id": "fdaff6413e2567d3",
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
+                "file": "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
+                "file": "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md"
+                "file": "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md"
               }
             }
           },
@@ -180,46 +166,51 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d37cad4399da800d",
+  "active": "d31c7903208f398f",
   "lastOpenFiles": [
+    "Trading/Images/Pasted image 20230823074736.png",
+    "Trading/Images/Pasted image 20230823074521.png",
+    "Trading/Images/Pasted image 20230823074008.png",
+    "Trading/Images/Pasted image 20230823073916.png",
+    "Trading/Images/Pasted image 20230823073846.png",
+    "Trading/Images/Pasted image 20230823073426.png",
+    "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
     "SalesForce/Visualforce/Model View Controller (MVC).md",
-    "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
-    "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
+    "SalesForce/Visualforce/Visualforce.md",
+    "Trading/Images",
+    "www.youtube.com/@MindJacked/about.md",
+    "www.youtube.com/@MindJacked",
+    "www.youtube.com",
+    "Discretionary Trading.md",
+    "Server Notes/Drives.md",
     "SalesForce/Record Triggered Automation/Record Triggered Automation.md",
-    "SalesForce/PD1 Notes/Approve Records with Approval Processes/Approval Process.md",
-    "SalesForce/Apex/SObjects & Objects.md",
-    "SalesForce/Apex/Governor Limits.md",
-    "SalesForce/Apex/Testing, Debugging & Deploying/Deploying Apex.md",
+    "Trading/EmperorBTC",
+    "Trading",
+    "SalesForce/PD1 Notes/Search Solution Basics.md",
+    "SalesForce/PD1 Notes/PD1 Exam Details & Overview.md",
     "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Exceptions in Apex.md",
     "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Debug Log.md",
-    "SalesForce/Apex/SOQL & SOSL/Working with Very Large SOQL Queries.md",
-    "SalesForce/Apex/SOQL & SOSL/SOQL For Loops.md",
-    "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
-    "SalesForce/Apex/Loops/For Loops.md",
-    "SalesForce/Apex/Loops/While Loops.md",
-    "SalesForce/Apex/Loops/Do-While Loops.md",
-    "SalesForce/Apex/Invoking Apex/Apex Triggers.md",
-    "SalesForce/Apex/Invoking Apex/Anonymous Block.md",
+    "SalesForce/Apex/Testing, Debugging & Deploying/Deploying Apex.md",
+    "SalesForce/Apex/Governor Limits.md",
+    "SalesForce/Apex/SObjects & Objects.md",
+    "SalesForce/Apex/Data Manipulation Language (DML)/Single vs. Bulk DML Operations.md",
+    "SalesForce/Apex/Data Manipulation Language (DML)/Adding and Retrieving Data with DML.md",
+    "SalesForce/PD1 Notes/Development Fundamentals/Use Asynchronous Apex.md",
+    "SalesForce/PD1 Notes/Development Fundamentals/Understand Execution Context.md",
+    "SalesForce/PD1 Notes/Development Fundamentals/Debug and Run Diagnostics.md",
+    "Cloths/Brands.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Transaction Finalizers.md",
-    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Queueable Apex.md",
-    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Future Methods.md",
-    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Batch Apex.md",
-    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Asynchronous Apex.md",
-    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Apex Scheduler.md",
-    "SalesForce/Apex/Data types & Variables/Sets.md",
-    "SalesForce/Apex/Data types & Variables/Primitive Data types.md",
+    "Cloths",
+    "DiskPrices.com.md",
+    "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
+    "Server Notes",
+    "SalesForce/PD1 Notes/Approve Records with Approval Processes/Approval Process.md",
+    "SalesForce/Apex/SOQL & SOSL/Working with Very Large SOQL Queries.md",
     "SalesForce/PD1 Notes/Apex Basics & Database",
     "290aed75cd2c408b2bba434d68a985c4_31-e-8-a-0-fb-f-3-b-5-4634-a-704-170-eb-35-d-1-b-3-c.webp",
     "Pasted image 20230716091757.png",
     "SalesForce/Record Triggered Automation",
     "SalesForce/PD1 Notes/Record-Triggered Flows",
-    "SalesForce/PD1 Notes/Approve Records with Approval Processes",
-    "SalesForce/PD1 Notes/Formulas & Validations",
-    "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex",
-    "SalesForce/Apex/Testing, Debugging & Deploying/Testing Apex",
-    "SalesForce/Apex/Testing, Debugging & Deploying",
-    "SalesForce/Apex/Invoking Apex/Asynchronous Apex",
-    "Untitled.canvas",
-    "SalesForce/Apex/Invoking Apex"
+    "Untitled.canvas"
   ]
 }
