@@ -157,7 +157,47 @@ Risk to Reward Ratio 2:1 R:R can simply be called as 2R
 Profit taking after a rally in price, which leads to lowering of price of the asset
 ## Short posistion 
 Exact opposite of a long entry. you enter a short when you expect the prices to afall
-## S
+## Sideways market
+an indecisive market which isn't leading to a breakdown or a break out
+## Spread
+The difference between what the sellers are ready to sell at and what buyers are ready to buy at. There always exists a small spread on all exchanges. The higher the liquidity, the lower the spread. 
+## Support and Resistance
+A support is a cone or line (green below) where we can expect price to bounce back. Resistance (red below) is a line/zone where we can expect price to rebound downwards. 
+![[Pasted image 20230823074521.png|600x200]]
+## Stop Loss
+ORder that is triggered when the price goes below this point, and is used to cut losses
+## Swing Trade
+This method looks for buying ans selling posisitons in a weekly range. Swing Trafers make 2-3 trades a week
+
+## Time Period / Time Frame
+The time spead of each candle in a chart. Common time persiods are 15 mins, 30min, 1 hour, 4 hour, daily and so on. In a 15min time frame, a candle will take mins to close.
+![[Pasted image 20230823074736.png|300]]
+
+## Total Supply
+The amount limit of coins that will ever exist
+## Trading Charts
+Where to see them? There are several websites to use. But use TradingView
+## Uptrend
+A price is said to be in an uptrend when it is making higher highs (HH) and Higher lows (HL) 
+## Value Area
+The range of price ;levels in which a specified percentage of all volume was traded during the time period. Typical, this percentage is set to the 70 percent, but I use 68 percent
+## Value Area Low (VAL)
+The Lowest price level within the value area
+## Value Area High (VAH)
+The highest price level within the value area
+## Volatility
+the percentage movement in the price of an asset over a period 
+## Volume weighted Average Price (VWAP)
+incorporates price and volume. It is a S/R line. When price is above VWAP, it is above value and when it is below price, it is below value
+## Walls
+Extremely Larger orders at a range 
+# Candlesticks
+
+
+
+
+
+
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
