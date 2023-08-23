@@ -37,7 +37,42 @@ We will be focussing on [[Chapter one - BulletProof Your Trading#Discretionary T
 - Laddering Orders
 - Trade Management
 - Orderflow Basics
+
+# Technical Trading Dictionary
+It is important to memorise all the common trading jargon, as it will all become useful and hopefully familiar as you study. 
+
+## Arbitrage 
+A method of making profit using the price difference between exchanges
+## Accumulation
+The process by which one builds a position in an asset 
+## Altcoin
+All coins except Bitcoin
+## Ask/Bid
+Sell orders are **asks** and buy orders are **bids**
+## ATH
+All-time High
+## Bearish MS
+When a price makes a series of lower lows and lower highs
+## Bear
+Someone who is expecting the price to go lower
+## Bearish MSB OR BOS
+When the price takes out a low to form a lower low, we get a bearish break of structure
+## Bots
+Automated trading set-ups on exchanges
+## Bull
+Someone who is expecting the price to go higher
+## Bullish MS
+When the price makes a series of higher highs and higher lowers
+## Bullish MSB OR BOS
+Bullish market structure break of structure, happens when the prices takes out a high to form a higher high
+## Bull Market
+A market where the prices are seeing a continuous uptrend, leading to new highs being created. 
+## Bull trap
+A trchinque used by market makers to buy a huge amount 
+
+
+
 ### Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
 - [MindJacked](https://www.youtube.com/@MindJacked/about)
-- 
+- [Axia Futures](https://axiafutures.com/)
