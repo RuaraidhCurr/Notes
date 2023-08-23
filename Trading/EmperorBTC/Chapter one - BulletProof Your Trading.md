@@ -201,5 +201,6 @@ Extremely Larger orders at a range
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
+- The Art of War - Sun Tzu
 - [MindJacked](https://www.youtube.com/@MindJacked/about)
 - [Axia Futures](https://axiafutures.com/)
