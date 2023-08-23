@@ -146,17 +146,17 @@ A chart pattern is a predefined shape that has been historically studied by tech
 The price level for the time period with the highest trading volume
 ![[Pasted image 20230823073426.png|400]]
 ## Positional Trading
-the aim to buy mothly lows and hold them for days, weeks or sometimes months. This is a longer term trading period
+the aim to buy monthly lows and hold them for days, weeks or sometimes months. This is a longer term trading period
 ## Rally
 An upward trend leading to increase in price of the asset, can happen in both bear and bull market
 ## Return-on-Equity (ROW)
-This is calculated by tge actual capital employed in a trade and not through leverage
+This is calculated by the actual capital employed in a trade and not through leverage
 ## R:R
 Risk to Reward Ratio 2:1 R:R can simply be called as 2R
 ## Sell off
 Profit taking after a rally in price, which leads to lowering of price of the asset
-## Short posistion 
-Exact opposite of a long entry. you enter a short when you expect the prices to afall
+## Short position 
+Exact opposite of a long entry. you enter a short when you expect the prices to fall
 ## Sideways market
 an indecisive market which isn't leading to a breakdown or a break out
 ## Spread
@@ -165,12 +165,12 @@ The difference between what the sellers are ready to sell at and what buyers are
 A support is a cone or line (green below) where we can expect price to bounce back. Resistance (red below) is a line/zone where we can expect price to rebound downwards. 
 ![[Pasted image 20230823074521.png|600x200]]
 ## Stop Loss
-ORder that is triggered when the price goes below this point, and is used to cut losses
+Order that is triggered when the price goes below this point, and is used to cut losses
 ## Swing Trade
-This method looks for buying ans selling posisitons in a weekly range. Swing Trafers make 2-3 trades a week
+This method looks for buying and selling positions in a weekly range. Swing Traders make 2-3 trades a week
 
 ## Time Period / Time Frame
-The time spead of each candle in a chart. Common time persiods are 15 mins, 30min, 1 hour, 4 hour, daily and so on. In a 15min time frame, a candle will take mins to close.
+The time spread of each candle in a chart. Common time periods are 15 mins, 30min, 1 hour, 4 hour, daily and so on. In a 15min time frame, a candle will take mins to close.
 ![[Pasted image 20230823074736.png|300]]
 
 ## Total Supply
