@@ -68,7 +68,7 @@ Bullish market structure break of structure, happens when the prices takes out a
 ## Bull Market
 A market where the prices are seeing a continuous uptrend, leading to new highs being created
 ## Bull trap
-A technique used by market makers to buy a huge amount suddenly, spiking the price
+A technique used by [[Chapter one - BulletProof Your Trading#Market Maker|market makers]] to buy a huge amount suddenly, spiking the price
 ## Bubble
 A situation where the prices are irrationally high as comparted to the actual value of the asset
 ## Bag
@@ -76,7 +76,7 @@ A position held in any asset or coin
 ## Bag Holder
 Someone holding a coin at a loss
 ## Bear trap
-The market makers sell enormous amounts, pushing the prices down, in trun liquidating everyone else that had bought, producing a cascading effect of liquidations get a bearish break of structure. 
+The [[Chapter one - BulletProof Your Trading#Market Maker|market makers]] sell enormous amounts, pushing the prices down, in trun liquidating everyone else that had bought, producing a cascading effect of liquidations get a bearish break of structure. 
 ## CHOCH
 Change of Character - is the first switch turning the substructure from bullish to  bearish or bearish to bullish
 ## CMP
@@ -94,16 +94,50 @@ A list/Window that shows how many open, limit buy and limit sell orders there ar
 ## Deviation
 When prices goes below the support and then reverses, or the same happens with resistance. 
 ## Downtrend 
-Aprice trnd characterised by lower highs and lower lows
-## Echange
-In terms of Ctypto, a marketplace that allows buyiung and selling of bitcoind and other coinds
+A price trend characterised by lower highs and lower lows
+## Exchange
+In terms of Crypto, a marketplace that allows buying and selling of bitcoin and other coins
 ## Fib Levels
 Fibonacci levels are specific levels from swing point to swing point, these levels represent percentages. Price reacts at these levels.
 ## FOMO
-Fear of missing 
-
-
-### Extra Reading
+Fear of Missing Out
+## FUD
+Fear, Uncertainty, and Doubt, negative sentiments or misinformation affecting market sentiment
+## Fractal
+A pattern of price movement that has occurred earlier and might occur again
+## FTA
+First Trouble Area, an area where price might be rejected before reaching the target
+## HH
+Higher Highs
+## HL 
+Higher Lows
+## LH 
+Lower Highs 
+## LL 
+Lower Lows
+## HTF
+Higher Time Frame
+## LIQ
+Liquidity; a liquid asset or coin means how quickly you can buy or sell somthing without moving the price too much
+## Laddering
+You place multiple buy or sell orders when wanting to enter a trade setup and get an average entry price
+## Leverage
+Refers to the extra amount of asset bought or sold, over your capital
+## Long Positions
+this is a buy position with [[Chapter one - BulletProof Your Trading#Leverage|leverage]]
+## LFT
+Lower Time Frame, usually anything under 4H
+## Margin
+The amount of funds required to open a leveraged trade
+## Market cap
+The market capitalization of an asset calculated by current supply of coins multiples by [[Chapter one - BulletProof Your Trading#CMP|CMP]] of one coin
+## Market Maker (MM)
+An individual or form that can cause large swings in price due to overwhelming position size
+## Market Structure (MS)
+defines the structure that the current market is trading in
+## Pattern
+A chart pattern 
+# Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
 - [MindJacked](https://www.youtube.com/@MindJacked/about)
 - [Axia Futures](https://axiafutures.com/)
