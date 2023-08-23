@@ -49,6 +49,7 @@ The process by which one builds a position in an asset
 All coins except Bitcoin
 ## Ask/Bid
 Sell orders are **asks** and buy orders are **bids**
+![[Pasted image 20230823074008.png|300]]
 ## ATH
 All-time High
 ## Bearish MS
@@ -85,6 +86,8 @@ Current Market Price
 A period where the price is ranging in a well-defined region
 ## Correction
 A fall in price after making a new peak or an upward rally
+
+![[Pasted image 20230823073916.png|700x300]]
 ## Day trading
 Taking a position in the market and exiting in the same day
 ## Deep Swings
@@ -115,6 +118,8 @@ Higher Lows
 Lower Highs 
 ## LL 
 Lower Lows
+
+![[Pasted image 20230823073846.png|400]]
 ## HTF
 Higher Time Frame
 ## LIQ
@@ -136,7 +141,24 @@ An individual or form that can cause large swings in price due to overwhelming p
 ## Market Structure (MS)
 defines the structure that the current market is trading in
 ## Pattern
-A chart pattern 
+A chart pattern is a predefined shape that has been historically studied by technicians. traders try use these previous performance statistics to predict future price movements
+## Point of Control (POC)
+The price level for the time period with the highest trading volume
+![[Pasted image 20230823073426.png|400]]
+## Positional Trading
+the aim to buy mothly lows and hold them for days, weeks or sometimes months. This is a longer term trading period
+## Rally
+An upward trend leading to increase in price of the asset, can happen in both bear and bull market
+## Return-on-Equity (ROW)
+This is calculated by tge actual capital employed in a trade and not through leverage
+## R:R
+Risk to Reward Ratio 2:1 R:R can simply be called as 2R
+## Sell off
+Profit taking after a rally in price, which leads to lowering of price of the asset
+## Short posistion 
+Exact opposite of a long entry. you enter a short when you expect the prices to afall
+## S
+
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
 - [MindJacked](https://www.youtube.com/@MindJacked/about)
