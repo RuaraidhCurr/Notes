@@ -85,17 +85,16 @@ The first switch turning the substructure from [[#Bullish Chapter one - BulletPr
 ## CMP
 Current Market Price. Used in reference to the price at which a particular financial instrument is currently trading at. 
 ## Consolidation
-A period where the price is ranging in a well-defined relatively narrow horizontal range/region. Where the price neither shows a strong upward no downward trend & moves within a range of [[#Support Support & Resistance Resistance Rebounds|support and resistance levels]] 
-## Correction
-A fall in price after making a new peak or an upward rally
-
+A period where the price is ranging in a well-defined relatively narrow horizontal range/region. Where the price neither shows a strong upward no downward trend & moves within a range of [[#Support Support & Resistance Resistance Rebounds|support and resistance levels]]. Trading volume may decline during consolidation periods. 
 ![[Pasted image 20230823073916.png|700x300]]
+## Correction
+A fall in price after typically after making a new peak or an upward rally. Often occur when investors take profit from a recent price movement. Corrections are often seen as healthy for markets, to help prevent excessive price bubbles or crashes. 
 ## Day trading
 Taking a position in the market and exiting in the same day
 ## Deep Swings
 A deep swing high is the highest point that cases the swing low, and a deep swing low is the lowest point that causes a swing high
 ## Depth of Market (DOM)
-A list/Window that shows how many open, limit buy and limit sell orders there are at different prices in real time
+A real time list/Window (display) that shows how many open, limit buy and limit sell orders there are at different prices in real time
 ## Deviation
 When prices goes below the support and then reverses, or the same happens with resistance. 
 ## Downtrend 
