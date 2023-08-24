@@ -73,7 +73,7 @@ A market where the prices are seeing a continuous uptrend, leading to new highs 
 ## Bull trap
 A technique used by [[Chapter one - BulletProof Your Trading#Market Maker|market makers]] to buy a huge amount suddenly, spiking the price
 ## Bubble
-A situation where the prices are irrationally high as comparted to the actual value of the asset
+A situation where the prices are irrationally high as compared to the actual value of the asset
 ## Bag
 A position held in any asset or coin 
 ## Bag Holder
