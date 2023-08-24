@@ -42,7 +42,7 @@ We will be focussing on [[Chapter one - BulletProof Your Trading#Discretionary T
 It is important to memorise all the common trading jargon, as it will all become useful and hopefully familiar as you study. 
 
 ## Arbitrage 
-A method of making profit using the price difference between exchanges. This price difference, often referred to as a "price discrepancy" or "[[Chapter one - BulletProof Your Trading#Spread|spread]]," is what allows you to make a profit
+A method of making profit using the price difference between exchanges. This price difference, often referred to as a "price discrepancy" or "[[Chapter one - BulletProof Your Trading#Spread|spread]]," is what allows you to make a profit.
 ## Accumulation
 The process by which one builds a [[Chapter one - BulletProof Your Trading#Position Positions|position]] in an asset or a phase in the market where there is an increase in buying activity. 
 ## Altcoin (Shitcoin)
@@ -53,27 +53,27 @@ Sell orders are **asks** and buy orders are **bids**. "**Bid**" price is the hig
 ## ATH
 All-time High. The highest price level a particular asset has ever reached since it started trading.
 ## Bearish [[Chapter one - BulletProof Your Trading#Market Structure (MS)|MS]]
-When a price makes a series of lower lows and lower highs
+When a price makes a series of lower lows and lower highs.
 ## Bear
-Someone who is expecting the price to go lower
+Someone who is expecting the price to go lower.
 ## Bearish [[#Market Structure Break (MSB)|MSB]] OR [[#Break of Structure (BOS)|BOS]]
-When the price takes out a low to form a lower low, we get a bearish break of structure
+When the price takes out a low to form a lower low, we get a bearish break of structure.
 ## Bots
-Automated trading set-ups on exchanges
+Automated trading set-ups on exchanges.
 ## Break of Structure (BOS)
-A "Break of Structure" occurs when the price of an asset moves decisively through a significant level of support or resistance, causing a shift in the established market structure
+A "Break of Structure" occurs when the price of an asset moves decisively through a significant level of support or resistance, causing a shift in the established market structure.
 ## Bull
-Someone who is expecting the price to go higher
+Someone who is expecting the price to go higher.
 ## Bullish [[Chapter one - BulletProof Your Trading#Market Structure (MS)|MS]]
-When the price makes a series of higher highs and higher lowers
+When the price makes a series of higher highs and higher lowers.
 ## Bullish [[Chapter one - BulletProof Your Trading#Market Structure Break (MSB)|MSB]] OR [[#Break of Structure (BOS)|BOS]]
-Bullish market structure break of structure, happens when the prices takes out a high to form a higher high
+Bullish market structure break of structure, happens when the prices takes out a high to form a higher high.
 ## Bull Market
-A market where the prices are seeing a continuous uptrend, leading to new highs being created
+A market where the prices are seeing a continuous uptrend, leading to new highs being created.
 ## Bull trap
-A technique used by [[Chapter one - BulletProof Your Trading#Market Maker|market makers]] to buy a huge amount suddenly, spiking the price
+A technique used by [[Chapter one - BulletProof Your Trading#Market Maker|market makers]] to buy a huge amount suddenly, spiking the price.
 ## Bubble
-A situation where the prices are irrationally high as compared to the actual value of the asset
+A situation where the prices are irrationally high as compared to the actual value of the asset.
 ## Bag
 A position held in any asset or coin 
 ## Bag Holder
@@ -90,25 +90,25 @@ A period where the price is ranging in a well-defined relatively narrow horizont
 ## Correction
 A fall in price after typically after making a new peak or an upward rally. Often occur when investors take profit from a recent price movement. Corrections are often seen as healthy for markets, to help prevent excessive price bubbles or crashes. 
 ## Day trading
-Taking a position in the market and exiting in the same day
+Taking a position in the market and exiting in the same day.
 ## Deep Swings
-A deep swing high is the highest point that cases the swing low, and a deep swing low is the lowest point that causes a swing high
+A deep swing high is the highest point that cases the swing low, and a deep swing low is the lowest point that causes a swing high.
 ## Depth of Market (DOM)
-A real time list/Window (display) that shows how many open, limit buy and limit sell orders there are at different prices in real time
+A real time list/Window (display) that shows how many open, limit buy and limit sell orders there are at different prices in real time.
 ## Deviation
 When prices goes below the support and then reverses, or the same happens with resistance. 
 ## Downtrend 
-A price trend characterised by lower highs and lower lows
+A price trend characterised by lower highs and lower lows.
 ## Exchange
-In terms of Crypto, a marketplace that allows buying and selling of bitcoin and other coins
+In terms of Crypto, a marketplace that allows buying and selling of bitcoin and other coins.
 ## Fib Levels
 Fibonacci levels are specific levels from swing point to swing point, these levels represent percentages. Price reacts at these levels.
 ## Financial Instrument
-Refers to various tradable assets that represent a value and can be bought, sold, or traded on financial markets. Stocks(Equities),Bonds, Derivatives, Forex(Foreign Exchange), Commodities, Cryptocurrencies, Mutual Funds and ETFs, Real Estate Investment Trusts (REITs)
+Refers to various tradable assets that represent a value and can be bought, sold, or traded on financial markets. Stocks(Equities),Bonds, Derivatives, Forex(Foreign Exchange), Commodities, Cryptocurrencies, Mutual Funds and ETFs, Real Estate Investment Trusts (REITs).
 ## FOMO
 Fear of Missing Out
 ## FUD
-Fear, Uncertainty, and Doubt, negative sentiments or misinformation affecting market sentiment
+Fear, Uncertainty, and Doubt, negative sentiments or misinformation affecting market sentiment.
 ## Fractal
 A [[#Pattern|pattern]] of price movement that seems to exhibit similar [[#Pattern|pattern]]/structure as an earlier movement and might occur again.
 ## FTA
@@ -202,11 +202,6 @@ A trading indicator that is used to calculate the average price at which an asse
 ## Walls
 Refers to significant price levels on a price chart where a large concentration of buy or sell orders exists. (Extremely Large buy or sell orders at a price range).
 # Candlesticks
-
-
-
-
-
 
 
 # Extra Reading
