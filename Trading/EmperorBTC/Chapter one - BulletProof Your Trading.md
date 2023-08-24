@@ -85,7 +85,7 @@ The first switch turning the substructure from [[#Bullish Chapter one - BulletPr
 ## CMP
 Current Market Price. Used in reference to the price at which a particular financial instrument is currently trading at. 
 ## Consolidation
-A period where the price is ranging in a well-defined relatively narrow horizontal range/region. Where the price neither shows a strong upward no downward trend & moves within a range of [[#Support Support & Resistance Resistance Rebounds|support and resistance levels]]. Trading volume may decline during consolidation periods. 
+A period where the price is ranging in a well-defined relatively narrow horizontal range/region. Where the price neither shows a strong upward no downward trend & moves within a range of [[#Support Support & Resistance Resistance Rebounds|support and resistance levels]].  similar to [[#Sideways market (range-bound market)|Sideways Market]]Trading volume may decline during consolidation periods. 
 ![[Pasted image 20230823073916.png|700x300]]
 ## Correction
 A fall in price after typically after making a new peak or an upward rally. Often occur when investors take profit from a recent price movement. Corrections are often seen as healthy for markets, to help prevent excessive price bubbles or crashes. 
@@ -161,25 +161,24 @@ This is calculated by the actual capital employed in a trade and not through [[#
 ## Resistance
 A zone of selling pressure. A Resistance Is a price level where an asset's price tends to stop rising and might reverse back down. Think of it as a "ceiling" that tends to prevent the price from going higher. 
 ## R:R
-Risk to Reward Ratio 2:1 R:R can simply be called as 2R
+Risk to Reward Ratio 2:1 R:R can simply be called as 2R. 1. **Example:** trade expected a potential profit of $200 and is willing to risk a potential loss of $100, the risk-to-reward ratio would be 2:1 ($200 potential profit / $100 potential loss).
 ## Sell off
 Profit taking after a rally in price, which leads to lowering of price of the asset
 ## Short position 
 Exact opposite of a long entry. you enter a short when you expect the prices to fall
-## Sideways market
-an indecisive market which isn't leading to a breakdown or a break out
+## Sideways market (range-bound market)
+An indecisive market. a market condition where the price of a financial asset moves within a relatively narrow range, without showing a clear and sustained upward or downward trend.
 ## Spread
-The difference between what the sellers are ready to sell at and what buyers are ready to buy at. There always exists a small spread on all exchanges. The higher the liquidity, the lower the spread.
+The difference between what the sellers are ready to sell at and what buyers are ready to buy at. There always exists a small spread on all exchanges. The higher the liquidity, the lower the spread. the difference between the bid price (the highest price a buyer is willing to pay) and the ask price (the lowest price a seller is willing to accept).
 ## Support
 A zone of potential buying pressure. A Support is a price level on a chart where an asset's price tends to stop falling and might even bounce back up. Think of it as a "floor" that tends to prevent the price from going lower.
 ## [[#Support|Support]] & [[#Resistance|Resistance]] Rebounds
 A support is a cone or line (green below) where we can expect price to bounce back. Resistance (red below) is a line/zone where we can expect price to rebound downwards. 
 ![[Pasted image 20230823074521.png|600x200]]
 ## Stop Loss
-Order that is triggered when the price goes below this point, and is used to cut losses
+A Risk management tool, It's an order placed with a broker to automatically close a trading position when the price of a financial asset reaches a specified level, known as the stop price. It is used to cut losses.
 ## Swing Trade
-This method looks for buying and selling positions in a weekly range. Swing Traders make 2-3 trades a week
-
+This method looks for buying and selling positions in a weekly range. Swing Traders make 2-3 trades a week. Swing traders look to profit from price swings or fluctuations that occur over several days to a few weeks, taking advantage of both upward and downward price movements within the broader trend
 ## Time Period / Time Frame
 The time spread of each candle in a chart. Common time periods are 15 mins, 30min, 1 hour, 4 hour, daily and so on. In a 15min time frame, a candle will take mins to close.
 ![[Pasted image 20230823074736.png|300]]
