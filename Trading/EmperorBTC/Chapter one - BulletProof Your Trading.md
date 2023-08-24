@@ -48,11 +48,11 @@ The process by which one builds a [[Chapter one - BulletProof Your Trading#Posit
 ## Altcoin
 All coins except Bitcoin
 ## Ask/Bid
-Sell orders are **asks** and buy orders are **bids**
+Sell orders are **asks** and buy orders are **bids**. "**Bid**" price is the highest price a buyer is willing to pay for a particular financial instrument at a given moment. "**Ask**" price, also known as the "offer" price, is the lowest price at which a seller is willing to sell a particular financial instrument at a given moment.
 ![[Pasted image 20230823074008.png|300]]
 ## ATH
-All-time High
-## Bearish MS
+All-time High. The highest price level a particular asset has ever reached since it started trading.
+## Bearish [[Chapter one - BulletProof Your Trading#Market Structure (MS)|MS]]
 When a price makes a series of lower lows and lower highs
 ## Bear
 Someone who is expecting the price to go lower
@@ -62,7 +62,7 @@ When the price takes out a low to form a lower low, we get a bearish break of st
 Automated trading set-ups on exchanges
 ## Bull
 Someone who is expecting the price to go higher
-## Bullish MS
+## Bullish [[Chapter one - BulletProof Your Trading#Market Structure (MS)|MS]]
 When the price makes a series of higher highs and higher lowers
 ## Bullish MSB OR BOS
 Bullish market structure break of structure, happens when the prices takes out a high to form a higher high
@@ -140,8 +140,8 @@ The amount of funds required to open a leveraged trade
 The market capitalization of an asset calculated by current supply of coins multiples by [[Chapter one - BulletProof Your Trading#CMP|CMP]] of one coin
 ## Market Maker (MM)
 An individual or form that can cause large swings in price due to overwhelming position size
-## Market Structure (MS)
-defines the structure that the current market is trading in
+## Market Structure || Market Sentiment (MS)
+defines the structure(Sentiment) that the current market is trading in. The Market sentiment can be categorized as [[Chapter one - BulletProof Your Trading#Bull Market|bullish]] (positive), [[Chapter one - BulletProof Your Trading#Bearish Chapter one - BulletProof Your Trading Market Structure (MS) MS|bearish]] (negative), or neutral.
 ## Pattern
 A chart pattern is a predefined shape that has been historically studied by technicians. traders try use these previous performance statistics to predict future price movements
 ## Point of Control (POC)
