@@ -32,7 +32,7 @@ We will be focussing on [[Chapter one - BulletProof Your Trading#Discretionary T
 - Exit Strategies
 - Position Sizing
 - Leverage For Future Trading
-- Rish-to-Reward Ration (R:R)
+- Risk-to-Reward Ration [[Chapter one - BulletProof Your Trading#R R|(R:R)]]
 - Price Action Basics
 - Laddering Orders
 - Trade Management
