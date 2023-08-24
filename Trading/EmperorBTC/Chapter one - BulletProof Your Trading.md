@@ -13,10 +13,10 @@ This is an introduction tutorial to how markets move and function and how at fir
 
 There are two types of trading:
 ### [[Discretionary Trading]]
-Discretionary trading relies on the traders judgement for making all trading decisions. They ultimately make their decisions based on their experience, intuition & judgement. 
+Discretionary trading relies on the traders judgement for making all trading decisions. They ultimately make their decisions based on their experience, analysis, intuition & judgement on the market. 
 	**For Example:** a discretionary trader might come in at the start of the day with a plan to trade a particular stock if it drops to a certain price. However, if news comes out during the day that changes the trader's outlook on the stock, they might decide not to buy it after all, or perhaps buy more of it than originally planned. 
 ### [[Systematic Trading]]
-Systematic trading refers to a method where decisions are made based on a pre-set system or algorithm. This is developed using quantitative research and statistical analysis. Once a  system is developed trades are executed automatically. based on rules set for the system.
+Systematic trading refers to a method where decisions are made based on a pre-set system or algorithm. This is developed using quantitative research and statistical analysis. Once a system is developed trades are executed automatically. based on rules set for the system.
 	**For Example:** A trading system might be to buy a particular stock when its 50-day moving average crosses above its 200-day moving average, and sell when the opposite happens.
 
 We will be focussing on [[Chapter one - BulletProof Your Trading#Discretionary Trading|discretionary]] methods in this masterclass following these topics:
@@ -42,9 +42,9 @@ We will be focussing on [[Chapter one - BulletProof Your Trading#Discretionary T
 It is important to memorise all the common trading jargon, as it will all become useful and hopefully familiar as you study. 
 
 ## Arbitrage 
-A method of making profit using the price difference between exchanges
+A method of making profit using the price difference between exchanges. This price difference, often referred to as a "price discrepancy" or "[[Chapter one - BulletProof Your Trading#Spread|spread]]," is what allows you to make a profit
 ## Accumulation
-The process by which one builds a position in an asset 
+The process by which one builds a position in an asset or a phase in the market where there is an increase in buying activity. 
 ## Altcoin
 All coins except Bitcoin
 ## Ask/Bid
