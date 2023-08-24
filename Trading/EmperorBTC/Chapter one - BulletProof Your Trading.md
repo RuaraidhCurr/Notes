@@ -172,8 +172,8 @@ an indecisive market which isn't leading to a breakdown or a break out
 ## Spread
 The difference between what the sellers are ready to sell at and what buyers are ready to buy at. There always exists a small spread on all exchanges. The higher the liquidity, the lower the spread.
 ## Support
-Traders often see support levels as areas where there's potential buying interest Support is a price level on a chart where an asset's price tends to stop falling and might even bounce back up. Think of it as a "floor" that tends to prevent the price from going lower.
-## Support and Resistance
+A zone of potential buying pressure. A Support is a price level on a chart where an asset's price tends to stop falling and might even bounce back up. Think of it as a "floor" that tends to prevent the price from going lower.
+## [[#Support|Support]] & [[#Resistance|Resistance]] Rebounds
 A support is a cone or line (green below) where we can expect price to bounce back. Resistance (red below) is a line/zone where we can expect price to rebound downwards. 
 ![[Pasted image 20230823074521.png|600x200]]
 ## Stop Loss
