@@ -56,15 +56,17 @@ All-time High. The highest price level a particular asset has ever reached since
 When a price makes a series of lower lows and lower highs
 ## Bear
 Someone who is expecting the price to go lower
-## Bearish MSB OR BOS
+## Bearish [[#Market Structure Break (MSB)|MSB]] OR [[#Break of Structure (BOS)|BOS]]
 When the price takes out a low to form a lower low, we get a bearish break of structure
 ## Bots
 Automated trading set-ups on exchanges
+## Break of Structure (BOS)
+A "Break of Structure" occurs when the price of an asset moves decisively through a significant level of support or resistance, causing a shift in the established market structure
 ## Bull
 Someone who is expecting the price to go higher
 ## Bullish [[Chapter one - BulletProof Your Trading#Market Structure (MS)|MS]]
 When the price makes a series of higher highs and higher lowers
-## Bullish MSB OR BOS
+## Bullish [[Chapter one - BulletProof Your Trading#Market Structure Break (MSB)|MSB]] OR [[#Break of Structure (BOS)|BOS]]
 Bullish market structure break of structure, happens when the prices takes out a high to form a higher high
 ## Bull Market
 A market where the prices are seeing a continuous uptrend, leading to new highs being created
@@ -140,6 +142,8 @@ The amount of funds required to open a leveraged trade
 The market capitalization of an asset calculated by current supply of coins multiples by [[Chapter one - BulletProof Your Trading#CMP|CMP]] of one coin
 ## Market Maker (MM)
 An individual or form that can cause large swings in price due to overwhelming position size
+## Market Structure Break (MSB)
+market structure break occurs when the price of an asset breaks through a significant level of support or resistance, signalling a potential shift in the overall market trend
 ## Market Structure || Market Sentiment (MS)
 defines the structure(Sentiment) that the current market is trading in. The Market sentiment can be categorized as [[Chapter one - BulletProof Your Trading#Bull Market|bullish]] (positive), [[Chapter one - BulletProof Your Trading#Bearish Chapter one - BulletProof Your Trading Market Structure (MS) MS|bearish]] (negative), or neutral.
 ## Pattern
@@ -155,6 +159,8 @@ the aim to buy monthly lows and hold them for days, weeks or sometimes months. T
 An upward trend leading to increase in price of the asset, can happen in both bear and bull market
 ## Return-on-Equity (ROW)
 This is calculated by the actual capital employed in a trade and not through leverage
+## Resistance
+A zone of selling pressure. A Resistance Is a price level where an asset's price tends to stop rising and might reverse back down. Think of it as a "ceiling" that tends to prevent the price from going higher. 
 ## R:R
 Risk to Reward Ratio 2:1 R:R can simply be called as 2R
 ## Sell off
@@ -164,7 +170,9 @@ Exact opposite of a long entry. you enter a short when you expect the prices to 
 ## Sideways market
 an indecisive market which isn't leading to a breakdown or a break out
 ## Spread
-The difference between what the sellers are ready to sell at and what buyers are ready to buy at. There always exists a small spread on all exchanges. The higher the liquidity, the lower the spread. 
+The difference between what the sellers are ready to sell at and what buyers are ready to buy at. There always exists a small spread on all exchanges. The higher the liquidity, the lower the spread.
+## Support
+Traders often see support levels as areas where there's potential buying interest Support is a price level on a chart where an asset's price tends to stop falling and might even bounce back up. Think of it as a "floor" that tends to prevent the price from going lower.
 ## Support and Resistance
 A support is a cone or line (green below) where we can expect price to bounce back. Resistance (red below) is a line/zone where we can expect price to rebound downwards. 
 ![[Pasted image 20230823074521.png|600x200]]
