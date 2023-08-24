@@ -110,9 +110,9 @@ Fear of Missing Out
 ## FUD
 Fear, Uncertainty, and Doubt, negative sentiments or misinformation affecting market sentiment
 ## Fractal
-A pattern of price movement that has occurred earlier and might occur again
+A pattern of price movement that seems to exhibit similar pattern/structure as an earlier movement and might occur again
 ## FTA
-First Trouble Area, an area where price might be rejected before reaching the target
+First Trouble Area, an area where price might be rejected before reaching the target. in other words The FTA is a specific price level where historical price action has shown that the asset had previously encountered [[#Resistance|resistance]]
 ## HH
 Higher Highs
 ## HL 
@@ -126,7 +126,7 @@ Lower Lows
 ## HTF
 Higher Time Frame
 ## LIQ
-Liquidity; a liquid asset or coin means how quickly you can buy or sell somthing without moving the price too much
+Liquidity; a liquid asset or coin means how quickly you can buy or sell an asset without significantly moving the [[C|MP]] too much
 ## Laddering
 You place multiple buy or sell orders when wanting to enter a trade setup and get an average entry price
 ## Leverage
