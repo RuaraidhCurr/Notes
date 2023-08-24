@@ -44,7 +44,7 @@ It is important to memorise all the common trading jargon, as it will all become
 ## Arbitrage 
 A method of making profit using the price difference between exchanges. This price difference, often referred to as a "price discrepancy" or "[[Chapter one - BulletProof Your Trading#Spread|spread]]," is what allows you to make a profit
 ## Accumulation
-The process by which one builds a position in an asset or a phase in the market where there is an increase in buying activity. 
+The process by which one builds a [[Chapter one - BulletProof Your Trading#Position Positions|position]] in an asset or a phase in the market where there is an increase in buying activity. 
 ## Altcoin
 All coins except Bitcoin
 ## Ask/Bid
@@ -102,6 +102,8 @@ A price trend characterised by lower highs and lower lows
 In terms of Crypto, a marketplace that allows buying and selling of bitcoin and other coins
 ## Fib Levels
 Fibonacci levels are specific levels from swing point to swing point, these levels represent percentages. Price reacts at these levels.
+## Financial Instrument
+Refers to various tradable assets that represent a value and can be bought, sold, or traded on financial markets. Stocks(Equities),Bonds, Derivatives, Forex(Foreign Exchange), Commodities, Cryptocurrencies, Mutual Funds and ETFs, Real Estate Investment Trusts (REITs)
 ## FOMO
 Fear of Missing Out
 ## FUD
@@ -145,6 +147,8 @@ A chart pattern is a predefined shape that has been historically studied by tech
 ## Point of Control (POC)
 The price level for the time period with the highest trading volume
 ![[Pasted image 20230823073426.png|400]]
+## Position || Positions
+A position is the specific investment or trade that a trader has entered into the market. e.g. 100 shares of a company's stock, 
 ## Positional Trading
 the aim to buy monthly lows and hold them for days, weeks or sometimes months. This is a longer term trading period
 ## Rally
