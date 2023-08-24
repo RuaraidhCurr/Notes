@@ -126,17 +126,17 @@ Lower Lows
 ## HTF
 Higher Time Frame
 ## LIQ
-Liquidity; a liquid asset or coin means how quickly you can buy or sell an asset without significantly moving the [[C|MP]] too much
+Liquidity; a liquid asset or coin means how quickly you can buy or sell an asset without significantly moving the [[#CMP|CMP]] too much.
 ## Laddering
-You place multiple buy or sell orders when wanting to enter a trade setup and get an average entry price
+You place multiple buy or sell orders when wanting to enter a trade setup and get an average entry price. Used to minimize the impact of a large order on the market while potentially taking advantage of price fluctuations. 
 ## Leverage
-Refers to the extra amount of asset bought or sold, over your capital
+Refers to the use of borrowed capital, often provided by a broker, to increase the potential return on an investment in proportion to the traders [[#Margin|margin]]. 2x, 5x, 20x, 50x, 100x etc... also known as ratio: 2:1 = 2x, 10:1 = 10x, etc.. 
 ## Long Positions
 this is a buy position with [[Chapter one - BulletProof Your Trading#Leverage|leverage]]
 ## LFT
 Lower Time Frame, usually anything under 4H
 ## Margin
-The amount of funds required to open a leveraged trade
+The amount of funds required to open a [[#Leverage|leveraged]] trade. A portion of a traders capital used as collateral, known as "Margin."
 ## Market cap
 The market capitalization of an asset calculated by current supply of coins multiples by [[Chapter one - BulletProof Your Trading#CMP|CMP]] of one coin
 ## Market Maker (MM)
@@ -157,7 +157,7 @@ the aim to buy monthly lows and hold them for days, weeks or sometimes months. T
 ## Rally
 An upward trend leading to increase in price of the asset, can happen in both bear and bull market
 ## Return-on-Equity (ROW)
-This is calculated by the actual capital employed in a trade and not through leverage
+This is calculated by the actual capital employed in a trade and not through [[#Leverage|leverage]]
 ## Resistance
 A zone of selling pressure. A Resistance Is a price level where an asset's price tends to stop rising and might reverse back down. Think of it as a "ceiling" that tends to prevent the price from going higher. 
 ## R:R
