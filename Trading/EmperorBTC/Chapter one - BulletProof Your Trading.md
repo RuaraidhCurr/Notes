@@ -110,9 +110,9 @@ Fear of Missing Out
 ## FUD
 Fear, Uncertainty, and Doubt, negative sentiments or misinformation affecting market sentiment
 ## Fractal
-A [[#Pattern|pattern]] of price movement that seems to exhibit similar [[#Pattern|pattern]]/structure as an earlier movement and might occur again
+A [[#Pattern|pattern]] of price movement that seems to exhibit similar [[#Pattern|pattern]]/structure as an earlier movement and might occur again.
 ## FTA
-First Trouble Area, an area where price might be rejected before reaching the target. in other words The FTA is a specific price level where historical price action has shown that the asset had previously encountered [[#Resistance|resistance]]
+First Trouble Area, an area where price might be rejected before reaching the target. in other words The FTA is a specific price level where historical price action has shown that the asset had previously encountered [[#Resistance|resistance]].
 ## HH
 Higher Highs
 ## HL 
@@ -130,42 +130,42 @@ Liquidity; a liquid asset or coin means how quickly you can buy or sell an asset
 ## Laddering
 You place multiple buy or sell orders when wanting to enter a trade setup and get an average entry price. Used to minimize the impact of a large order on the market while potentially taking advantage of price fluctuations. 
 ## Leverage
-Refers to the use of borrowed capital, often provided by a broker, to increase the potential return on an investment in proportion to the traders [[#Margin|margin]]. 2x, 5x, 20x, 50x, 100x etc... also known as ratio: 2:1 = 2x, 10:1 = 10x, etc.. 
+Refers to the use of borrowed capital, often provided by a broker, to increase the potential return on an investment in proportion to the traders [[#Margin|margin]]. 2x, 5x, 20x, 50x, 100x etc... also known as ratio: 2:1 = 2x, 10:1 = 10x, etc.
 ## Long Positions
-this is a buy position with [[Chapter one - BulletProof Your Trading#Leverage|leverage]]
+this is a buy position with [[Chapter one - BulletProof Your Trading#Leverage|leverage]].
 ## LFT
-Lower Time Frame, usually anything under 4H
+Lower Time Frame, usually anything under 4H.
 ## Margin
 The amount of funds required to open a [[#Leverage|leveraged]] trade. A portion of a traders capital used as collateral, known as "Margin."
 ## Market cap
 The market capitalization is the total value of a publicly traded company or a financial asset  calculated by [[Chapter one - BulletProof Your Trading#CMP|CMP]] an asset multiplied the total number of outstanding shares or units. 
 ## Market Maker (MM)
-An individual or form that can cause large swings in price due to overwhelming position size
+An individual or form that can cause large swings in price due to overwhelming position size.
 ## Market Structure Break (MSB)
-Market structure break occurs when the price of an asset breaks through a significant level of [[#Support|support]] or [[#Resistance|resistance]], signalling a potential shift in the overall [[#Market Structure Market Sentiment (MS)|market sentiment]]
+Market structure break occurs when the price of an asset breaks through a significant level of [[#Support|support]] or [[#Resistance|resistance]], signalling a potential shift in the overall [[#Market Structure Market Sentiment (MS)|market sentiment]].
 ## Market Structure || Market Sentiment (MS)
 defines the structure(Sentiment) that the current market is trading in. The Market sentiment can be categorized as [[Chapter one - BulletProof Your Trading#Bull Market|bullish]] (positive), [[Chapter one - BulletProof Your Trading#Bearish Chapter one - BulletProof Your Trading Market Structure (MS) MS|bearish]] (negative), or neutral.
 ## Pattern
-A chart pattern is a predefined shape that has been historically studied by technicians. traders try use these previous performance statistics to predict future price movements
+A chart pattern is a predefined shape that has been historically studied by technicians. traders try use these previous performance statistics to predict future price movements.
 ## Point of Control (POC)
-The price level with the highest trading volume, for a specific period of time 
+The price level with the highest trading volume, for a specific period of time.
 ![[Pasted image 20230823073426.png|400]]
 ## Position || Positions
-A position is the specific investment or trade that a trader has entered into the market. e.g. 100 shares of a company's stock, 
+A position is the specific investment or trade that a trader has entered into the market. e.g. 100 shares of a company's stock.
 ## Positional Trading
-The aim to buy monthly lows and hold them for days, weeks or sometimes months. This is a longer term trading period
+The aim to buy monthly lows and hold them for days, weeks or sometimes months. This is a longer term trading period.
 ## Rally
-An upward trend leading to increase in price of the asset, can happen in both bear and bull market
+An upward trend leading to increase in price of the asset, can happen in both bear and bull market.
 ## Return-on-Equity (ROE)
-This is calculated by the actual capital employed in a trade and not through [[#Leverage|leverage]]
+This is calculated by the actual capital employed in a trade and not through [[#Leverage|leverage]].
 ## Resistance
 A zone of selling pressure. A Resistance Is a price level where an asset's price tends to stop rising and might reverse back down. Think of it as a "ceiling" that tends to prevent the price from going higher. 
 ## R:R
 Risk to Reward Ratio 2:1 R:R can simply be called as 2R. 1. **Example:** trade expected a potential profit of $200 and is willing to risk a potential loss of $100, the risk-to-reward ratio would be 2:1 ($200 potential profit / $100 potential loss).
 ## Sell off
-Profit taking after a rally in price, which leads to lowering of price of the asset
+Profit taking after a rally in price, which leads to lowering of price of the asset.
 ## Short position 
-Exact opposite of a long entry. you enter a short when you expect the prices to fall
+Exact opposite of a long entry. you enter a short when you expect the prices to fall.
 ## Sideways market (range-bound market)
 An indecisive market. a market condition where the price of a financial asset moves within a relatively narrow range, without showing a clear and sustained upward or downward trend.
 ## Spread
@@ -178,29 +178,29 @@ A support is a cone or line (green below) where we can expect price to bounce ba
 ## Stop Loss
 A Risk management tool, It's an order placed with a broker to automatically close a trading position when the price of a financial asset reaches a specified level, known as the stop price. It is used to cut losses.
 ## Swing Trade
-This method looks for buying and selling positions in a weekly range. Swing Traders make 2-3 trades a week. Swing traders look to profit from price swings or fluctuations that occur over several days to a few weeks, taking advantage of both upward and downward price movements within the broader trend
+This method looks for buying and selling positions in a weekly range. Swing Traders make 2-3 trades a week. Swing traders look to profit from price swings or fluctuations that occur over several days to a few weeks, taking advantage of both upward and downward price movements within the broader trend.
 ## Time Period / Time Frame
 The time spread of each candle in a chart. Common time periods are 15 mins, 30min, 1 hour, 4 hour, daily and so on. In a 15min time frame, a candle will take mins to close.
 ![[Pasted image 20230823074736.png|300]]
 
 ## Total Supply
-The amount limit of coins that will ever exist
+The amount limit of coins that will ever exist.
 ## Trading Charts
-Where to see them? There are several websites to use. But use TradingView
+Where to see them? There are several websites to use. But use TradingView.
 ## Uptrend
-A price is said to be in an uptrend when it is making higher highs (HH) and Higher lows (HL) 
+A price is said to be in an uptrend when it is making higher highs (HH) and Higher lows (HL).
 ## Value Area
-The range of price levels in which a specified percentage of all volume was traded during the time period. Typical, this percentage is set to the 70 percent, but I use 68 percent
+The Value Area represents a range of prices within which a specific percentage of trading activity occurred during a given period of time, often a trading session or a day. Typical, this percentage is set to the 70 percent, but I use 68 percent.
 ## Value Area Low (VAL)
-The Lowest price level within the value area
+The Lowest price level within the value area.
 ## Value Area High (VAH)
-The highest price level within the value area
+The highest price level within the value area.
 ## Volatility
-the percentage movement in the price of an asset over a period 
+The degree of variation in the price of a financial asset over time. It measures how much and how quickly the price of an asset changes, indicating the level of uncertainty or risk in the market. High volatility means that prices are fluctuating significantly, while low volatility means that prices are relatively stable.
 ## Volume weighted Average Price (VWAP)
-incorporates price and volume. It is a S/R line. When price is above VWAP, it is above value and when it is below price, it is below value
+A trading indicator that is used to calculate the average price at which an asset has been traded throughout a given trading session, taking into account the volume of each trade. It incorporates price and volume. It is a [[#Support Support & Resistance Resistance Rebounds|S/R]] line. When price is above VWAP, it is above value and when it is below price, it is below value.
 ## Walls
-Extremely Larger orders at a range 
+Refers to significant price levels on a price chart where a large concentration of buy or sell orders exists. (Extremely Large buy or sell orders at a price range).
 # Candlesticks
 
 
