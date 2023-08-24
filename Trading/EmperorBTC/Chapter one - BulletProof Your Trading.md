@@ -45,7 +45,7 @@ It is important to memorise all the common trading jargon, as it will all become
 A method of making profit using the price difference between exchanges. This price difference, often referred to as a "price discrepancy" or "[[Chapter one - BulletProof Your Trading#Spread|spread]]," is what allows you to make a profit
 ## Accumulation
 The process by which one builds a [[Chapter one - BulletProof Your Trading#Position Positions|position]] in an asset or a phase in the market where there is an increase in buying activity. 
-## Altcoin
+## Altcoin (Shitcoin)
 All coins except Bitcoin
 ## Ask/Bid
 Sell orders are **asks** and buy orders are **bids**. "**Bid**" price is the highest price a buyer is willing to pay for a particular financial instrument at a given moment. "**Ask**" price, also known as the "offer" price, is the lowest price at which a seller is willing to sell a particular financial instrument at a given moment.
@@ -79,9 +79,9 @@ A position held in any asset or coin
 ## Bag Holder
 Someone holding a coin at a loss
 ## Bear trap
-The [[Chapter one - BulletProof Your Trading#Market Maker|market makers]] sell enormous amounts, pushing the prices down, in trun liquidating everyone else that had bought, producing a cascading effect of liquidations get a bearish break of structure. 
-## CHOCH
-Change of Character - is the first switch turning the substructure from bullish to  bearish or bearish to bullish
+The [[Chapter one - BulletProof Your Trading#Market Maker|market makers]] sell enormous amounts, pushing the prices down, in turn liquidating everyone else that had bought, producing a cascading effect of liquidations get a bearish break of structure. 
+## Change of Character (CHOCH)
+The first switch turning the substructure from bullish to  bearish or bearish to bullish
 ## CMP
 Current Market Price
 ## Consolidation
