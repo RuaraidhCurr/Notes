@@ -191,7 +191,7 @@ Where to see them? There are several websites to use. But use TradingView
 ## Uptrend
 A price is said to be in an uptrend when it is making higher highs (HH) and Higher lows (HL) 
 ## Value Area
-The range of price ;levels in which a specified percentage of all volume was traded during the time period. Typical, this percentage is set to the 70 percent, but I use 68 percent
+The range of price levels in which a specified percentage of all volume was traded during the time period. Typical, this percentage is set to the 70 percent, but I use 68 percent
 ## Value Area Low (VAL)
 The Lowest price level within the value area
 ## Value Area High (VAH)
