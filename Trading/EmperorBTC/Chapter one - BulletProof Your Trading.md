@@ -81,7 +81,7 @@ Someone holding a coin at a loss
 ## Bear trap
 The [[Chapter one - BulletProof Your Trading#Market Maker|market makers]] sell enormous amounts, pushing the prices down, in turn liquidating everyone else that had bought, producing a cascading effect of liquidations get a bearish break of structure. 
 ## Change of Character (CHOCH)
-The first switch turning the substructure from [[#Bullish Chapter one - BulletProof Your Trading Market Structure Break (MSB) MSB OR Break of Structure (BOS) BOS|bullish]] to [[#Bearish Chapter one - BulletProof Your Trading Market Structure (MS) MS|bearish]], or [[#Bearish Chapter one - BulletProof Your Trading Market Structure (MS) MS|bearish]] to [[#Bullish Chapter one - BulletProof Your Trading Market Structure (MS) MS|bullish]]. Or a shift in behaviour of an assests price movement or market conditions. The current [[|pattern]] or trend has undergone noticeable change, potentially changing the [[#Market Structure Market Sentiment (MS)|markets sentiment]].
+The first switch turning the substructure from [[#Bullish Chapter one - BulletProof Your Trading Market Structure Break (MSB) MSB OR Break of Structure (BOS) BOS|bullish]] to [[#Bearish Chapter one - BulletProof Your Trading Market Structure (MS) MS|bearish]], or [[#Bearish Chapter one - BulletProof Your Trading Market Structure (MS) MS|bearish]] to [[#Bullish Chapter one - BulletProof Your Trading Market Structure (MS) MS|bullish]]. Or a shift in behaviour of an assests price movement or market conditions. The current [[#Pattern|pattern]] or trend has undergone noticeable change, potentially changing the [[#Market Structure Market Sentiment (MS)|markets sentiment]].
 ## CMP
 Current Market Price. Used in reference to the price at which a particular financial instrument is currently trading at. 
 ## Consolidation
@@ -110,7 +110,7 @@ Fear of Missing Out
 ## FUD
 Fear, Uncertainty, and Doubt, negative sentiments or misinformation affecting market sentiment
 ## Fractal
-A pattern of price movement that seems to exhibit similar pattern/structure as an earlier movement and might occur again
+A [[#Pattern|pattern]] of price movement that seems to exhibit similar [[#Pattern|pattern]]/structure as an earlier movement and might occur again
 ## FTA
 First Trouble Area, an area where price might be rejected before reaching the target. in other words The FTA is a specific price level where historical price action has shown that the asset had previously encountered [[#Resistance|resistance]]
 ## HH
@@ -148,15 +148,15 @@ defines the structure(Sentiment) that the current market is trading in. The Mark
 ## Pattern
 A chart pattern is a predefined shape that has been historically studied by technicians. traders try use these previous performance statistics to predict future price movements
 ## Point of Control (POC)
-The price level for the time period with the highest trading volume
+The price level with the highest trading volume, for a specific period of time 
 ![[Pasted image 20230823073426.png|400]]
 ## Position || Positions
 A position is the specific investment or trade that a trader has entered into the market. e.g. 100 shares of a company's stock, 
 ## Positional Trading
-the aim to buy monthly lows and hold them for days, weeks or sometimes months. This is a longer term trading period
+The aim to buy monthly lows and hold them for days, weeks or sometimes months. This is a longer term trading period
 ## Rally
 An upward trend leading to increase in price of the asset, can happen in both bear and bull market
-## Return-on-Equity (ROW)
+## Return-on-Equity (ROE)
 This is calculated by the actual capital employed in a trade and not through [[#Leverage|leverage]]
 ## Resistance
 A zone of selling pressure. A Resistance Is a price level where an asset's price tends to stop rising and might reverse back down. Think of it as a "ceiling" that tends to prevent the price from going higher. 
