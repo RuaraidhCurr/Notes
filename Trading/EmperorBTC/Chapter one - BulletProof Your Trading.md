@@ -81,11 +81,11 @@ Someone holding a coin at a loss
 ## Bear trap
 The [[Chapter one - BulletProof Your Trading#Market Maker|market makers]] sell enormous amounts, pushing the prices down, in turn liquidating everyone else that had bought, producing a cascading effect of liquidations get a bearish break of structure. 
 ## Change of Character (CHOCH)
-The first switch turning the substructure from bullish to  bearish or bearish to bullish
+The first switch turning the substructure from [[#Bullish Chapter one - BulletProof Your Trading Market Structure Break (MSB) MSB OR Break of Structure (BOS) BOS|bullish]] to [[#Bearish Chapter one - BulletProof Your Trading Market Structure (MS) MS|bearish]], or [[#Bearish Chapter one - BulletProof Your Trading Market Structure (MS) MS|bearish]] to [[#Bullish Chapter one - BulletProof Your Trading Market Structure (MS) MS|bullish]]. Or a shift in behaviour of an assests price movement or market conditions. The current pattern or trend has undergone noticeable change, potentially changing the [[#Market Structure Market Sentiment (MS)|markets sentiment]].
 ## CMP
-Current Market Price
+Current Market Price. Used in reference to the price at which a particular financial instrument is currently trading at. 
 ## Consolidation
-A period where the price is ranging in a well-defined region
+A period where the price is ranging in a well-defined relatively narrow horizontal range/region. Where the price neither shows a strong upward no downward trend & moves within a range of [[#Support Support & Resistance Resistance Rebounds|support and resistance levels]] 
 ## Correction
 A fall in price after making a new peak or an upward rally
 
