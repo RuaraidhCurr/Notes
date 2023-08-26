@@ -147,6 +147,8 @@ An individual or form that can cause large swings in price due to overwhelming p
 Market structure break occurs when the price of an asset breaks through a significant level of [[#Support|support]] or [[#Resistance|resistance]], signalling a potential shift in the overall [[#Market Structure Market Sentiment (MS)|market sentiment]].
 ## Market Structure || Market Sentiment (MS)
 defines the structure(Sentiment) that the current market is trading in. The Market sentiment can be categorized as [[Chapter one - BulletProof Your Trading#Bull Market|bullish]] (positive), [[Chapter one - BulletProof Your Trading#Bearish Chapter one - BulletProof Your Trading Market Structure (MS) MS|bearish]] (negative), or neutral.
+## Moving Average Convergence Divergence (MACD)
+A popular technical indicator used in trading and technical analysis to identify potential trends, pinetum shifts, and potential buy or sell signals. 
 ## Pattern
 A chart pattern is a predefined shape that has been historically studied by technicians. traders try use these previous performance statistics to predict future price movements.
 ## Point of Control (POC)
