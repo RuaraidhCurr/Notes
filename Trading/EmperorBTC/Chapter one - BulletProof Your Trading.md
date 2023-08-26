@@ -96,7 +96,7 @@ A deep swing high is the highest point that cases the swing low, and a deep swin
 ## Depth of Market (DOM)
 A real time list/Window (display) that shows how many open, limit buy and limit sell orders there are at different prices in real time.
 ## Divergence
-a techincal analysis concept used to identify potential trend reversals or shifts in momentum based on the relationship between price movements and the movements of technical indicators 
+a technical analysis concept used to identify potential trend reversals or shifts in momentum based on the relationship between price movements and the movements of technical indicators. Divergence occurs when there is a disagreement or "divergence" between the direction of price and the direction of an indicator, suggesting that a trend reversal might be imminent.
 ## Deviation
 When prices goes below the support and then reverses, or the same happens with resistance. 
 ## Downtrend 
