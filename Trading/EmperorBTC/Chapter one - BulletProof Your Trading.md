@@ -95,6 +95,8 @@ Taking a position in the market and exiting in the same day.
 A deep swing high is the highest point that cases the swing low, and a deep swing low is the lowest point that causes a swing high.
 ## Depth of Market (DOM)
 A real time list/Window (display) that shows how many open, limit buy and limit sell orders there are at different prices in real time.
+## Divergence
+a techincal analysis concept used to identify potential trend reversals or shifts in momentum based on the relationship between price movements and the movements of technical indicators 
 ## Deviation
 When prices goes below the support and then reverses, or the same happens with resistance. 
 ## Downtrend 
@@ -162,6 +164,8 @@ This is calculated by the actual capital employed in a trade and not through [[#
 A zone of selling pressure. A Resistance Is a price level where an asset's price tends to stop rising and might reverse back down. Think of it as a "ceiling" that tends to prevent the price from going higher. 
 ## R:R
 Risk to Reward Ratio 2:1 R:R can simply be called as 2R. 1. **Example:** trade expected a potential profit of $200 and is willing to risk a potential loss of $100, the risk-to-reward ratio would be 2:1 ($200 potential profit / $100 potential loss).
+## Relative Strength Index (RSI)
+Relative Strength Index is a momentum oscillator used in technical analysis. It measures the speed and change of price movements in an asset. it is used to identify overbought and oversold conditions, as well as potential trend reversals 
 ## Sell off
 Profit taking after a rally in price, which leads to lowering of price of the asset.
 ## Short position 
