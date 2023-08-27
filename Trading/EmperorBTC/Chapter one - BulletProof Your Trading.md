@@ -241,13 +241,21 @@ succeeding.
 
 # Understanding Market Dynamics
 It is the level of desperation or urgency among market participants to enter or exit positions that truly influence market behaviour. 
+
+It helps to view market movements as traders decisions rather than simply observing. The most lucrative profit opportunities often arise when traders find themselves trapped in unfavourable positions and attempt to boil out. Identifying these trapped traders can provide valuable insights into potential market reversals or major price movements. 
 ## Example
 Imagine there was one car with one seller with multiple people wanting a car (buyers). The price for the car naturally increases. however a crucial point is when one of the buyers questions whether they are willing to pay the inflated price for the car. The hesitation initiates a range-bound price movement as buyers reassess their willingness to meet the higher prices. 
 Now Imagine there are two more more sellers. buyers will naturally hold back and sellers will need to lower heir prices to attract potential buyers.
 
+# Risk Management
+Risk in trading refers to the possibility of incurring financial losses due to adverse market movements. fluctuations in the market can result in significant losses for traders. 90% of traders lose money due to lack of rusk management. 
+## Invalidation
+As a trader, the market is the first and foremost authority. Knowing when your wrong or your trade invalidation point is the most important piece of information. 
+![[Pasted image 20230827082024.png|500]]
 
-asdas 
-
+Why is invalidation important? 
+1. **Risk Management:** Invalidation is a cornerstone of effective risk management. By defining and invalidation point, you're essentially setting a [[#Stop Loss|stop-loss]] level for your trade. If the market hits this level it means your initial analysis was wrong. 
+2. **Emotional Control:** Trading is emotional. By setting an invalidation point, you're making a premeditated decision about when you **WILL** 
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
