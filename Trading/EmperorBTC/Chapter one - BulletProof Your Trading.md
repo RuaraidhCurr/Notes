@@ -353,8 +353,8 @@ Position size in reading is calculated based on serval factors, including risk t
 Lets break that down. You have 10k in Capital. You choose to risk 3% (300) your stop loss is 5%. $$PositionSize = \frac{300}{0.05}=6000$$
 If you wish to engage in trading with a position of 6k, you have two options. Go **[[#Long Positions|Long]]** or **[[#Short position|Short]]** using the full 6k without using [[#Leverage|leverage]].
 **Alternatively**, you could choose to utilise [[#Leverage|leverage]], such as 5X. which would require a [[#Margin|margin]] of 1,500( $5x300$ ). By doing so your potential loss would be limited to 3% instead of 60%.
-
-
+# Leverage
+Leverage trading is also known as margin trading. It allows you to treade with a larger postion size tan you ahve avaliable. Leverage in trading refers to the use of 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
 - The Art of War - Sun Tzu
