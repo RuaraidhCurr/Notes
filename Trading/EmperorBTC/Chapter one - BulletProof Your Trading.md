@@ -302,8 +302,13 @@ The price in the opposite direction of the trade where the trade is exited, at a
 ![[Pasted image 20230827094223.png|500x200]]
 ### Target
 The possible price level that an asset might hit based on previous trends or confluence AND where a possible reversal could occur. ![[Pasted image 20230827094336.png|500x200]]
+## [[#R R|Risk to Reward (R:R)]]
+The combination of the three key components of the trading trident forms **R:R**. This ratio denotes how much money you make on a successful trade vs how much money you lose on being unsuccessful on the same trade
+$Risk/Reward Ratio=$ 
 
-## Risk 
+
+
+
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
 - The Art of War - Sun Tzu
