@@ -298,7 +298,12 @@ Before entering a trade, you must determine your **"Trading Trident"**, which is
 These are the reasons you enter a trade. A combination of reasons, also known as confluence, increases the likelihood of trade's success. example below, entry trigger was a retest of resistance level that turned to a support. 
 ![[Pasted image 20230827085749.png|500x200]]
 ### [[#Stop Loss|Stop Loss]]
+The price in the opposite direction of the trade where the trade is exited, at a loss. This is the level where a trade & the reason for entry becomes invalidated.
+![[Pasted image 20230827094223.png|500x200]]
+### Target
+The possible price level that an asset might hit based on previous trends or confluence AND where a possible reversal could occur. ![[Pasted image 20230827094336.png|500x200]]
 
+## Risk 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
 - The Art of War - Sun Tzu
