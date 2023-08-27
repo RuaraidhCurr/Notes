@@ -380,8 +380,16 @@ You have to find your own Edge, your own system. Build your own method. Those wh
 Price action techniques can't be haphazard. You make money by just one thing, playing the pattern repetition. Same pattern occurs, employ the same methods and take the bet. 
 # The Psychology of The Range
 Multiple swing points create a range-bound market, signifying a significant level of support or resistance. 
-Traders who anticipate a market downturn would set their stop loss orders just above the swing high. However, if the maerket beings to mmove back up toward the swing high, these short traders start to question thei
 
+Traders who anticipate a market downturn would set their stop loss orders just above the swing high. However, if the market beings to move back up toward the swing high, these short traders start to question their position, realizing they may be wrong. Simultaneously, another group of traders observes the market making new highs and decides to enter long positions. As a result the price ends up touching their stop loss and taking both groups out of the market. 
+
+This tug-f-war between the two groups is what leads the formation of liquidity pools at key swing points. This is why it's important to carefully watch levels like daily highs, daily lows, and weekly highs and lows.
+
+Traders often make critical decisions at these levels, whether to initiate long or short positions.
+![[Pasted image 20230827134737.png|500]]
+Professionals tend to avoid buying when everyone else is buying. Instead they aim to accumulate positions without significantly impacting prices. They do this by pushing the market down through selling at what others perceive as support levels on charts. AS a result, unsuspecting buyers who entered at the support level face stop-loss orders triggering, while professional traders being accumulating positions. This aggressive buying eventually propels the market back up, often leading to a false breakout above the range. 
+## Difference between flase and genuine breakouts
+False breakouts, also known as Swing Failure Patters (SFP), 
 
 
 # Extra Reading
