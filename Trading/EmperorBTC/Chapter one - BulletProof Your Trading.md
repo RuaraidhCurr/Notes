@@ -222,9 +222,25 @@ Candles with long upper wicks and short bodies shows [[#Bull|bulls]] tried to pu
 Candles with a long lower wick (tail) shows that [[#Bear|bears]] tried to push the price down but the selling pressure was absorbed and the price managed to go up. 
 ![[Pasted image 20230827075044.png|500]]
 If these candles appear in areas of [[#Support|support]] or [[#Resistance|resistance]] or at the top it bottom of a trend it usually signals a reversal.
-![[Pasted image 20230827075131.png|300]]![[Pasted image 20230827075214.png|335]]
+![[Pasted image 20230827075131.png|335]]![[Pasted image 20230827075214.png|365]]
 ### Spinning top and Doji
-Spinni
+Spinning top has a long top and bottom wicks and a narrow body. A Doji is where the price opened and closed at almost the same price. 
+![[Pasted image 20230827075448.png|400]]
+These two are generally considered to imply indecision in the market and means a trend might potentially reverse. 
+![[Pasted image 20230827075812.png|400]]
+### Bullish engulfing Vs. Bearish engulfing
+Engulfing candles are the most important candles to show a trend or simply the strength of the move down or up. The smaller the wicks the higher buying pressure there is thought to be. 
+![[Pasted image 20230827080042.png|650x200]]
+
+## Conclusion 
+1. Long candle body: more intense buying or selling pressure.
+2. Short candle body: consolidation.
+3. Long bottom wick: sellers trying to push the price down but not
+succeeding. 
+4. Long top wick: buyers trying to push the price up but not succeeding
+
+# Understanding Market Dynamics
+It is the level of desperation or urgency among market participants to enter or exit positions that truly influence market behaviour. 
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
