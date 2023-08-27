@@ -127,7 +127,7 @@ Lower Lows
 ![[Pasted image 20230823073846.png|400]]
 ## HTF
 Higher Time Frame
-## LIQ
+=## LIQ
 Liquidity; a liquid asset or coin means how quickly you can buy or sell an asset without significantly moving the [[#CMP|CMP]] too much.
 ## Laddering
 You place multiple buy or sell orders when wanting to enter a trade setup and get an average entry price. Used to minimize the impact of a large order on the market while potentially taking advantage of price fluctuations. 
@@ -353,8 +353,16 @@ Position size in reading is calculated based on serval factors, including risk t
 Lets break that down. You have 10k in Capital. You choose to risk 3% (300) your stop loss is 5%. $$PositionSize = \frac{300}{0.05}=6000$$
 If you wish to engage in trading with a position of 6k, you have two options. Go **[[#Long Positions|Long]]** or **[[#Short position|Short]]** using the full 6k without using [[#Leverage|leverage]].
 **Alternatively**, you could choose to utilise [[#Leverage|leverage]], such as 5X. which would require a [[#Margin|margin]] of 1,500( $5x300$ ). By doing so your potential loss would be limited to 3% instead of 60%.
-# Leverage
-Leverage trading is also known as margin trading. It allows you to trade with a larger position size tan you have available. Leverage in trading refers to the use of borrowed funds to increase the potential return of an investment. It allows traders to open positions that re larger than the amount of capital they have in their account. 
+# [[#Leverage|Leverage]]
+Leverage trading is also known as margin trading. It allows you to trade with a larger [[#Positional Trading|position]] size tan you have available. Leverage in trading refers to the use of borrowed funds to increase the potential return of an investment. It allows traders to open positions that re larger than the amount of capital they have in their account.
+
+**Example:** A trader has 1,000 in their account, and uses 10x leverage they can take a position of 10,000. the broker lends the trader the additional 9,000.
+## Connection between [[#Leverage|Leverage]] and [[#Position Sizing|Position Size]] 
+Leverage and position size are related as leverage allows traders to increase their position size without adding more capital to their account. While Leverage can amplify profit, it can also amplify losses. This is why it's important for traders to use leverage carefully and to manage their position size appropriately.
+## Leverage pros and cons
+![[Pasted image 20230827130025.png]]
+e.g. If you were using a leverage of 3x, and if you make a less then your loss is going to be 3x what you would've traded without leverage. The more leverage you use the closer your liquidation price will also be. **Liquidation** means you have lost in some cases your entire position in the trade or in worse cases your entire account balance. 
+
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
 - The Art of War - Sun Tzu
