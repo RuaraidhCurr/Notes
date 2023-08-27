@@ -346,10 +346,11 @@ The following table illustrates how much R:R is needed for a certain level of wi
 | 50%                      | 1:1                        |
 | 60%                      | 1:0.7                      |
 | 75%                      | 1:0.3                      |
-$$Breakeven$$
-
-
-
+$$Breakeven Win Rate = \frac{1}{Sum Of R:R Ratio} x 100 = \frac{1}{(2+1)} x 100 = 33 $$
+Hence a win rete of 33% is needed for a breakeven at 1:2
+## Position Sizing
+Position size in reading is calculated based on serval factors, including risk tolerance, account size, and the specific trade setup. The goal is to determine the appropriate size to trade in order to manage risk effectively. $$Posistion Size= \frac{CapitalAtRisk}{DistanceOrPercentageToStopLoss}$$
+Lets bvreak that down. You have 10k in Capital
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
