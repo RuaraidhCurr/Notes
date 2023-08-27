@@ -262,8 +262,13 @@ The Different types of invalidation
 - **WHERE**
 - **HOW**
 If BTC goes down to 20k before reaching 30k than our long trade idea was wrong. It might not be as simple as **How** and **When** the price reaches that 20k mark, it also plays a part as your trading plans get more sophisticated. 
-1. **Where:** There is a when a specific price level that you expected to act as support or resistance doesn't hold. e.g. if you thought $50 would be the support for an asset but it drops to $49, your idea has been invalidated.![[Pasted image 20230827083302.png|700]] *If the price goes below the blue*
-2. **When:**  
+1. **Where:** There is a when a specific price level that you expected to act as support or resistance doesn't hold. e.g. if you thought $50 would be the support for an asset but it drops to $49, your idea has been invalidated.![[Pasted image 20230827083302.png|700]] *If the price goes below the blue level, the trade idea is no longer valid*
+2. **When:**  Here, the invalidation is tied to a specific timeframe. e.g. if you expected an asset top pump after a specific announcement (or something) and it doesn't than your idea is invalidated. ![[Pasted image 20230827083538.png|200]]
+3. **Combination of Where and When:** This is when you expect the price to reach a certain point within a specific time frame, but it doesn't move as expected. ![[Pasted image 20230827083712.png|700x250]]
+4. **When and How:** This Occurs when the price movement is less than expected within a certain time frame e.g. you expected a price to move by 5% but it only moves 2%. Shows weakness in your idea.
+
+<u style="font-weight:bold">NOTE:</u> Trade ideas can get invalidated even when you are in profit! Idea's can be proved wrong even in profit, so the best path forward in such scenario is to close the trade in profit and move on to the next one.
+
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
