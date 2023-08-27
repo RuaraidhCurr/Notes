@@ -380,7 +380,7 @@ You have to find your own Edge, your own system. Build your own method. Those wh
 Price action techniques can't be haphazard. You make money by just one thing, playing the pattern repetition. Same pattern occurs, employ the same methods and take the bet. 
 # The Psychology of The Range
 Multiple swing points create a range-bound market, signifying a significant level of support or resistance. 
-Traders who anticipate a market downturn would set their stop loss orders just above the swing high. 
+Traders who anticipate a market downturn would set their stop loss orders just above the swing high. However, if the maerket beings to mmove back up toward the swing high, these short traders start to question thei
 
 
 
