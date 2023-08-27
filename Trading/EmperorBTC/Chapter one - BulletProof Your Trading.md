@@ -373,9 +373,14 @@ You can't enter a trade without preparing and waiting for it. *Impulsive trades 
 ## Principle 4
 Having clear concepts and techniques won't make you a trader. Charting is theory. The first 1,000 trades after you've studied are also just studying. **Study price action live!**
 ## Principle 5
-
+Adopting the methods of a successful third party is a common method, which will only lead to failure. This is a shortcut to education and won't hold in the market.
 ## Principle 6
+You have to find your own Edge, your own system. Build your own method. Those who do not build their own personal method, **Will Fail**.
 ## Principle 7
+Price action techniques can't be haphazard. You make money by just one thing, playing the pattern repetition. Same pattern occurs, employ the same methods and take the bet. 
+# The Psychology of The Range
+Multiple swing points create a range-bound market, signifying a significant level of support or resistance. 
+Traders who anticipate a market downturn would set their stop loss orders just above the swing high. 
 
 
 
