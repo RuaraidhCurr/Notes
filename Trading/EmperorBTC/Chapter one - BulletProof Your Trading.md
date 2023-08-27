@@ -350,7 +350,10 @@ $$Breakeven Win Rate = \frac{1}{Sum Of R:R Ratio} x 100 = \frac{1}{(2+1)} x 100 
 Hence a win rete of 33% is needed for a breakeven at 1:2
 ## Position Sizing
 Position size in reading is calculated based on serval factors, including risk tolerance, account size, and the specific trade setup. The goal is to determine the appropriate size to trade in order to manage risk effectively. $$Posistion Size= \frac{CapitalAtRisk}{DistanceOrPercentageToStopLoss}$$
-Lets bvreak that down. You have 10k in Capital
+Lets break that down. You have 10k in Capital. You choose to risk 3% (300) your stop loss is 5%. $$PositionSize = \frac{300}{0.05}=6000$$
+If you wish to engage in trading with a position of 6k, you have two options. Go **[[#Long Positions|Long]]** or **[[#Short position|Short]]** using the full 6k without using [[#Leverage|leverage]].
+**Alternatively**, you could choose to utilise [[#Leverage|leverage]], such as 5X. which would require a [[#Margin|margin]] of 1,500( $5x300$ ). By doing so your potential loss would be limited to 3% instead of 60%.
+
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
