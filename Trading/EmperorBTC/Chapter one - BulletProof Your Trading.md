@@ -304,10 +304,29 @@ The price in the opposite direction of the trade where the trade is exited, at a
 The possible price level that an asset might hit based on previous trends or confluence AND where a possible reversal could occur. ![[Pasted image 20230827094336.png|500x200]]
 ## [[#R R|Risk to Reward (R:R)]]
 The combination of the three key components of the trading trident forms **R:R**. This ratio denotes how much money you make on a successful trade vs how much money you lose on being unsuccessful on the same trade
-$Risk/Reward Ratio=$ 
-
-
-
+$$Risk/Reward Ratio= \frac{(Entry Point - Stop Loss Point)}{(Profit Target - Entry Point)}$$
+### Example
+You buy asset for $100; you have a target of $200 and a stop loss of $50. 
+$$R:R = \frac{(100-50)}{(200-100)} = \frac{50}{100} = \frac{1}{2}$$
+A **Risk/Reward (R:R)** of 1:20 signals that you are willing to lose $50 to make double.
+## Risk per trade
+Most traders agree that is is advisable to limit the risk to 2-5% of the total account balance per trade. 
+It is crucial to survive multiple consecutive losing trades. the following table demonstrates that even with  a60% win rate consecutive losing trades are going to happen.
+  
+| Win rate | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
+| -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|          |     |     |     |     |     |     |     |     |     |     |
+5% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100%
+10% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100%
+15% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100%
+20% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100%
+25% 100% 100% 100% 100% 100% 100% 100% 100% 100% 99%
+30% 100% 100% 100% 100% 100% 100% 100% 100% 98% 93%
+35% 100% 100% 100% 100% 100% 100% 99% 95% 85% 71%
+40% 100% 100% 100% 100% 100% 99% 93% 79% 61% 42%
+45% 100% 100% 100% 100% 99% 93% 76% 54% 35% 21%
+50% 100% 100% 100% 100% 95% 78% 52% 31% 16% 9%
+55% 100% 100% 100% 98% 83% 55% 30% 14% 7% 3%
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
