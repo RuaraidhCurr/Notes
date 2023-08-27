@@ -208,7 +208,7 @@ A trading indicator that is used to calculate the average price at which an asse
 ## Walls
 Refers to significant price levels on a price chart where a large concentration of buy or sell orders exists. (Extremely Large buy or sell orders at a price range).
 # Candlesticks
-
+CAndles are used instead of linecharts becuase a line char cannot tell the high, lowm open and close at a given period. Cadles give you quess about the strength of a particular move when we analayse the candle structure 
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
