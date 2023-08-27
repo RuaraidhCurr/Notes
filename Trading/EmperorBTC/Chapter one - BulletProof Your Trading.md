@@ -255,7 +255,15 @@ As a trader, the market is the first and foremost authority. Knowing when your w
 
 Why is invalidation important? 
 1. **Risk Management:** Invalidation is a cornerstone of effective risk management. By defining and invalidation point, you're essentially setting a [[#Stop Loss|stop-loss]] level for your trade. If the market hits this level it means your initial analysis was wrong. 
-2. **Emotional Control:** Trading is emotional. By setting an invalidation point, you're making a premeditated decision about when you **WILL** 
+2. **Emotional Control:** Trading is emotional. By setting an invalidation point, you're making a premeditated decision about when you **WILL** exit the market. this reduces emotions like fear & greed.
+3. **Account Preservation:** Regularly hitting your invalidation point without managing risk can lead to significant losses over time.  By respecting your invalidation point and exiting trades when necessary, you can preserve your account and live to  trade another day. 
+The Different types of invalidation
+- **WHEN**
+- **WHERE**
+- **HOW**
+If BTC goes down to 20k before reaching 30k than our long trade idea was wrong. It might not be as simple as **How** and **When** the price reaches that 20k mark, it also plays a part as your trading plans get more sophisticated. 
+1. **Where:** There is a when a specific price level that you expected to act as support or resistance doesn't hold. e.g. if you thought $50 would be the support for an asset but it drops to $49, your idea has been invalidated.![[Pasted image 20230827083302.png|700]] *If the price goes below the blue*
+2. **When:**  
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
