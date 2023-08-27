@@ -362,6 +362,22 @@ Leverage and position size are related as leverage allows traders to increase th
 ## Leverage pros and cons
 ![[Pasted image 20230827130025.png]]
 e.g. If you were using a leverage of 3x, and if you make a less then your loss is going to be 3x what you would've traded without leverage. The more leverage you use the closer your liquidation price will also be. **Liquidation** means you have lost in some cases your entire position in the trade or in worse cases your entire account balance. 
+# Introduction to Principles of Price Action
+Price action is the fundamental of all trading. "Anything that can possibly affect the price fundamentally, politically, psychologically, or otherwise **IS** actually reflected in the price of that market". "A study of **Price action** is **ALL** that is required."
+## Principle 1
+Price action trader relies on simple rule, if a trade cannot be spotted easily, it doesn't exist. 
+## Principle 2
+Low understanding of market mechanics will lead to higher tuition fees in the form of losses.
+## Principle 3
+You can't enter a trade without preparing and waiting for it. *Impulsive trades are losing trades.*
+## Principle 4
+Having clear concepts and techniques won't make you a trader. Charting is theory. The first 1,000 trades after you've studied are also just studying. **Study price action live!**
+## Principle 5
+
+## Principle 6
+## Principle 7
+
+
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
