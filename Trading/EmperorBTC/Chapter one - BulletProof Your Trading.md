@@ -414,7 +414,12 @@ Evolving R concept was popularised to perhaps everyone by trader Dante. Amateurs
 
 The R:R is always changing when you are in a position.
 ![[Pasted image 20230827141242.png]]
-The above figure shows Evolving R visualed. You are up 6% after risking 2% on the trade. and now you're risking that 6% to make 2%. This is when you place a market order and then exit the trade with a large profit. 
+The above figure shows Evolving R visualised. You are up 6% after risking 2% on the trade. and now you're risking that 6% to make 2%. This is when you place a market order and then exit the trade with a large profit. 
+### Not having a fixed stop loss
+![[Pasted image 20230827141628.png]]
+"**You must have a fixed stop loss at any cost.**"
+The above makes sense for beginners who need to stay away from high lerverage and blowing up accounts. but as you venture deeper into trading, you'll realise that sometimes it is not the trader's best interest to do that. Stop-loss orders will exit a trade at a predetermined price; one that price level is reached, your trade will be realised at at loss. **This frequently results in situations like the above**. 
+In these situations having a mental stop-loss that says if the candle closes below the SFP candle, then I'll take a loss. rather than it being a standard stop-loss where as soon as the candle reaches SFP level losses will be realised.  
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
