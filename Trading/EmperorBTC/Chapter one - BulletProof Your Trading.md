@@ -388,9 +388,24 @@ This tug-f-war between the two groups is what leads the formation of liquidity p
 Traders often make critical decisions at these levels, whether to initiate long or short positions.
 ![[Pasted image 20230827134737.png|500]]
 Professionals tend to avoid buying when everyone else is buying. Instead they aim to accumulate positions without significantly impacting prices. They do this by pushing the market down through selling at what others perceive as support levels on charts. AS a result, unsuspecting buyers who entered at the support level face stop-loss orders triggering, while professional traders being accumulating positions. This aggressive buying eventually propels the market back up, often leading to a false breakout above the range. 
-## Difference between flase and genuine breakouts
-False breakouts, also known as Swing Failure Patters (SFP), 
+## Difference between false and genuine breakouts
+False breakouts, also known as Swing Failure Patters (SFP), are characterised by a candle that goes above the range, surpassing the previous high, but subsequently closes below the range high. The candle itself can take various forms, such as Doji, Pinbar, or [[#Bullish Chapter one - BulletProof Your Trading Market Structure (MS) MS|Bullish]]/[[#Bearish Chapter one - BulletProof Your Trading Market Structure (MS) MS|Bearish]] candle.  
+SFP patterns primarily occur at the levels of support or resistance. The presence of an SFP indicates a false breakout.
+![[Pasted image 20230827135811.png|500]]
+Conversely a genuine breakout is characterised by a candle that closes convincingly away from the specific area. 
 
+## [[#Laddering|Laddering]]
+Laddering refers to a strategy where you can place multiple buy or sell orders when wanting to enter a trade setup and get an average entry price. 
+Price ladder trading requires a use of limit entry orders to maximise profits. Limit entry orders are used when traders intend to buy or sell at a specific price, known as the limit price. 
+
+**Example:** Instead of placing a single buy order at the price BTC is currently trading at, you can use price ladder trading to distribute 5 different buy orders, each valued at $2k, across a price range of $25k to $26k. This approach allows you to lower the average buying price and potentially maximise your profits.
+![[Pasted image 20230827140227.png|500]]
+
+If you are unsure about the entry or where exactly the price might bounce from, then you place multiple buy orders in the ladder format as shown below. 
+![[Pasted image 20230827140317.png|500]]
+
+# Trade Management
+Trade management refers
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
