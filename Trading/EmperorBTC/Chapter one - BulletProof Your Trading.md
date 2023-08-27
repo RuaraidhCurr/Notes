@@ -241,6 +241,13 @@ succeeding.
 
 # Understanding Market Dynamics
 It is the level of desperation or urgency among market participants to enter or exit positions that truly influence market behaviour. 
+## Example
+Imagine there was one car with one seller with multiple people wanting a car (buyers). The price for the car naturally increases. however a crucial point is when one of the buyers questions whether they are willing to pay the inflated price for the car. The hesitation initiates a range-bound price movement as buyers reassess their willingness to meet the higher prices. 
+Now Imagine there are two more more sellers. buyers will naturally hold back and sellers will need to lower heir prices to attract potential buyers.
+
+
+asdas 
+
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
