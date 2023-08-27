@@ -405,7 +405,16 @@ If you are unsure about the entry or where exactly the price might bounce from, 
 ![[Pasted image 20230827140317.png|500]]
 
 # Trade Management
-Trade management refers
+Trade management refers to the strategic decisions and action taken throughout the lifecycle of a trade. 
+## Deciding to get out early
+In this example we take a short trade at a 3-touch level. Before the price hits out target, it reversed back up and still did not hit out stop loss. We noticed how the price reacts sharply to the level flipping it as support, so we get out without taking the full loss. Just remember that having a fixed stop loss doesn’t mean you take the full loss all the time.
+![[Pasted image 20230827140635.png]]
+## When to get out early, Evolving R concept
+Evolving R concept was popularised to perhaps everyone by trader Dante. Amateurs want to bank profit as fast as possible and are terrified of losing profit. But when in the red they are hopefully that Unrealised loss might eventually work out. **We want to do the inverse**.
+
+The R:R is always changing when you are in a position.
+![[Pasted image 20230827141242.png]]
+The above figure shows Evolving R visualed. You are up 6% after risking 2% on the trade. and now you're risking that 6% to make 2%. This is when you place a market order and then exit the trade with a large profit. 
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
