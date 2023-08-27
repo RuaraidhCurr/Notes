@@ -289,7 +289,15 @@ Capital loss is an exponential process meaning the more you lose the % required 
 | 90%             | 900%                                          |
 
 ## Trading Trident
-Before entering a trade, you must determ
+Before entering a trade, you must determine your **"Trading Trident"**, which is a combination of 3 things:
+1. Entry Triggers as per your trading technique
+2. Established invalidation levels ([[#Stop Loss|Stop loss]])
+3. Defined reversals (Profit-taking)
+![[Pasted image 20230827085550.png|250]]
+### Entry Triggers
+These are the reasons you enter a trade. A combination of reasons, also known as confluence, increases the likelihood of trade's success. example below, entry trigger was a retest of resistance level that turned to a support. 
+![[Pasted image 20230827085749.png|500x200]]
+### [[#Stop Loss|Stop Loss]]
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
