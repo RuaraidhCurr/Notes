@@ -269,6 +269,27 @@ If BTC goes down to 20k before reaching 30k than our long trade idea was wrong. 
 
 <u style="font-weight:bold">NOTE:</u> Trade ideas can get invalidated even when you are in profit! Idea's can be proved wrong even in profit, so the best path forward in such scenario is to close the trade in profit and move on to the next one.
 
+## The importance of Risk Management
+Risk management is essential for every trading strategy or approach, as a trader cannot achieve profitability if they suffer significant loses from a few unfavourable trades. **Safeguarding capital is crucial**. It guarantees your survival and enables you to recover from challenging periods. 
+
+It is important not to invest all your money into your trading account. Your trading account should be substantial enough that it would have significant impact, yet not so substantial that it leads to financial ruin.
+
+Capital loss is an exponential process meaning the more you lose the % required to get back to breakeven exponentially grows as your loss of capital grows 
+
+| Loss of Capital | Percentage required to get back to break even |
+| --------------- | --------------------------------------------- |
+| 10%             | 11%                                           |
+| 20%             | 25%                                           |
+| 30%             | 43%                                           |
+| 40%             | 67%                                           |
+| 50%             | 100%                                          |
+| 60%             | 150%                                          |
+| 70%             | 233%                                          |
+| 80%             | 400%                                          |
+| 90%             | 900%                                          |
+
+## Trading Trident
+Before entering a trade, you must determ
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
