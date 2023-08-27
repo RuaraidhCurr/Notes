@@ -208,7 +208,23 @@ A trading indicator that is used to calculate the average price at which an asse
 ## Walls
 Refers to significant price levels on a price chart where a large concentration of buy or sell orders exists. (Extremely Large buy or sell orders at a price range).
 # Candlesticks
-CAndles are used instead of linecharts becuase a line char cannot tell the high, lowm open and close at a given period. Cadles give you quess about the strength of a particular move when we analayse the candle structure 
+Candles are used instead of line charts because a line char cannot tell the high, low, open and close at a given period. Candles give you queues about the strength of a particular move when we analyse the candle structure(s).
+![[Pasted image 20230827074449.png|500]]
+
+The body is where there is most interest while the wicks represent where the price attempted to go but failed. 
+
+The longer the candle body, the more intense the buying or selling pressure. Conversely a shorter candle body indicates little price movement and represents consolidation or uncertainty. 
+
+Wicks show the fight between the buyers and the sellers and who win it. 
+## Long upper wick Vs. Long lower wick
+Candles with long upper wicks and short bodies shows [[#Bull|bulls]] tried to push for a higher price, the sellers took control, and there was just too much supply at this point to push the price up. 
+
+Candles with a long lower wick (tail) shows that [[#Bear|bears]] tried to push the price down but the selling pressure was absorbed and the price managed to go up. 
+![[Pasted image 20230827075044.png|500]]
+If these candles appear in areas of [[#Support|support]] or [[#Resistance|resistance]] or at the top it bottom of a trend it usually signals a reversal.
+![[Pasted image 20230827075131.png|300]]![[Pasted image 20230827075214.png|335]]
+### Spinning top and Doji
+Spinni
 
 # Extra Reading
 - Technical Analysis of Financial Markets - John Murphy 
