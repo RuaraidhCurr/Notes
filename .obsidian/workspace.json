@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
+                "file": "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 333.5
   },
   "right": {
     "id": "fdaff6413e2567d3",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
+                "file": "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
+                "file": "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md"
+                "file": "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md"
               }
             }
           },
@@ -166,10 +166,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d31c7903208f398f",
+  "active": "84f09f82255e9603",
   "lastOpenFiles": [
-    "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
     "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
+    "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
     "Trading/Images/Pasted image 20230827141637.png",
     "Trading/Images/Pasted image 20230827141628.png",
     "Trading/Images/Pasted image 20230827141242.png",
