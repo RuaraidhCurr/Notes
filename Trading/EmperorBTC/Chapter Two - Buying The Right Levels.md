@@ -25,6 +25,7 @@ Support and resistance levels are not always exact and can be broken. Market con
 **Option Expiries and Support/Resistance Levels**
 	Option expiries can influence the underlying asset price and create temporary support and resistance levels. 
 	When a significant number of option contracts are set to expire at a certain price level, it can act as a magnet for the price of the underlying asset. This is because traders may have an incentive to steer the price towards these levels to minimise their losses or maximise their gains.
+	**For Example:** If a large number of call (buy) options are set to expire at a certain price level, the sellers (writers) of these options may try to keep the price below this level to avoid having the options exercised. This price level can act as a temporary resistance level. **Conversely**, if a large number of put options set to expire at a certain level, the sellers of these options may try to keep the price aboce this level to avoid having the options e
 # what are levels and which ones are important?
 # Trading - Level to Level
 # Deviation/False Breakdown
