@@ -25,7 +25,13 @@ Support and resistance levels are not always exact and can be broken. Market con
 **Option Expiries and Support/Resistance Levels**
 	Option expiries can influence the underlying asset price and create temporary support and resistance levels. 
 	When a significant number of option contracts are set to expire at a certain price level, it can act as a magnet for the price of the underlying asset. This is because traders may have an incentive to steer the price towards these levels to minimise their losses or maximise their gains.
-	**For Example:** If a large number of call (buy) options are set to expire at a certain price level, the sellers (writers) of these options may try to keep the price below this level to avoid having the options exercised. This price level can act as a temporary resistance level. **Conversely**, if a large number of put options set to expire at a certain level, the sellers of these options may try to keep the price aboce this level to avoid having the options e
+	**For Example:** If a large number of call (buy) options are set to expire at a certain price level, the sellers (writers) of these options may try to keep the price below this level to avoid having the options exercised. This price level can act as a temporary resistance level. **Conversely**, if a large number of put options set to expire at a certain level, the sellers of these options may try to keep the price above this level to avoid having the options exercised. This price level can act as a temporary support level. 
+	
+**Area Where Excessive Buying/Selling took place**
+	Support and Resistance exist at areas because of extra interest at these levels for auction. 
+	Traders perceive these levels to be an interesting level to enter or exit the market. There's no need to worry about using an x ray to look at these levels because price behaviour is enough at most times. 
+
+The below charts help to identify potential supprt and resistance levels. A price level with a large number of buy orders can act as a support level
 # what are levels and which ones are important?
 # Trading - Level to Level
 # Deviation/False Breakdown
