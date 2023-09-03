@@ -52,7 +52,14 @@ In this section, we will introduce systematic approach to analysing charts by id
 
 The object tree is a TV feature that allows you to manage and organise various objects and indicators. The object tree allows you to access and control different elements such as trendlines, support & resistance levels drawings, indicators, and other graphical objects, grouping specific indicators into specific groups, E.G Daily, Weekly, Monthly. 
 ## Levels on Monthly chart
+Monthly charts help us understand the bigger picture. 
+**We will focus on closing and opening prices as key levels. These are important levels based on time and might not necessarily be [[Chapter one - BulletProof Your Trading#Support|S]]/[[Chapter one - BulletProof Your Trading#Resistance|R]]**.
 
+**Monthly resistance**
+	The monthly linear chart helps us gauge the magnitude of the price movement and determine whether any pullbacks are within the normal range, given the overall upward trend.![[Pasted image 20230903115811.png|500]]
+	The better understand how to plot the monthly levels, lets take a look at the previous cycle in the chart below. 
+	The previous all-time high (ATH) closing price is marked. 
+	Notice how 1 year later there was a re-test at the same level, followed by a breakout. Levels often get retested frequently, returning to a point where buyers previously couldn't enter. 
 
 # Trading - Level to Level
 # Deviation/False Breakdown
