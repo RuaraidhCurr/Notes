@@ -66,14 +66,23 @@ Monthly charts help us understand the bigger picture.
 	2. Label your lines clearly to avoid confusion and maintain a clear understanding of each level. You can do this by right clicking non the link and selecting "Text" to add labels.![[Pasted image 20230903121001.png|600]]
 
 ## The Monthly chart
+![[Pasted image 20230903121232.png]]
 The monthly chart provides important levels that are crucial for trading strategy and staying vigilant in managing market movements. 
+
 **Identify the following levels:**
 	- ATM level (All-Time High)
 	- Previous ATH (All-Time High)
 	- Yearly open for the current year
 	- Current Monthly range
-	- ATH Monthly resistan
+	- ATH Monthly resistance
+
+Regarding the chart above:
+The first level represents a re-test in the previous cycle.
+Notice how we returned to re-test the yearly open at number 2.
+During a market downturn, it can be beneficial to place small orders at these levels and anticipate increased demand when re-testing the yearly open. 
+When trading closely monitor these levels at a macro level. If Bitcoin reaches any of these levels, it should not be a cause for fear or surprise. The purpose of recognizing these levels is to be prepared to make trading decisions when they occur. 
 ## Levels on Weekly chart
+In the chart below you will see weekly levels, it's important to observe how they differ from monthly levels. To emphasise, when refering to levels we 
 
 # Trading - Level to Level
 # Deviation/False Breakdown
