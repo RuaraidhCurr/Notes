@@ -3,7 +3,7 @@ A deep dive into the world of [[Chapter one - BulletProof Your Trading#Support|s
 # How do markets Move?
 In crypto, the movement of markets is primarily driven by supply and demand. The prices are determined by the interaction between buyers and sellers. 
 **Key factors that influence market movements in Crypto**
-1. **Supply and Demand:** When there are higher demand for a specific 
+1. **Supply and Demand:** When there are higher demand for a specific financial indicator than its available supply, the price tends to rise. Conversely, if there is more supply than demand, the price may decline. 
 # What is [[Chapter one - BulletProof Your Trading#Support|Support]] and [[Chapter one - BulletProof Your Trading#Resistance|Resistance]] (S/R)
 # what are levels and which ones are important?
 # Trading - Level to Level
