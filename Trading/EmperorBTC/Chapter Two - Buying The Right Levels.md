@@ -10,8 +10,21 @@ In crypto, the movement of markets is primarily driven by supply and demand. The
 5. **Market Manipulation:** Like other markets, Crypto can be susceptible to manipulation. e.g. pump and dump schemes cause inflated prices and distortion in the market. 
 # What is [[Chapter one - BulletProof Your Trading#Support|Support]] and [[Chapter one - BulletProof Your Trading#Resistance|Resistance]] (S/R)
 Support and resistance are two of the most important concepts in trading that help us understand how the price of an asset moves. 
+
 **Support** is like a price level where demand for a cryptocurrency is strong and where many traders want to buy because they believe its a good value point. The rush of buyers at this level l creates an upward force and tried to prevent the price from going down further. 
+
 **Resistance** on the other hand is like a price level where the supply of the coin is high. It's a point where many people want to sell and cause a challenge for the price to move higher. A resistance level is where an uptrend is expected to pause, slow down or reverse due to concentration of supply (sellers).
+
+![[Pasted image 20230903090206.png]]
+**NOTE:** Support and Resistance can interchange roles. 
+
+Traders use support and resistance levels to make decisions. When a rice approaches support level, some traders see it as a sign to buy, because they expect it to go up in price from there. Conversely when a price reaches resistance, traders might consider selling because they anticipate that others will also, putting downward pressure on the price. 
+
+Support and resistance levels are not always exact and can be broken. Market conditions change and prices can surprise us. 
+## What levels can normally be support or resistance? 
+**Option Expiries and Support/Resistance Levels**
+	Option expiries can influence the underlying asset price and create temporary support and resistance levels. 
+	When a significant number of option contracts are set to expire at a certain price level, it can act as a magnet for the price of the underlying asset. This is because traders may have an incentive to steer the price towards these levels to minimise their losses or maximise their gains.
 # what are levels and which ones are important?
 # Trading - Level to Level
 # Deviation/False Breakdown
