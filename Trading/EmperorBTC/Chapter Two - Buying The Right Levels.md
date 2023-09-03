@@ -126,6 +126,11 @@ Going forward, lets mark the high and low levels at the same point and observe h
 ## Confluence
 Confluence refers to the occurrence on multiple factors or indicators aligning together to provide a stronger and more reliable treading signal. ![[Pasted image 20230903131102.png]]
 Pay attention to the graphs and observe how there is a confluence between the two different time frames. 
+The area of confluence can be considered a high-probability trading zone. 
+**Note:** When trading it is important to look for confluence between multiple various factors such as levels, Fibonacci retracements, exponential moving averages (EMA) and volume profiles.
+When these levels and indicators align and show confluence, it can serve as a strong entry point for trades as these areas tend to be respected by the market. ![[Pasted image 20230903131455.png]]
+The above graph is displaying the important levels that should be considered significant for analysing opportunities and changes in the market structure. These levels represent a range to focus on and should be observed from a long-term perspective. Above are provided labels for your convenience, and I encourage you to pay attention to the yearly and monthly opens, as
+they often serve as areas of high probability re-tests.
 
 # Trading - Level to Level
 # Deviation/False Breakdown
