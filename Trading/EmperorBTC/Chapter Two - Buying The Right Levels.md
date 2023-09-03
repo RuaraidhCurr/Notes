@@ -31,7 +31,16 @@ Support and resistance levels are not always exact and can be broken. Market con
 	Support and Resistance exist at areas because of extra interest at these levels for auction. 
 	Traders perceive these levels to be an interesting level to enter or exit the market. There's no need to worry about using an x ray to look at these levels because price behaviour is enough at most times. 
 
-The below charts help to identify potential support and resistance levels. A price level with a large number of buy orders can act as a support level, as it represents strong demand for the asset. Conversely a price level with a large number of sell orders can act as a resistance level as it represents strong supply for the asset.
+The below charts help to identify potential support and resistance levels. A price level with a large number of buy orders can act as a support level, as it represents strong demand for the asset. Conversely a price level with a large number of sell orders can act as a resistance level as it represents strong supply for the asset. You can see market selling and market buying taking place in higher quantities at these levels. 
+![[Pasted image 20230903105642.png|500]]
+**Accumulation of buy orders at a specific level**
+The above shows an area of stacked buy orders. This can be an area of support.
+
+![[Pasted image 20230903105746.png|500]]
+**Accumulation of unfulfilled sell orders at a given price**
+The above shows and area of stacked sell orders. This can be an area of resistance.
+
+However, it is imporant to note that these su
 # what are levels and which ones are important?
 # Trading - Level to Level
 # Deviation/False Breakdown
