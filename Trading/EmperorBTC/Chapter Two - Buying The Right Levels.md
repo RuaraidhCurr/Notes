@@ -40,8 +40,13 @@ The above shows an area of stacked buy orders. This can be an area of support.
 **Accumulation of unfulfilled sell orders at a given price**
 The above shows and area of stacked sell orders. This can be an area of resistance.
 
-However, it is imporant to note that these su
+However, it is important to note that these support and resistance levels can be very transient, as the order flow can change rapidly in response to changing market conditions. Also, large orders can sometimes be placed to mislead other traders, a practice known as "spoofing".![[Pasted image 20230903110254.png|500]]
+
+If a large number of buyers/sellers entered a position at certain levels, these levels can then act as support/resistance. This is because traders will defend their entry to stay in profit. 
+
+In conclusion, both option expires and order flow charts can provide information about potential support and resistance levels. however they should be used in conjunction with other indicators.  
 # what are levels and which ones are important?
+In this section, we will introduce 
 # Trading - Level to Level
 # Deviation/False Breakdown
 # Reclaim
