@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "472c6f9fb6873dac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +177,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "84f09f82255e9603",
+  "active": "472c6f9fb6873dac",
   "lastOpenFiles": [
     "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
     "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
