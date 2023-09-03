@@ -117,8 +117,15 @@ Having this understanding, along with the marked range and the likelihood of ran
 Now lets explore how we draw levels on the daily time frame. Marks on the price from which these levels have been drawn. to establish the levels, we have used the close and open prices. 
 Observe how these levels ahve remained relevant for anb extended period, even after the market dump. Take note of the number of times the price has interacted with these levels. 
 ![[Pasted image 20230903130154.png]]
+Going forward, lets mark the high and low levels at the same point and observe how the future range responds to them. 
 
-
+**Key Points To Remember:**
+	- Mark the levels on the daily timeframe to establish a range
+	- Actively engage with the range and be prepared to execute buy or sell trades when the price interacts with these levels in the future. 
+	- The levels are typically respected until they are not. The chat above demonstrates how the same level continues to be repeated even after several months. 
+## Confluence
+Confluence refers to the occurrence on multiple factors or indicators aligning together to provide a stronger and more reliable treading signal. ![[Pasted image 20230903131102.png]]
+Pay attention to the graphs and observe how there is a confluence between the two different time frames. 
 
 # Trading - Level to Level
 # Deviation/False Breakdown
