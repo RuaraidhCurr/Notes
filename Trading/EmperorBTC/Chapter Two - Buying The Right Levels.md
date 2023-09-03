@@ -94,7 +94,9 @@ Only the closing and opening prices are marked on this chart. that is because we
 - Constantly applying the first two strategies will result in gains, except for one instance where you may take a wrong trade after trading the range successfully. 
 ## The Weekly range
 ![[Pasted image 20230903123054.png]]
-The Range displayed above is 
+The Range displayed above is the same as the one we [[Chapter Two - Buying The Right Levels#Levels on Weekly chart|previously marked]] but now on a daily graph for a closer view. Use the [[#A Quick Review on trading Ranges|range tutorial]] to easily trade within this range. 
+Notice how trading becomes much simpler when we are aware of the range. The only challenge you may encounter here is managing deviations and false breakouts, which we will address in the price action tutorials.  
+Once again it is important to assume that the range will persist indefinitely and trade both long and short position within it until it eventually breaks. Look at the number of trades we could have entered by just playing the range. 
 # Trading - Level to Level
 # Deviation/False Breakdown
 # Reclaim
