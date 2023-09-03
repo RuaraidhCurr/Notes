@@ -45,12 +45,15 @@ However, it is important to note that these support and resistance levels can be
 If a large number of buyers/sellers entered a position at certain levels, these levels can then act as support/resistance. This is because traders will defend their entry to stay in profit. 
 
 In conclusion, both option expires and order flow charts can provide information about potential support and resistance levels. however they should be used in conjunction with other indicators.  
+
 # what are levels and which ones are important?
 In this section, we will introduce systematic approach to analysing charts by identifying levels. By mastering this skill, you should be able to confidently mark levels on different charts, removing uncertainty. Trading level by level is the key to overcoming fear and maximising profits.
+
 ## The Object Tree Option In TradingView (TV)
 **This is not necessary for trading but it is a tool to conveniently organise your levels and tools**
 
 The object tree is a TV feature that allows you to manage and organise various objects and indicators. The object tree allows you to access and control different elements such as trendlines, support & resistance levels drawings, indicators, and other graphical objects, grouping specific indicators into specific groups, E.G Daily, Weekly, Monthly. 
+
 ## Levels on Monthly chart
 Monthly charts help us understand the bigger picture. 
 **We will focus on closing and opening prices as key levels. These are important levels based on time and might not necessarily be [[Chapter one - BulletProof Your Trading#Support|S]]/[[Chapter one - BulletProof Your Trading#Resistance|R]]**.
@@ -64,6 +67,7 @@ Monthly charts help us understand the bigger picture.
 **Important**
 	1. Take note of the significant price surge from the previous all-time high (ATH). Understand that any pullback, no matter how large, is a natural part of market dynamics and not necessarily a result of manipulation or dumping. Don't assume that a pullback indicates the end of an asset or asset class. The monthly linear levels will help you anticipate various types of movements. 
 	2. Label your lines clearly to avoid confusion and maintain a clear understanding of each level. You can do this by right clicking non the link and selecting "Text" to add labels.![[Pasted image 20230903121001.png|600]]
+
 
 ## The Monthly chart
 ![[Pasted image 20230903121232.png]]
@@ -81,22 +85,41 @@ The first level represents a re-test in the previous cycle.
 Notice how we returned to re-test the yearly open at number 2.
 During a market downturn, it can be beneficial to place small orders at these levels and anticipate increased demand when re-testing the yearly open. 
 When trading closely monitor these levels at a macro level. If Bitcoin reaches any of these levels, it should not be a cause for fear or surprise. The purpose of recognizing these levels is to be prepared to make trading decisions when they occur. 
+
 ## Levels on Weekly chart
 In the chart below you will see weekly levels, it's important to observe how they differ from monthly levels. **To emphasise, when referring to levels we are specifically referring to the closing and opening prices.**
 ![[Pasted image 20230903122221.png]]
 If you notice the levels marked above. They are marked representing a range where the market spend a significant amount of time, approximately a month. As we zoom in and analyse this chart we will gain a better understanding. 
 
 Only the closing and opening prices are marked on this chart. that is because we will need to cover the trading ranges before including high and low levels as well.
+
 ## A Quick Review on trading Ranges
 ![[Pasted image 20230903122551.png]]
 - Seek short opportunities at the highs and long opportunities at the lows of the range. 
 - Avoid assuming a range will break until it actually does.
 - Constantly applying the first two strategies will result in gains, except for one instance where you may take a wrong trade after trading the range successfully. 
+- 
 ## The Weekly range
 ![[Pasted image 20230903123054.png]]
 The Range displayed above is the same as the one we [[Chapter Two - Buying The Right Levels#Levels on Weekly chart|previously marked]] but now on a daily graph for a closer view. Use the [[#A Quick Review on trading Ranges|range tutorial]] to easily trade within this range. 
 Notice how trading becomes much simpler when we are aware of the range. The only challenge you may encounter here is managing deviations and false breakouts, which we will address in the price action tutorials.  
 Once again it is important to assume that the range will persist indefinitely and trade both long and short position within it until it eventually breaks. Look at the number of trades we could have entered by just playing the range. 
+Ofcourse ranges will not only occur in a straight line. This is what we need to deal with in future by studying liquidity grabs. Ranges tend to repeat. A classic example of this move is illustrated in the chart below.
+![[Pasted image 20230903125329.png|500]]
+Pay attention to how recent downward movements from the ATH has retraced back to the same range that we identified on the weekly chart. 
+
+**It is not uncommon for ranges to be retested, and for the price to return completely within the same range**
+1. This Observation should help you understand that the dump was not unexpected or somthing to be afraid of. 
+2. The dump was a result of simple price action and a rotation of price towards the mean.
+
+Having this understanding, along with the marked range and the likelihood of ranges returning to their levels, should help you navigate various market movements without fear. If a level is lost it is important to prepare for the next level. 
+## The Daily Range
+Now lets explore how we draw levels on the daily time frame. Marks on the price from which these levels have been drawn. to establish the levels, we have used the close and open prices. 
+Observe how these levels ahve remained relevant for anb extended period, even after the market dump. Take note of the number of times the price has interacted with these levels. 
+![[Pasted image 20230903130154.png]]
+
+
+
 # Trading - Level to Level
 # Deviation/False Breakdown
 # Reclaim
