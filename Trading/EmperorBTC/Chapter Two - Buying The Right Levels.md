@@ -46,7 +46,14 @@ If a large number of buyers/sellers entered a position at certain levels, these 
 
 In conclusion, both option expires and order flow charts can provide information about potential support and resistance levels. however they should be used in conjunction with other indicators.  
 # what are levels and which ones are important?
-In this section, we will introduce 
+In this section, we will introduce systematic approach to analysing charts by identifying levels. By mastering this skill, you should be able to confidently mark levels on different charts, removing uncertainty. Trading level by level is the key to overcoming fear and maximising profits.
+## The Object Tree Option In TradingView (TV)
+**This is not necessary for trading but it is a tool to conveniently organise your levels and tools**
+
+The object tree is a TV feature that allows you to manage and organise various objects and indicators. The object tree allows you to access and control different elements such as trendlines, support & resistance levels drawings, indicators, and other graphical objects, grouping specific indicators into specific groups, E.G Daily, Weekly, Monthly. 
+## Levels on Monthly chart
+
+
 # Trading - Level to Level
 # Deviation/False Breakdown
 # Reclaim
