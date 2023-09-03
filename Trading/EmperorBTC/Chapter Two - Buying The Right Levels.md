@@ -82,8 +82,19 @@ Notice how we returned to re-test the yearly open at number 2.
 During a market downturn, it can be beneficial to place small orders at these levels and anticipate increased demand when re-testing the yearly open. 
 When trading closely monitor these levels at a macro level. If Bitcoin reaches any of these levels, it should not be a cause for fear or surprise. The purpose of recognizing these levels is to be prepared to make trading decisions when they occur. 
 ## Levels on Weekly chart
-In the chart below you will see weekly levels, it's important to observe how they differ from monthly levels. To emphasise, when refering to levels we 
+In the chart below you will see weekly levels, it's important to observe how they differ from monthly levels. **To emphasise, when referring to levels we are specifically referring to the closing and opening prices.**
+![[Pasted image 20230903122221.png]]
+If you notice the levels marked above. They are marked representing a range where the market spend a significant amount of time, approximately a month. As we zoom in and analyse this chart we will gain a better understanding. 
 
+Only the closing and opening prices are marked on this chart. that is because we will need to cover the trading ranges before including high and low levels as well.
+## A Quick Review on trading Ranges
+![[Pasted image 20230903122551.png]]
+- Seek short opportunities at the highs and long opportunities at the lows of the range. 
+- Avoid assuming a range will break until it actually does.
+- Constantly applying the first two strategies will result in gains, except for one instance where you may take a wrong trade after trading the range successfully. 
+## The Weekly range
+![[Pasted image 20230903123054.png]]
+The Range displayed above is 
 # Trading - Level to Level
 # Deviation/False Breakdown
 # Reclaim
