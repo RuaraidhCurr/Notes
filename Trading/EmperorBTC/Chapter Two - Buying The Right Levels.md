@@ -59,14 +59,14 @@ Monthly charts help us understand the bigger picture.
 **We will focus on closing and opening prices as key levels. These are important levels based on time and might not necessarily be [[Chapter one - BulletProof Your Trading#Support|S]]/[[Chapter one - BulletProof Your Trading#Resistance|R]]**.
 
 **Monthly resistance**
-	The monthly linear chart helps us gauge the magnitude of the price movement and determine whether any pullbacks are within the normal range, given the overall upward trend.![[Pasted image 20230903115811.png|600]]
+	The monthly linear chart helps us gauge the magnitude of the price movement and determine whether any pullbacks are within the normal range, given the overall upward trend.![[Pasted image 20230903115811.png]]
 	The better understand how to plot the monthly levels, lets take a look at the previous cycle in the chart below. 
 	The previous all-time high (ATH) closing price is marked. 
 	Notice how 1 year later there was a re-test at the same level, followed by a breakout. Levels often get retested frequently, returning to a point where buyers previously couldn't enter. Note that after the breakout of this level at the end of 2020, the next candle crossed below the level to claim liquidity.![[Pasted image 20230903120249.png|600]] 
 	Observe the similar movement that occurred after the breakout candle went below the breakout level to claim liquidity.
 **Important**
 	1. Take note of the significant price surge from the previous all-time high (ATH). Understand that any pullback, no matter how large, is a natural part of market dynamics and not necessarily a result of manipulation or dumping. Don't assume that a pullback indicates the end of an asset or asset class. The monthly linear levels will help you anticipate various types of movements. 
-	2. Label your lines clearly to avoid confusion and maintain a clear understanding of each level. You can do this by right clicking non the link and selecting "Text" to add labels.![[Pasted image 20230903121001.png|600]]
+	2. Label your lines clearly to avoid confusion and maintain a clear understanding of each level. You can do this by right clicking non the link and selecting "Text" to add labels.![[Pasted image 20230903121001.png]]
 
 
 ## The Monthly chart
@@ -105,7 +105,7 @@ The Range displayed above is the same as the one we [[Chapter Two - Buying The R
 Notice how trading becomes much simpler when we are aware of the range. The only challenge you may encounter here is managing deviations and false breakouts, which we will address in the price action tutorials.  
 Once again it is important to assume that the range will persist indefinitely and trade both long and short position within it until it eventually breaks. Look at the number of trades we could have entered by just playing the range. 
 Ofcourse ranges will not only occur in a straight line. This is what we need to deal with in future by studying liquidity grabs. Ranges tend to repeat. A classic example of this move is illustrated in the chart below.
-![[Pasted image 20230903125329.png|500]]
+![[Pasted image 20230903125329.png]]
 Pay attention to how recent downward movements from the ATH has retraced back to the same range that we identified on the weekly chart. 
 
 **It is not uncommon for ranges to be retested, and for the price to return completely within the same range**
