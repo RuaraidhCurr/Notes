@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
+                "file": "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
+                "file": "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md"
+                "file": "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md"
               }
             }
           },
@@ -180,8 +179,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b34c4275c45bc8f6",
+  "active": "d31c7903208f398f",
   "lastOpenFiles": [
+    "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
     "Trading/Images/Pasted image 20230903131455.png",
     "Trading/Images/Pasted image 20230903131102.png",
     "Trading/Images/Pasted image 20230903130154.png",
@@ -189,11 +189,9 @@
     "Trading/Images/Pasted image 20230903123054.png",
     "Trading/Images/Pasted image 20230903121232.png",
     "Trading/Images/Pasted image 20230903122221.png",
-    "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
     "Trading/Images/Pasted image 20230903122551.png",
     "Trading/Images/Pasted image 20230903121001.png",
     "Trading/Images/Pasted image 20230903120249.png",
-    "Trading/Images/Pasted image 20230903115811.png",
     "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
     "Trading/Inner Circle Trader",
     "SalesForce/Visualforce/Model View Controller (MVC).md",
