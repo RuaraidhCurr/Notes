@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d63b8b3e35d670d",
+        "id": "40c3ff291eaf8877",
         "type": "tabs",
         "children": [
           {
-            "id": "d31c7903208f398f",
+            "id": "9ab6c1f575641608",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b34c4275c45bc8f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md"
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md"
               }
             }
           },
@@ -179,9 +166,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d31c7903208f398f",
+  "active": "9ab6c1f575641608",
   "lastOpenFiles": [
     "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
+    "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
     "Trading/Images/Pasted image 20230903131455.png",
     "Trading/Images/Pasted image 20230903131102.png",
     "Trading/Images/Pasted image 20230903130154.png",
@@ -192,7 +180,6 @@
     "Trading/Images/Pasted image 20230903122551.png",
     "Trading/Images/Pasted image 20230903121001.png",
     "Trading/Images/Pasted image 20230903120249.png",
-    "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
     "Trading/Inner Circle Trader",
     "SalesForce/Visualforce/Model View Controller (MVC).md",
     "SalesForce/Visualforce/Visualforce.md",
