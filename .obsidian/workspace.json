@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/Apex/Classes/Access Modifiers.md",
-                "mode": "preview",
+                "file": "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -48,64 +48,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "41e2d1de660c2dd7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f7fe263befaeb861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9db04b30c2ed5eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SalesForce/Apex/Invoking Apex/Apex Triggers.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2cb9b8510f39aef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64a36d982f8a4f44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SalesForce/Apex/Governor Limits.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
+                "file": "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
+                "file": "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md"
+                "file": "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md"
               }
             }
           },
@@ -252,13 +194,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f7fe263befaeb861",
+  "active": "9ab6c1f575641608",
   "lastOpenFiles": [
-    "SalesForce/Apex/Governor Limits.md",
-    "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
-    "SalesForce/Apex/Invoking Apex/Apex Triggers.md",
-    "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
     "SalesForce/Apex/Classes/Access Modifiers.md",
+    "SalesForce/Apex/Governor Limits.md",
+    "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
+    "SalesForce/Apex/Invoking Apex/Apex Triggers.md",
+    "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Future Methods.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Asynchronous Apex.md",
     "SalesForce/Apex/Invoking Apex/Anonymous Block.md",
