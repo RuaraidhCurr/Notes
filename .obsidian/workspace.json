@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7fe263befaeb861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "private",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/Apex/Classes/Access Modifiers.md",
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/Apex/Classes/Access Modifiers.md",
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/Apex/Classes/Access Modifiers.md"
+                "file": "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md"
               }
             }
           },
@@ -167,9 +180,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9ab6c1f575641608",
+  "active": "f7fe263befaeb861",
   "lastOpenFiles": [
+    "SalesForce/PD1 Notes/Approve Records with Approval Processes/Approval Process.md",
     "SalesForce/PD1 Notes/Apex Basics & Database/Getting Started with Apex.md",
+    "SalesForce/Apex/Classes/Access Modifiers.md",
     "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
     "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
     "Trading/Images/Pasted image 20230903131455.png",
@@ -211,7 +226,6 @@
     "Cloths",
     "DiskPrices.com.md",
     "Server Notes",
-    "SalesForce/PD1 Notes/Approve Records with Approval Processes/Approval Process.md",
     "SalesForce/PD1 Notes/Apex Basics & Database",
     "SalesForce/Record Triggered Automation",
     "Untitled.canvas"
