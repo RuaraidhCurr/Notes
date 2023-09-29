@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "43cf4c18673b60d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Food&Cooking/Places to eat Edinburgh.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f5d5df322ec4ea1a",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "fdaff6413e2567d3",
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
+                "file": "Food&Cooking/Places to eat Edinburgh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
+                "file": "Food&Cooking/Places to eat Edinburgh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md"
+                "file": "Food&Cooking/Places to eat Edinburgh.md"
               }
             }
           },
@@ -172,6 +184,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "ff86658df7411e6f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -194,8 +216,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9ab6c1f575641608",
+  "active": "43cf4c18673b60d0",
   "lastOpenFiles": [
+    "Food&Cooking/Cookware/Good Brands.md",
+    "Food&Cooking/Places to eat Edinburgh.md",
+    "Food&Cooking/Cookware",
+    "Food&Cooking",
     "SalesForce/Apex/Classes/Access Modifiers.md",
     "SalesForce/Apex/Governor Limits.md",
     "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
@@ -236,12 +262,8 @@
     "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Exceptions in Apex.md",
     "SalesForce/Apex/Testing, Debugging & Deploying/Debugging Apex/Debug Log.md",
     "SalesForce/Apex/Testing, Debugging & Deploying/Deploying Apex.md",
-    "SalesForce/Apex/SObjects & Objects.md",
-    "SalesForce/Apex/Data Manipulation Language (DML)/Single vs. Bulk DML Operations.md",
     "Cloths",
     "Server Notes",
-    "SalesForce/PD1 Notes/Apex Basics & Database",
-    "SalesForce/Record Triggered Automation",
     "Untitled.canvas"
   ]
 }
