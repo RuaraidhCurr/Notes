@@ -3,4 +3,14 @@ typicall price for those three products is about 1.2k
 
 AS you add "Addons" to the basket the total price of those initial items are will come down slightly. 
 
-EG 
+E## Supprt types
+Statndard or premium, they can be charged monthly or yearly
+Both contains software licences 
+
+Support licenves myst be per device (2 devices = 2 support licennces) 
+
+## Payments
+Eops now payments link:
+not portable, sits on the desk : 15/ permonth
+Pro:
+Pro+:
