@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Billing/Refunds.md",
+                "file": "Work/Epos Now/Documentation/Pricing and Propositions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Billing/Refunds.md",
+                "file": "Work/Epos Now/Documentation/Pricing and Propositions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Billing/Refunds.md",
+                "file": "Work/Epos Now/Documentation/Pricing and Propositions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Billing/Refunds.md"
+                "file": "Work/Epos Now/Documentation/Pricing and Propositions.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "b7a8a86b68c1c05d",
   "lastOpenFiles": [
-    "Work/Epos Now/Documentation/Processes/Billing/Repeat Billing.md",
     "Work/Epos Now/Documentation/Processes/Billing/Refunds.md",
+    "Work/Epos Now/Documentation/Pricing and Propositions.md",
+    "Work/Epos Now/Documentation/Processes/Billing/Repeat Billing.md",
     "Work/Epos Now/Images/Pasted image 20231025094810.png",
     "Work/Epos Now/Images/620cdf81d2478-image.png",
     "Work/Epos Now/Documentation/Processes/Sales Process.md",
@@ -223,7 +224,6 @@
     "Discretionary Trading.md",
     "Server Notes/Drives.md",
     "SalesForce/Record Triggered Automation/Record Triggered Automation.md",
-    "SalesForce/PD1 Notes/Search Solution Basics.md",
     "Untitled.canvas"
   ]
 }
