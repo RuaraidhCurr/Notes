@@ -26,4 +26,22 @@ USD 39 => USD 59
 
 ## Cancelling the Payment Premium if begin trading again:
 If the customer meets the minimum trading criteria then the payment premium will be removed/cancelled. 
-A daily scheduler is run to check for the above requirements via runs the **Mass Action: Cancel Payment Premium** that
+A daily scheduler is run to check for the above requirements via runs the **Mass Action: Cancel Payment Premium** that runs the following report "**\[MA] Payment Premiums Since Integrated**" 
+https://eposnow.my.salesforce.com/00O3X00000CNgTV
+
+## Bespoke Pricing
+We apply bespoke pricing from the "**New Payment Premium Pricing**" product for when our pricing was changed. This is to ensure existing customers prior to this change are not charged with new pricing.
+
+## Customer Emails
+Within the first 60/45 days we send the customer reminders to integrate on days **7,12,21,30 via the following mass actions:**
+- Unintegrated Payments Email Reminder (Payment Premium)
+- Unintegrated Payments Email Reminder (Care Plan)
+- Unintegrated Payments Email Reminder (Support)
+- (*For ENP all three mass actions trigger the same Payment Premium email alert "ENPayments Urgent Reminder - Payments Premium Surcharge 45 Days \[Multilingual]")
+
+If a EN payments Premium has been generated this following email will be sent informing the customer that the payment premium is starting:
+https://eposnow.my.salesforce.com/01Q7T000000CiJo 
+
+## Delaying or preventing Payment Premium
+This can be done via a contract flow:
+https://eposnow.atlassian.net/servicedesk/customer/portal/5/article/1760985186 
