@@ -12,4 +12,5 @@ On the day that payments are due, we lock records for payments at 4am, *Asperato
 
 **During this whole time period payments may be taken but not yet synced with SF**
 
-Diagram Below![[Pasted image 20231025094810.png]]
+Diagram Below:
+![[Pasted image 20231025094810.png]]
