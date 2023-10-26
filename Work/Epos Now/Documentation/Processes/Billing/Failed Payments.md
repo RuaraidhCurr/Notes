@@ -15,4 +15,15 @@ Whenever the primary subscription is resynced, the expiry in the backoffice is s
 *(number of occurrences within a given time period)*
 
 
-Sent via a series of workflows on Payment transaction. Reset day 1, day 2, day 3, day 4, day 5, day 6
+Sent via a series of workflows on Payment transaction. Resent on day 1, 2, 3, 4, 5, & 6 after failure, whilst still failed. 
+
+### Failed Payment Email (First Attempt)
+Reasons: 
+1. Transaction declined 
+	1. no reason as to why. (try again or use different payment method)
+	2. **Valid** name was not given
+	3. Start date in the future. (Enter a start date in the past)
+	4. Gateway encountered an error. (try again in a few minutes, if problem persists contact the payment receiver)
+	5. Insufficient funds in the account
+
+*To be continued. seems pointless knowing all these*
