@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/Epos Now Payments.md",
+                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/Approval Process.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/Epos Now Payments.md",
+                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/Approval Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/Epos Now Payments.md",
+                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/Approval Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/Epos Now Payments.md"
+                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/Approval Process.md"
               }
             }
           },
@@ -178,9 +178,11 @@
   },
   "active": "b7a8a86b68c1c05d",
   "lastOpenFiles": [
+    "Work/Epos Now/Documentation/Processes/Epos Now Payments/Sales Process.md",
+    "Work/Epos Now/Documentation/Processes/Epos Now Payments/Approval Process.md",
+    "Work/Epos Now/Documentation/Processes/Epos Now Payments/Epos Now Payments.md",
     "Work/Epos Now/Images/Payments Process.png",
     "Work/Epos Now/Documentation/Processes/Billing/Failed Payments.md",
-    "Work/Epos Now/Documentation/Processes/Epos Now Payments/Epos Now Payments.md",
     "Work/Epos Now/Documentation/Processes/Epos Now Payments",
     "Work/Epos Now/Documentation/Pricing and Propositions.md",
     "Work/Epos Now/Documentation/Triggers.md",
@@ -221,9 +223,7 @@
     "Trading/Images/Pasted image 20230903125329.png",
     "Trading/Images/Pasted image 20230903123054.png",
     "Trading/Images/Pasted image 20230903121232.png",
-    "Trading/Images/Pasted image 20230903122221.png",
     "Trading/Inner Circle Trader",
-    "SalesForce/Visualforce/Model View Controller (MVC).md",
     "Untitled.canvas"
   ]
 }

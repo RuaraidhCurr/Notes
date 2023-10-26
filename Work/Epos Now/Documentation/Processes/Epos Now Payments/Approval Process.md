@@ -1,0 +1,1 @@
+Lower rates might require Manager Approval which can be specified on the product records. These approvals will go to **customer success below 1%** and the **managers between 1-1.24%** who handle Payments approval. This team might come back with an alternate rate, the response can be entered on the **Reject** comments box, where any required documentation can be attached
