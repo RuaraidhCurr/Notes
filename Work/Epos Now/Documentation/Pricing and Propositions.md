@@ -1,16 +1,16 @@
 Main two products are the main terminal, printer and the handheld. 
-typicall price for those three products is about 1.2k
+typical price for those three products is about 1.2k
 
 AS you add "Addons" to the basket the total price of those initial items are will come down slightly. 
 
-E## Supprt types
-Statndard or premium, they can be charged monthly or yearly
+## Support types
+Standard or premium, they can be charged monthly or yearly
 Both contains software licences 
 
-Support licenves myst be per device (2 devices = 2 support licennces) 
+Support licences must be per device (2 devices = 2 support licences) 
 
 ## Payments
-Eops now payments link:
-not portable, sits on the desk : 15/ permonth
+Epos now payments link:
+not portable, sits on the desk : 15/month
 Pro:
 Pro+:
