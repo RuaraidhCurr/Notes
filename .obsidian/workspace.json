@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Billing/Failed Payments.md",
+                "file": "Work/Epos Now/Documentation/Triggers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Billing/Failed Payments.md",
+                "file": "Work/Epos Now/Documentation/Triggers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Billing/Failed Payments.md",
+                "file": "Work/Epos Now/Documentation/Triggers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Billing/Failed Payments.md"
+                "file": "Work/Epos Now/Documentation/Triggers.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "b7a8a86b68c1c05d",
   "lastOpenFiles": [
-    "Work/Epos Now/Documentation/Processes/Billing/Payment Premium.md",
     "Work/Epos Now/Documentation/Processes/Billing/Failed Payments.md",
+    "Work/Epos Now/Documentation/Triggers.md",
+    "Work/Epos Now/Documentation/Processes/Billing/Payment Premium.md",
     "Work/Epos Now/Documentation/Processes/Billing/Refunds.md",
     "Work/Epos Now/Documentation/Processes/Billing/Repeat Billing.md",
     "Work/Epos Now/Documentation/Pricing and Propositions.md",
@@ -223,7 +224,6 @@
     "SalesForce/Visualforce/Visualforce.md",
     "Trading/Images",
     "www.youtube.com/@MindJacked/about.md",
-    "Discretionary Trading.md",
     "Untitled.canvas"
   ]
 }
