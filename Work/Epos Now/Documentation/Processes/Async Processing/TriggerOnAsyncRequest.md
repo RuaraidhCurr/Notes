@@ -9,3 +9,4 @@ Trigger that runs before and after insertion or update of an `Async_Request__c` 
 6. For each record being inserted or updated, it checks if the `System.Label.ProcessAsyncRequests` is set to "PlatformEvents" or if the code is running in a test context and if the trigger is running before insertion of records (`beforeInsert = true`)
 	1. If the load is high and the request's priority is not 'P1' and the `System.Label.PauseAsyncs` is set to `true`, it marks the request as paused and sets the `Paused_Count__c` field to the count of paused requests.
 7. If the request is marked to use platform events and the trigger is running after insertion or update of records:
+	1. If the trigger is running after an update and the `Paused__c` field has changed from true to false, and the `Rety_attempts__c` field is null or less than or equal to 1. it
