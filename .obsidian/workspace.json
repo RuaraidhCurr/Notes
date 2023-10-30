@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/Swap it Process.md",
+                "file": "Work/Epos Now/Documentation/Processes/Intergrations/API REST Endpoints.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/Swap it Process.md",
+                "file": "Work/Epos Now/Documentation/Processes/Intergrations/API REST Endpoints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/Swap it Process.md",
+                "file": "Work/Epos Now/Documentation/Processes/Intergrations/API REST Endpoints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/Swap it Process.md"
+                "file": "Work/Epos Now/Documentation/Processes/Intergrations/API REST Endpoints.md"
               }
             }
           },
@@ -178,15 +178,17 @@
   },
   "active": "b7a8a86b68c1c05d",
   "lastOpenFiles": [
-    "Work/Epos Now/Documentation/Processes/Epos Now Payments/KYC Process.md",
+    "Work/Epos Now/Documentation/Processes/Epos Now Payments/Epos Now Payments.md",
+    "Work/Epos Now/Documentation/Processes/Intergrations/API REST Endpoints.md",
+    "Work/Epos Now/Documentation/Processes/Intergrations",
     "Work/Epos Now/Documentation/Processes/Epos Now Payments/Swap it Process.md",
+    "Work/Epos Now/Documentation/Processes/Epos Now Payments/KYC Process.md",
     "Work/Epos Now/Documentation/Processes/Epos Now Payments/Dispatch & Serials.md",
     "Work/Epos Now/Documentation/Processes/Epos Now Payments/Approval Process.md",
     "Work/Epos Now/Documentation/Triggers.md",
     "Work/Epos Now/Documentation/Pricing and Propositions.md",
     "Work/Epos Now/Documentation/Processes/Sales Process.md",
     "Work/Epos Now/Documentation/Processes/Epos Now Payments/Sales Process.md",
-    "Work/Epos Now/Documentation/Processes/Epos Now Payments/Epos Now Payments.md",
     "Work/Epos Now/Images/Payments Process.png",
     "Work/Epos Now/Documentation/Processes/Billing/Failed Payments.md",
     "Work/Epos Now/Documentation/Processes/Epos Now Payments",
@@ -216,14 +218,12 @@
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Future Methods.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Asynchronous Apex.md",
     "SalesForce/Apex/Invoking Apex/Anonymous Block.md",
-    "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Transaction Finalizers.md",
     "Trading/Images/Pasted image 20230903131455.png",
     "Trading/Images/Pasted image 20230903131102.png",
     "Trading/Images/Pasted image 20230903130154.png",
     "Trading/Images/Pasted image 20230903125329.png",
     "Trading/Images/Pasted image 20230903123054.png",
     "Trading/Images/Pasted image 20230903121232.png",
-    "Trading/Inner Circle Trader",
     "Untitled.canvas"
   ]
 }
