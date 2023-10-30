@@ -36,4 +36,22 @@ Example JSON Request Show Below:
 
 ## KYC Completion Status 
 *https://eposnow.atlassian.net/browse/PI-368*
-The same ednpoint as above (**RESTPutPaymentStatus**) can be used to confirm,
+The same ednpoint as above (**RESTPutPaymentStatus**) can be used to confirm when KYC is started or completed, setting **`KYC_Successful__c`** field on the account. KYC is only comepleted once per customer. 
+```JSON
+{  
+"CompanyGuid" : "d1a51404-c607-4294-830f-079a9149e93b",
+"KYC-started" : "2021-07-07 00:00",  
+"IsKycSuccessful" : true  
+}
+```
+### Activation & Dispatch
+When this endpoint updates the account, if the following is complete: 
+- KYC Successful
+- KYC Support Documentation is provided and Terms Accepted
+- Trigger fired to run the method to activate payment and dispatch the hardware
+(The existing subscription is updated to activate billing for the Epos Now Payment subscription for the customer. A new order is then generated to dispatch the hardware, the delivery date will be copied from the original order if this is in the future **Orders containing the Epos Now Payment System will nbot be subject to the normal 5-7 dau delay in delivery time**)
+
+## KYC Progress Tracking
+*https://eposnow.atlassian.net/browse/PI-332*
+Support rep can check the progress of a customer through the KYC process.
+![](https://lh7-us.googleusercontent.com/EIewj0_Rd6kKK8s0FqEGd0IEcWLYOyL1c_QFE9XaHVppQdYCzcBnkpYLb3ZbR4mDBAgxjKAhumu7bDwI3HvawjXyVoWCkeROyhBKpSI3V949GhH-oLK9NwNm6NnlDx92YhXj7dnHKuRee0bCbiYsfQ)On a salesforce account under the backoffice tab there is a lwcKYVProcess Lightning Web Component. This component calls the https://www.testeposnowhq.com/api/admin/Payments/GetAccountHolderInfo endpoint on load to fetch the current KYC status details in **AdyenPaymentsJSON** 
