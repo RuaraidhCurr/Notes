@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/Approval Process.md",
+                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/KYC Process.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/Approval Process.md",
+                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/KYC Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/Approval Process.md",
+                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/KYC Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/Approval Process.md"
+                "file": "Work/Epos Now/Documentation/Processes/Epos Now Payments/KYC Process.md"
               }
             }
           },
@@ -178,10 +178,11 @@
   },
   "active": "b7a8a86b68c1c05d",
   "lastOpenFiles": [
+    "Work/Epos Now/Documentation/Processes/Epos Now Payments/Approval Process.md",
+    "Work/Epos Now/Documentation/Processes/Epos Now Payments/KYC Process.md",
     "Work/Epos Now/Documentation/Triggers.md",
     "Work/Epos Now/Documentation/Pricing and Propositions.md",
     "Work/Epos Now/Documentation/Processes/Sales Process.md",
-    "Work/Epos Now/Documentation/Processes/Epos Now Payments/Approval Process.md",
     "Work/Epos Now/Documentation/Processes/Epos Now Payments/Sales Process.md",
     "Work/Epos Now/Documentation/Processes/Epos Now Payments/Epos Now Payments.md",
     "Work/Epos Now/Images/Payments Process.png",
@@ -216,7 +217,6 @@
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Transaction Finalizers.md",
     "SalesForce/Apex/Invoking Apex/Asynchronous Apex/Queueable Apex.md",
     "SalesForce/PD1 Notes/Approve Records with Approval Processes/Approval Process.md",
-    "Trading/EmperorBTC/Chapter Two - Buying The Right Levels.md",
     "Trading/Images/Pasted image 20230903131455.png",
     "Trading/Images/Pasted image 20230903131102.png",
     "Trading/Images/Pasted image 20230903130154.png",
