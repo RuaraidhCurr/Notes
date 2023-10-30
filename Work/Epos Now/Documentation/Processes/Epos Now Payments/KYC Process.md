@@ -55,3 +55,8 @@ When this endpoint updates the account, if the following is complete:
 *https://eposnow.atlassian.net/browse/PI-332*
 Support rep can check the progress of a customer through the KYC process.
 ![](https://lh7-us.googleusercontent.com/EIewj0_Rd6kKK8s0FqEGd0IEcWLYOyL1c_QFE9XaHVppQdYCzcBnkpYLb3ZbR4mDBAgxjKAhumu7bDwI3HvawjXyVoWCkeROyhBKpSI3V949GhH-oLK9NwNm6NnlDx92YhXj7dnHKuRee0bCbiYsfQ)On a salesforce account under the backoffice tab there is a lwcKYVProcess Lightning Web Component. This component calls the https://www.testeposnowhq.com/api/admin/Payments/GetAccountHolderInfo endpoint on load to fetch the current KYC status details in **AdyenPaymentsJSON** 
+
+**Type Permitted Values:**
+COMPANY_VERIFICATION, IDENTITY_VERIFICATION, PASSPORT_VERIFICATION, BANK_ACCOUNT_VERIFICATION, NONPROFIT_VERIFICATION, CARD_VERIFICATION
+**Status Permitted Values:**
+DATA_PROVIDED, PASSED, PENDING, AWAITING_DATA, RETRY_LIMIT_REACHED, INVALID_DATA, FAILED
