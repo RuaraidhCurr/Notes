@@ -31,4 +31,4 @@ Access to a specific product(service, feature or application), as well as laying
 ## SMS History
 Sent, Inbound and Outbound SMS message history records containing the content of the SMS or relevant user
 ## Usage 
-Individual account usage such as Backoffice Tenders (including how many transactions & volumes from last 28days )
+Individual account usage such as Backoffice Tenders (including how many transactions & volumes from last 28days)
