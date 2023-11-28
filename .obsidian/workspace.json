@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Async Processing/Async Request Custom Object.md",
+                "file": "Random Notes/Studies/JRE clips.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Async Processing/Async Request Custom Object.md",
+                "file": "Random Notes/Studies/JRE clips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Async Processing/Async Request Custom Object.md",
+                "file": "Random Notes/Studies/JRE clips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Epos Now/Documentation/Processes/Async Processing/Async Request Custom Object.md"
+                "file": "Random Notes/Studies/JRE clips.md"
               }
             }
           },
@@ -178,12 +178,16 @@
   },
   "active": "b7a8a86b68c1c05d",
   "lastOpenFiles": [
+    "Work/Epos Now/Documentation/Processes/Async Processing/Async Request Custom Object.md",
+    "Random Notes/Studies/JRE clips.md",
+    "Random Notes/Studies",
+    "Random Notes",
+    "Gym",
     "Work/Epos Now/Documentation/DataTable/Key Data.md",
     "Work/Epos Now/Documentation/Helper methods.md",
     "Work/Epos Now/Documentation/DataTable",
     "Work/Epos Now/Documentation/Processes/Sales Process.md",
     "Work/Epos Now/Documentation/Processes/Intergrations/API REST Endpoints.md",
-    "Work/Epos Now/Documentation/Processes/Async Processing/Async Request Custom Object.md",
     "Work/Epos Now/Documentation/Processes/Async Processing/TriggerOnAsyncAttempt.md",
     "Work/Epos Now/Documentation/Processes/Async Processing/TriggerOnAsyncRequest.md",
     "Work/Epos Now/Documentation/Processes/Async Processing",
@@ -210,14 +214,10 @@
     "Work/Epos Now/Images/Pasted image 20231025092344.png",
     "Work/Epos Now/Images",
     "Untitled.md",
-    "Work/Epos Now/Documentation",
-    "Work/Epos Now",
-    "Work",
     "Food&Cooking/Cookware/Good Brands.md",
     "Food&Cooking/Places to eat Edinburgh.md",
     "SalesForce/Apex/Classes/Access Modifiers.md",
     "SalesForce/Apex/Governor Limits.md",
-    "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
     "Trading/Images/Pasted image 20230903131455.png",
     "Trading/Images/Pasted image 20230903131102.png",
     "Trading/Images/Pasted image 20230903130154.png",
