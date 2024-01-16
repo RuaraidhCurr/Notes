@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
+                "file": "Work/Epos Now/Projects/Billing 2.0/Initial project Summary.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
+                "file": "Work/Epos Now/Projects/Billing 2.0/Initial project Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
+                "file": "Work/Epos Now/Projects/Billing 2.0/Initial project Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md"
+                "file": "Work/Epos Now/Projects/Billing 2.0/Initial project Summary.md"
               }
             }
           },
@@ -178,6 +178,15 @@
   },
   "active": "b7a8a86b68c1c05d",
   "lastOpenFiles": [
+    "Work/Epos Now/Images/Payments Process.png",
+    "Work/Epos Now/Images/Pasted image 20231025094810.png",
+    "Work/Epos Now/Images/Pasted image 20231025092344.png",
+    "Work/Epos Now/Images/620cdf81d2478-image.png",
+    "Work/Epos Now/Projects/Billing 2.0/Initial project Summary.md",
+    "Work/Epos Now/Documentation/Processes/Intergrations/API REST Endpoints.md",
+    "SalesForce/Apex/SOQL & SOSL/SOQL & SOSL Queries.md",
+    "Work/Epos Now/Projects/Billing 2.0",
+    "Work/Epos Now/Projects",
     "Random Notes/Studies/JRE clips.md",
     "Work/Epos Now/Documentation/Processes/Async Processing/Async Request Custom Object.md",
     "Random Notes/Studies",
@@ -187,7 +196,6 @@
     "Work/Epos Now/Documentation/Helper methods.md",
     "Work/Epos Now/Documentation/DataTable",
     "Work/Epos Now/Documentation/Processes/Sales Process.md",
-    "Work/Epos Now/Documentation/Processes/Intergrations/API REST Endpoints.md",
     "Work/Epos Now/Documentation/Processes/Async Processing/TriggerOnAsyncAttempt.md",
     "Work/Epos Now/Documentation/Processes/Async Processing/TriggerOnAsyncRequest.md",
     "Work/Epos Now/Documentation/Processes/Async Processing",
@@ -200,24 +208,15 @@
     "Work/Epos Now/Documentation/Triggers.md",
     "Work/Epos Now/Documentation/Pricing and Propositions.md",
     "Work/Epos Now/Documentation/Processes/Epos Now Payments/Sales Process.md",
-    "Work/Epos Now/Images/Payments Process.png",
     "Work/Epos Now/Documentation/Processes/Billing/Failed Payments.md",
     "Work/Epos Now/Documentation/Processes/Epos Now Payments",
     "Work/Epos Now/Documentation/Processes/Billing/Payment Premium.md",
     "Work/Epos Now/Documentation/Processes/Billing/Refunds.md",
     "Work/Epos Now/Documentation/Processes/Billing/Repeat Billing.md",
-    "Work/Epos Now/Images/Pasted image 20231025094810.png",
-    "Work/Epos Now/Images/620cdf81d2478-image.png",
     "Work/Epos Now/Documentation/Processes/Billing",
-    "Work/Epos Now/Documentation/Processes",
     "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
-    "Work/Epos Now/Images/Pasted image 20231025092344.png",
-    "Work/Epos Now/Images",
     "Untitled.md",
     "Food&Cooking/Cookware/Good Brands.md",
-    "Food&Cooking/Places to eat Edinburgh.md",
-    "SalesForce/Apex/Classes/Access Modifiers.md",
-    "SalesForce/Apex/Governor Limits.md",
     "Trading/Images/Pasted image 20230903131455.png",
     "Trading/Images/Pasted image 20230903131102.png",
     "Trading/Images/Pasted image 20230903130154.png",
