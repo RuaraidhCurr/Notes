@@ -10,5 +10,3 @@ Follow the support desk stylings.
 1. select which piece of hardware you want (pulled from bundles)
 2. select the plan
 3. Select add ones
-   
-123456
