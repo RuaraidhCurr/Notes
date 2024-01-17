@@ -26,4 +26,4 @@ User timeline
 4. **Screen 4**
 	1. Payment opens inside the Opp 
 
-#### New screen for additional devices 
+#### New screen for additional devices
