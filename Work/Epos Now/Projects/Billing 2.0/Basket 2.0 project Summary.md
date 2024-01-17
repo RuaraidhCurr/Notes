@@ -10,3 +10,20 @@ Follow the support desk stylings.
 1. select which piece of hardware you want (pulled from bundles)
 2. select the plan
 3. Select add ones
+
+
+## Meeting 2
+
+User timeline 
+
+1. **Screen 1**
+	1. User selects what the Plan (bundles) e.g. Counter top, handheld, etc...
+	2. Select which product on that plan they want to choose 
+2. **Screen 2**
+	1. Select the plan (protect now, Payments)
+3. **Screen 3**
+	1. Select the term, percentage rate 
+4. **Screen 4**
+	1. Payment opens inside the Opp 
+
+#### New screen for additional devices 

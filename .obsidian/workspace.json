@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23e3730f38a6a2d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Epos Now/Projects/Billing 2.0/Basket 2.0 project Summary.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +166,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -176,7 +192,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b7a8a86b68c1c05d",
+  "active": "23e3730f38a6a2d9",
   "lastOpenFiles": [
     "Work/Epos Now/Images/Payments Process.png",
     "Work/Epos Now/Images/Pasted image 20231025094810.png",
