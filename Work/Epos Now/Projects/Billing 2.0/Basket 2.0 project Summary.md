@@ -27,3 +27,9 @@ User timeline
 	1. Payment opens inside the Opp 
 
 #### New screen for additional devices
+
+
+
+
+## Current getAllProducts SOQL
+![[Pasted image 20240122084938.png]]
