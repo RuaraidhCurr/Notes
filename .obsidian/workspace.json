@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Epos Now/Projects/Billing 2.0/Basket 2.0 project Summary.md",
+                "file": "Work/Epos Now/Projects/Billing 2.0/Questions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Epos Now/Projects/Billing 2.0/Basket 2.0 project Summary.md",
+                "file": "Work/Epos Now/Projects/Billing 2.0/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Epos Now/Projects/Billing 2.0/Basket 2.0 project Summary.md",
+                "file": "Work/Epos Now/Projects/Billing 2.0/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Epos Now/Projects/Billing 2.0/Basket 2.0 project Summary.md"
+                "file": "Work/Epos Now/Projects/Billing 2.0/Questions.md"
               }
             }
           },
@@ -178,12 +178,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "84f09f82255e9603",
+  "active": "b7a8a86b68c1c05d",
   "lastOpenFiles": [
+    "Work/Epos Now/Projects/Billing 2.0/Basket 2.0 project Summary.md",
     "Work/Epos Now/Projects/Billing 2.0/Images",
     "Work/Epos Now/Projects/Billing 2.0/Images/Pasted image 20240122084938.png",
     "Work/Epos Now/Projects/Billing 2.0/Questions.md",
-    "Work/Epos Now/Projects/Billing 2.0/Basket 2.0 project Summary.md",
     "Work/Epos Now/Images/Payments Process.png",
     "Work/Epos Now/Images/Pasted image 20231025094810.png",
     "Work/Epos Now/Images/Pasted image 20231025092344.png",
@@ -218,7 +218,6 @@
     "Work/Epos Now/Documentation/Processes/Billing/Payment Premium.md",
     "Work/Epos Now/Documentation/Processes/Billing/Refunds.md",
     "Work/Epos Now/Documentation/Processes/Billing/Repeat Billing.md",
-    "Work/Epos Now/Documentation/Processes/Billing",
     "Trading/EmperorBTC/Chapter one - BulletProof Your Trading.md",
     "Untitled.md",
     "Trading/Images/Pasted image 20230903131455.png",
