@@ -5,4 +5,5 @@
 4. Creating a google form with relevant field ID's to allow for the automatic population of some fields. create a link that will auto populate these fields from Salesforce
 	1. How do we want this to pop-up? should there be a button that is used to change the status of the meeting to "Complete" and would then force the user through a flow which would take them to the google form? if we want to force the user to complete a form I think we'd need to make the status field is un-editable on these record types? 
 5. Setting up & creating a new "Cadence" for the account management
-	1. 
+	1. I don't have access to Salesforce engage so will need to get Tom to give me access to it to create new cadences
+6. 
