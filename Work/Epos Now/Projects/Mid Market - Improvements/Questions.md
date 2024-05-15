@@ -6,4 +6,7 @@
 	1. How do we want this to pop-up? should there be a button that is used to change the status of the meeting to "Complete" and would then force the user through a flow which would take them to the google form? if we want to force the user to complete a form I think we'd need to make the status field is un-editable on these record types? 
 5. Setting up & creating a new "Cadence" for the account management
 	1. I don't have access to Salesforce engage so will need to get Tom to give me access to it to create new cadences
-6. 
+6. All the tasks & events for accounts that are assigned to "Account Managers" (AM) can be created using flows
+7. Training on Salesforce Engagement (Cadences) can be found on [Trailhead](https://trailhead.salesforce.com/content/learn/modules/high-velocity-sales) 
+8. Training and the Utility on Einstein can be found on [Trailhead](https://trailhead.salesforce.com/content/learn/modules/get_smart_einstein_feat)
+9. 
