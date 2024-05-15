@@ -7,6 +7,6 @@
 5. Setting up & creating a new "Cadence" for the account management
 	1. I don't have access to Salesforce engage so will need to get Tom to give me access to it to create new cadences
 6. All the tasks & events for accounts that are assigned to "Account Managers" (AM) can be created using flows
-7. Training on Salesforce Engagement (Cadences) can be found on [Trailhead](https://trailhead.salesforce.com/content/learn/modules/high-velocity-sales) 
+7. Training on Salesforce Engagement (Cadences) can be found on [Trailhead](https://trailhead.salesforce.com/content/learn/modules/high-velocity-sales)
 8. Training and the Utility on Einstein can be found on [Trailhead](https://trailhead.salesforce.com/content/learn/modules/get_smart_einstein_feat)
-9.  
+9. 
