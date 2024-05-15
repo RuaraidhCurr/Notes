@@ -1,4 +1,5 @@
 1. Creating a new app and adding custom widgets seems pretty straight forward. will just need to create a new app and potentially new reports for the widgets. Giving access to this app to the users with the "corporate account manager" profile
 	1. Is the corporate account manager profile the one that we're wanting to give all these mid market improvements too or is there potentially other profiles that are wanting this as well?
-2. Check and see the permission sets that gives people in Sales access to create tasks, events, opps
-3. Adding new event types for “monthly account review”, “quarterly business review” and “annual business review” is pretty straight forward 
+2. Check and see the permission sets that gives people in Sales access to create tasks, events & opps then assign these permission sets to the "corporate account manager" profile
+3. Adding new event types (Record types) for “monthly account review”, “quarterly business review” and “annual business review”. 
+4. Creating a google form with relevant field ID's to allow for the automatic population of some fields. create a link that will autopopulate these fields from Salesforce
