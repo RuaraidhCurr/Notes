@@ -2,4 +2,7 @@
 	1. Is the corporate account manager profile the one that we're wanting to give all these mid market improvements too or is there potentially other profiles that are wanting this as well?
 2. Check and see the permission sets that gives people in Sales access to create tasks, events & opps then assign these permission sets to the "corporate account manager" profile
 3. Adding new event types (Record types) for “monthly account review”, “quarterly business review” and “annual business review”. 
-4. Creating a google form with relevant field ID's to allow for the automatic population of some fields. create a link that will autopopulate these fields from Salesforce
+4. Creating a google form with relevant field ID's to allow for the automatic population of some fields. create a link that will auto populate these fields from Salesforce
+	1. How do we want this to pop-up? should there be a button that is used to change the status of the meeting to "Complete" and would then force the user through a flow which would take them to the google form? if we want to force the user to complete a form I think we'd need to make the status field is un-editable on these record types? 
+5. Setting up & creating a new "Cadence" for the account management
+	1. 
