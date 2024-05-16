@@ -24,9 +24,9 @@
  - Create tasks, events, opportunities etc
  - Need to be able to add events
   - New event types 
-	  -  [ ] Monthly Account Review
-	  -  [ ] Quarterly Business Review
-	  -  [ ] Annual Business Review
+	  -  [x] Monthly Account Review
+	  -  [x] Quarterly Business Review
+	  -  [x] Annual Business Review
 
 #### 4. New event form to be created for every time a QBR and ABR are completed, will click create event as above and will automatically open a branded google form/ equivalent which auto populates the account name, account number, meeting contact name and month which will have the following fields as headings so that the team can fill in and when completed can be downloaded and then sent to client
  - Review of Previous Quarter (free text)
