@@ -5,14 +5,14 @@
 
 # Project specifications: 
 #### 1. New AM Team App (Mid - Market Account Manager) with a dedicated Home page customised to the User, with following widgets
- -  [ ] Close deals
+ -  [ ] Close deals - open opps (possibly ask to confirm)
  -  [ ] Plan My Accounts
  -  [ ] Grow Relationships
- -  [ ] Build Pipeline
+ -  [ ] Build Pipeline (potentially new leads)
  -  [x] Open tasks
  -  [x] Overdue tasks
  -  [x] Today’s events 
- -  [ ] Current qtr performance
+ -  [ ] Current qtr performance (closed opps in the current quarter)
  -  [ ] Sales / NDR / Meetings attended
 
 #### 2. This needs to be for all users with the “corporate account manager profile” currently the people in my team are as follows (we will have new team in APAC and USA but all will follow)
