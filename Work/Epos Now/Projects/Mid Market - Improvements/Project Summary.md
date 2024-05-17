@@ -5,10 +5,10 @@
 
 # Project specifications: 
 #### 1. New AM Team App (Mid - Market Account Manager) with a dedicated Home page customised to the User, with following widgets
- -  [ ] Close deals - open opps (possibly ask to confirm)
+ -  [x] Close deals - open opps (possibly ask to confirm)
  -  [ ] Plan My Accounts
  -  [ ] Grow Relationships
- -  [ ] Build Pipeline (potentially new leads)
+ -  [x] Build Pipeline (potentially new leads)
  -  [x] Open tasks
  -  [x] Overdue tasks
  -  [x] Today’s events 
