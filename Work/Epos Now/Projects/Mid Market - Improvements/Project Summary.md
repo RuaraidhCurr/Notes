@@ -7,7 +7,7 @@
 #### 1. New AM Team App (Mid - Market Account Manager) with a dedicated Home page customised to the User, with following widgets
  -  [x] Close deals - open opps (possibly ask to confirm)
  -  [ ] Plan My Accounts
- -  [ ] Grow Relationships
+ -  [x] Grow Relationships
  -  [x] Build Pipeline (potentially new leads)
  -  [x] Open tasks
  -  [x] Overdue tasks
