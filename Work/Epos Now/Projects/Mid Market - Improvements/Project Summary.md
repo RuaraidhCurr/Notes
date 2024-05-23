@@ -37,7 +37,7 @@
  - [x] Account Health (free text)
  - [x] Risk Assessment (tick box - Red, Amber, Green)
  - [x] Opportunities for Growth:
- - [ ] Action Plan for Next Quarter
+ - [x] Action Plan for Next Quarter
 
 #### 5. We need to add the Miro account management cadence into SF https://miro.com/app/board/uXjVKQJdo4c=/Connect
 
