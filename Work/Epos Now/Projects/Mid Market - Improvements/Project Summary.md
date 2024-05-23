@@ -29,15 +29,15 @@
 	  -  [x] Annual Business Review
 
 #### 4. New event form to be created for every time a QBR and ABR are completed, will click create event as above and will automatically open a branded google form/ equivalent which auto populates the account name, account number, meeting contact name and month which will have the following fields as headings so that the team can fill in and when completed can be downloaded and then sent to client
- - Review of Previous Quarter (free text)
-	 - QTD and YTD columns
- - Customer Performance Metrics (free text)
- - Customer Feedback and Satisfaction (free text)
- - Strategic Initiatives and Goal (free text)
- - Account Health (free text)
- - Risk Assessment (tick box - Red, Amber, Green)
- - Opportunities for Growth:
- - Action Plan for Next Quarter
+ - [x] Review of Previous Quarter (free text)
+	 - [ ] QTD and YTD columns
+ - [x] Customer Performance Metrics (free text)
+ - [x] Customer Feedback and Satisfaction (free text)
+ - [x] Strategic Initiatives and Goal (free text)
+ - [x] Account Health (free text)
+ - [x] Risk Assessment (tick box - Red, Amber, Green)
+ - [x] Opportunities for Growth:
+ - [ ] Action Plan for Next Quarter
 
 #### 5. We need to add the Miro account management cadence into SF https://miro.com/app/board/uXjVKQJdo4c=/Connect
 
