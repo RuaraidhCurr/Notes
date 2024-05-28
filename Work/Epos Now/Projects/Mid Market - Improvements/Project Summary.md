@@ -13,7 +13,7 @@
  -  [x] Overdue tasks
  -  [x] Today’s events 
  -  [x] Current qtr performance (closed opps in the current quarter)
- -  [ ] Sales / NDR / Meetings attended
+ -  [x] Sales / NDR / Meetings attended
 
 #### 2. This needs to be for all users with the “corporate account manager profile” currently the people in my team are as follows (we will have new team in APAC and USA but all will follow)
  - Adam Boast
