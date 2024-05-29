@@ -48,6 +48,7 @@
 	 - [ ] Add a task to these 
 	 - [ ] add a manual drop down on account to show the flags and the Risk Rating
  - [ ] Any opportunities with no contact for 30 days to have an overdue contact flag added to make contact (cant be removed until completed) - need this for Matt Smith too and for his leads
+	 - [ ] Add in event for 
  - [ ] Any accounts with no QBR in previous 90 days to have an overdue contact flag added to make contact (cant be removed until completed)
 
 #### 7. I Access & Training on how to use Sales Engage Cadences (separate to above)
