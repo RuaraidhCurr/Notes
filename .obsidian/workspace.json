@@ -97,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 200
   },
   "right": {
     "id": "fdaff6413e2567d3",
@@ -205,7 +205,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2c8c670a7d2d29b9",
+  "active": "84f09f82255e9603",
   "lastOpenFiles": [
     "Work/Epos Now/Projects/Mid Market - Improvements/Roadmap.md",
     "Work/Epos Now/Projects/Mid Market - Improvements/Project Summary.md",
