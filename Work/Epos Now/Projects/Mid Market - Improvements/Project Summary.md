@@ -45,6 +45,8 @@
  - [x] Monthly Meeting at beginning of month auto populated as an open task
  - [x] AM can then move the date when booked in and also the type (monthly, quarterly, yearly)
  - [ ] Any accounts with no contact in previous 30 days to have an overdue contact flag added to make contact (cant be removed until completed)
+	 - [ ] Add a task to these 
+	 - [ ] add a manual drop down on account to show the flags and the Risk Rating
  - [ ] Any opportunities with no contact for 30 days to have an overdue contact flag added to make contact (cant be removed until completed) - need this for Matt Smith too and for his leads
  - [ ] Any accounts with no QBR in previous 90 days to have an overdue contact flag added to make contact (cant be removed until completed)
 
