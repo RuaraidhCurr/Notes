@@ -16,9 +16,9 @@
  -  [x] Sales / NDR / Meetings attended
 
 #### 2. This needs to be for all users with the “corporate account manager profile” currently the people in my team are as follows (we will have new team in APAC and USA but all will follow)
- - Adam Boast
- - Paul Beck
- - Charles Holgate
+ -  [x] Adam Boast
+ -  [x] Paul Beck
+ -  [x] Charles Holgate
 
 #### 3. **They will need to have the same credentials as sales in SF to manage all aspects of the customer cycle**
  - Create tasks, events, opportunities etc
